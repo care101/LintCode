@@ -1,4 +1,4 @@
-package string;
+package org.likexin.string;
 
 /**
  * http://www.lintcode.com/problem/strstrII
