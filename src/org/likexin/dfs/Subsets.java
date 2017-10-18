@@ -10,6 +10,12 @@ import java.util.List;
  */
 public class Subsets {
 
+    /**
+     * 一般来说，题目要求找所有可能的结果，优先考虑使用深度优先搜索。
+     *
+     * @param nums 目标数组
+     * @return 所有子集
+     */
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> results = new ArrayList<>();
         List<Integer> list = new ArrayList<>();
