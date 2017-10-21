@@ -23,9 +23,9 @@ public class FindMin {
         int number = nums[end];
         while (start + 1 < end) {
             int mid = start + (end - start) / 2;
-            if (nums[mid] > number) {
+            if (nums[mid] > number) { // 左边有序
                 start = mid;
-            } else if (nums[mid] < nums[start]) {
+            } else if (nums[mid] < nums[start]) { // 右边有序
                 end = mid;
             } else {
                 end = mid;
