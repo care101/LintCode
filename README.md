@@ -11,4 +11,4 @@ Algorithm written by Java
 
 ## Binary Search
 - Find Minimum in Rotated Sorted Array
-- ![Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)
+- [Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)
