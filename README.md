@@ -13,3 +13,4 @@ Algorithm written by Java
 - [Find Minimum in Rotated Sorted Array](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)
 - [Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)
 - [Find Peak Element](http://www.lintcode.com/en/problem/find-peak-element/)
+- [First Bad Version](http://www.lintcode.com/en/problem/first-bad-version/)
