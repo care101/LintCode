@@ -37,7 +37,7 @@ public class SubsetsII {
     private void helper(int[] nums, int offset, List<Integer> subset, List<List<Integer>> results) {
         results.add(new ArrayList<>(subset));
         for (int i = offset; i < nums.length; i++) {
-            // TODO 判断 i != offset 的原因是
+            // 判断 i != offset 是为了判断当前这个数有没有被挑选过。当当前这个数没有被挑选过并且它和前一个数相等，那么就continue掉。
             if (i != offset && nums[i] == nums[i - 1]) {
                 continue;
             }
