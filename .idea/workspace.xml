@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9762055e-d8fa-4919-9011-a39873272948" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/likexin/binarysearch/FindFirstBadVersion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/likexin/binarysearch/BinarySearch总结.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/likexin/binarysearch/Search2DMatrix.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -16,12 +17,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="360">
-                <caret line="15" column="76" lean-forward="true" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="76" />
+              <first_editor relative-caret-position="384">
+                <caret line="16" column="78" lean-forward="true" selection-start-line="16" selection-start-column="78" selection-end-line="16" selection-end-column="78" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -29,25 +30,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubsetsII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/likexin/dfs/SubsetsII.java">
+      <file leaf-file-name="Search2DMatrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/Search2DMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="1512">
+              <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindFirstBadVersion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/FindFirstBadVersion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="56" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="56" />
-              <folding>
-                <element signature="e#884#885#0" expanded="true" />
-                <element signature="e#911#912#0" expanded="true" />
-              </folding>
+      <file leaf-file-name="BinarySearch总结.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/BinarySearch总结.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="480">
+                <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -89,6 +90,8 @@
         <option value="$PROJECT_DIR$/src/org/likexin/dfs/SubsetsII.java" />
         <option value="$PROJECT_DIR$/src/org/likexin/binarysearch/FindFirstBadVersion.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/org/likexin/binarysearch/BinarySearch总结.md" />
+        <option value="$PROJECT_DIR$/src/org/likexin/binarysearch/Search2DMatrix.java" />
       </list>
     </option>
   </component>
@@ -163,14 +166,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="likexin" type="462c0819:PsiDirectoryNode" />
               <item name="binarysearch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgsProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgsProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="likexin" type="462c0819:PsiDirectoryNode" />
-              <item name="binarysearch" type="462c0819:PsiDirectoryNode" />
-              <item name="FindFirstBadVersion.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="AlgsProject" type="b2602c69:ProjectViewProjectNode" />
@@ -422,12 +417,12 @@
       <updated>1508161426674</updated>
       <workItem from="1508161428058" duration="8557000" />
       <workItem from="1508507482398" duration="524000" />
-      <workItem from="1508593096122" duration="4930000" />
+      <workItem from="1508593096122" duration="7970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14011000" />
+    <option name="totallyTimeSpent" value="17051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="2560" height="1338" extended-state="0" />
@@ -608,11 +603,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/FindMin.java">
+    <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/FindFirstBadVersion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -624,22 +622,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/FindFirstBadVersion.java">
+    <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/FindMin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="3" column="56" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="56" />
-          <folding>
-            <element signature="e#884#885#0" expanded="true" />
-            <element signature="e#911#912#0" expanded="true" />
-          </folding>
+          <caret line="3" column="4" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="15" column="76" lean-forward="true" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="76" />
+          <first_editor relative-caret-position="384">
+            <caret line="16" column="78" lean-forward="true" selection-start-line="16" selection-start-column="78" selection-end-line="16" selection-end-column="78" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/Search2DMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/BinarySearch总结.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="480">
+            <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

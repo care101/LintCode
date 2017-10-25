@@ -14,3 +14,4 @@ Algorithm written by Java
 - [Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)
 - [Find Peak Element](http://www.lintcode.com/en/problem/find-peak-element/)
 - [First Bad Version](http://www.lintcode.com/en/problem/first-bad-version/)
+- [Search a 2D Matrix](http://www.lintcode.com/en/problem/search-a-2d-matrix/)
