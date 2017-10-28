@@ -16,3 +16,4 @@ Algorithm written by Java
 - [First Bad Version](http://www.lintcode.com/en/problem/first-bad-version/)
 - [Search a 2D Matrix](http://www.lintcode.com/en/problem/search-a-2d-matrix/)
 - [Search a 2D Matrix II](http://www.lintcode.com/en/problem/search-a-2d-matrix-ii/)
+- [Closest Number in Sorted Array](http://www.lintcode.com/en/problem/closest-number-in-sorted-array/)
