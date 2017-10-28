@@ -20,3 +20,4 @@ Algorithm written by Java
 - [Last Position of Target](http://www.lintcode.com/en/problem/last-position-of-target/)
 - [First Position of Target](http://www.lintcode.com/problem/first-position-of-target)
 - [Maximum Number in Mountain Sequence](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)
+- [Search in a Big Sorted Array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)
