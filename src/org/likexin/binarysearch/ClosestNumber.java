@@ -10,7 +10,7 @@ public class ClosestNumber {
     /**
      * 典型二分法模版，如果目标元素不存在于目标数组中，则判断start与end停留的位置。
      *
-     * @param A 目标数组
+     * @param A 目标数组(已排好序)
      * @param target 目标元素
      * @return 目标数组中离目标元素最近的索引
      */
