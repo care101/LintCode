@@ -18,3 +18,4 @@ Algorithm written by Java
 - [Search a 2D Matrix II](http://www.lintcode.com/en/problem/search-a-2d-matrix-ii/)
 - [Closest Number in Sorted Array](http://www.lintcode.com/en/problem/closest-number-in-sorted-array/)
 - [Last Position of Target](http://www.lintcode.com/en/problem/last-position-of-target/)
+- [First Position of Target](http://www.lintcode.com/problem/first-position-of-target)
