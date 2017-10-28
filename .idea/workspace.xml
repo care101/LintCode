@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9762055e-d8fa-4919-9011-a39873272948" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/likexin/binarysearch/ClosestNumber.java" afterPath="$PROJECT_DIR$/src/org/likexin/binarysearch/ClosestNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/likexin/binarysearch/LastPosition.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgsProject/org/likexin/binarysearch/CloestNumber.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="48">
-                <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <first_editor relative-caret-position="456">
+                <caret line="19" column="88" lean-forward="true" selection-start-line="19" selection-start-column="88" selection-end-line="19" selection-end-column="88" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -27,21 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClosestNumber.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/ClosestNumber.java">
+      <file leaf-file-name="LastPosition.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/LastPosition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindMin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/FindMin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="4" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="192">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -100,9 +93,10 @@
         <option value="$PROJECT_DIR$/src/org/likexin/binarysearch/Search2DMatrix.java" />
         <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
         <option value="$PROJECT_DIR$/src/org/likexin/binarysearch/Search2DmatrixII.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/org/likexin/binarysearch/CloestNumber.java" />
         <option value="$PROJECT_DIR$/src/org/likexin/binarysearch/ClosestNumber.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/org/likexin/binarysearch/LastPosition.java" />
       </list>
     </option>
   </component>
@@ -225,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClosestNumber">
+  <component name="RunManager" selected="Application.LastPosition">
     <configuration name="ClosestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -264,14 +258,14 @@
       <module name="AlgsProject" />
       <envs />
     </configuration>
-    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LastPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="org.likexin.binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.likexin.binarysearch.Search" />
+      <option name="MAIN_CLASS_NAME" value="org.likexin.binarysearch.LastPosition" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -403,19 +397,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Search" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FindPeak" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Search2DmatrixII" />
-      <item index="3" class="java.lang.String" itemvalue="Application.StrStr" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ClosestNumber" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FindPeak" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Search2DmatrixII" />
+      <item index="2" class="java.lang.String" itemvalue="Application.StrStr" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ClosestNumber" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LastPosition" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ClosestNumber" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Search2DmatrixII" />
-        <item index="2" class="java.lang.String" itemvalue="Application.StrStr" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FindPeak" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Search" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LastPosition" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ClosestNumber" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Search2DmatrixII" />
+        <item index="3" class="java.lang.String" itemvalue="Application.StrStr" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FindPeak" />
       </list>
     </recent_temporary>
   </component>
@@ -432,12 +426,12 @@
       <workItem from="1508161428058" duration="8557000" />
       <workItem from="1508507482398" duration="524000" />
       <workItem from="1508593096122" duration="8983000" />
-      <workItem from="1509115411980" duration="3240000" />
+      <workItem from="1509115411980" duration="4056000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21304000" />
+    <option name="totallyTimeSpent" value="22120000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="2560" height="1338" extended-state="0" />
@@ -714,21 +708,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/ClosestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="48">
-            <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <first_editor relative-caret-position="456">
+            <caret line="19" column="88" lean-forward="true" selection-start-line="19" selection-start-column="88" selection-end-line="19" selection-end-column="88" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/ClosestNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/LastPosition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="192">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
