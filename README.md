@@ -19,3 +19,4 @@ Algorithm written by Java
 - [Closest Number in Sorted Array](http://www.lintcode.com/en/problem/closest-number-in-sorted-array/)
 - [Last Position of Target](http://www.lintcode.com/en/problem/last-position-of-target/)
 - [First Position of Target](http://www.lintcode.com/problem/first-position-of-target)
+- [Maximum Number in Mountain Sequence](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)
