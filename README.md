@@ -23,3 +23,4 @@ Algorithm written by Java
 - [Search in a Big Sorted Array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)
 - [Total Occurrence of Target](http://www.lintcode.com/en/problem/total-occurrence-of-target/)
 - [Drop Eggs](http://www.lintcode.com/en/problem/drop-eggs/)：[reference](http://www.cnblogs.com/grandyang/p/4762756.html)
+- [K Closest Numbers In Sorted Array](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)
