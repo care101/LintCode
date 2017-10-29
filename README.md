@@ -22,3 +22,4 @@ Algorithm written by Java
 - [Maximum Number in Mountain Sequence](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)
 - [Search in a Big Sorted Array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)
 - [Total Occurrence of Target](http://www.lintcode.com/en/problem/total-occurrence-of-target/)
+- [Drop Eggs](http://www.lintcode.com/en/problem/drop-eggs/)：[reference](http://www.cnblogs.com/grandyang/p/4762756.html)
