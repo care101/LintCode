@@ -25,3 +25,4 @@ Algorithm written by Java
 - [Drop Eggs](http://www.lintcode.com/en/problem/drop-eggs/)：[reference](http://www.cnblogs.com/grandyang/p/4762756.html)
 - [K Closest Numbers In Sorted Array](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)
 - [Divide Two Integers](http://www.lintcode.com/en/problem/divide-two-integers/)：[reference](http://blog.csdn.net/linhuanmars/article/details/20024907#reply)
+- [Search for a Range](http://www.lintcode.com/en/problem/search-for-a-range/)
