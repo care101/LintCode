@@ -27,3 +27,4 @@ Algorithm written by Java
 - [Divide Two Integers](http://www.lintcode.com/en/problem/divide-two-integers/)：[reference](http://blog.csdn.net/linhuanmars/article/details/20024907#reply)
 - [Search for a Range](http://www.lintcode.com/en/problem/search-for-a-range/)
 - [Smallest Rectangle Enclosing Black Pixels](http://www.lintcode.com/en/problem/smallest-rectangle-enclosing-black-pixels/)
+- [Sqrt(x)](http://www.lintcode.com/en/problem/sqrtx/)
