@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9762055e-d8fa-4919-9011-a39873272948" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/likexin/binarysearch/SqrtII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,12 +19,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="720">
-                <caret line="30" column="97" lean-forward="false" selection-start-line="30" selection-start-column="97" selection-end-line="30" selection-end-column="97" />
+              <first_editor relative-caret-position="744">
+                <caret line="31" column="60" lean-forward="false" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -46,8 +48,32 @@
       <file leaf-file-name="MaxAverage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/MaxAverage.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1368">
+              <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SqrtII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/SqrtII.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="12" column="78" lean-forward="false" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+              <caret line="12" column="51" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+              <folding>
+                <element signature="e#889#890#0" expanded="true" />
+                <element signature="e#947#948#0" expanded="true" />
+                <marker date="1509547508000" expanded="true" signature="477:524" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sqrt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/Sqrt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -108,6 +134,7 @@
         <option value="$PROJECT_DIR$/src/org/likexin/binarysearch/Sqrt.java" />
         <option value="$PROJECT_DIR$/src/org/likexin/binarysearch/MaxAverage.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/org/likexin/binarysearch/SqrtII.java" />
       </list>
     </option>
   </component>
@@ -230,7 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxAverage">
+  <component name="RunManager" selected="Application.SqrtII">
     <configuration name="DivideTwoIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -307,14 +334,14 @@
       <module name="AlgsProject" />
       <envs />
     </configuration>
-    <configuration name="TotalOccurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SqrtII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="org.likexin.binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.likexin.binarysearch.TotalOccurrence" />
+      <option name="MAIN_CLASS_NAME" value="org.likexin.binarysearch.SqrtII" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -408,19 +435,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TotalOccurrence" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DropEggs" />
-      <item index="2" class="java.lang.String" itemvalue="Application.KClosestNumber" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DivideTwoIntegers" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MaxAverage" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DropEggs" />
+      <item index="1" class="java.lang.String" itemvalue="Application.KClosestNumber" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DivideTwoIntegers" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MaxAverage" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SqrtII" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MaxAverage" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DivideTwoIntegers" />
-        <item index="2" class="java.lang.String" itemvalue="Application.KClosestNumber" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DropEggs" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TotalOccurrence" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SqrtII" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MaxAverage" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DivideTwoIntegers" />
+        <item index="3" class="java.lang.String" itemvalue="Application.KClosestNumber" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DropEggs" />
       </list>
     </recent_temporary>
   </component>
@@ -437,12 +464,12 @@
       <workItem from="1508161428058" duration="8557000" />
       <workItem from="1508507482398" duration="524000" />
       <workItem from="1508593096122" duration="8983000" />
-      <workItem from="1509115411980" duration="27188000" />
+      <workItem from="1509115411980" duration="28994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45252000" />
+    <option name="totallyTimeSpent" value="47058000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="2560" height="1338" extended-state="0" />
@@ -497,9 +524,13 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="28" />
+      <option name="time" value="30" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="mid * mid" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -822,14 +853,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/DropEggs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="744">
+            <caret line="31" column="60" lean-forward="false" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -841,22 +872,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/DropEggs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/MaxAverage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="78" lean-forward="false" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+        <state relative-caret-position="1368">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="720">
-            <caret line="30" column="97" lean-forward="false" selection-start-line="30" selection-start-column="97" selection-end-line="30" selection-end-column="97" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/SqrtII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="51" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <folding>
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+            <marker date="1509547508000" expanded="true" signature="477:524" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
