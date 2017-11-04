@@ -30,3 +30,5 @@ Algorithm written by Java
 - [Sqrt(x)](http://www.lintcode.com/en/problem/sqrtx/)
 - [Maximum Average Subarray](http://www.lintcode.com/en/problem/maximum-average-subarray/)：[**!!!reference**](http://www.lintcode.com/en/problem/maximum-average-subarray/)
 - [Sqrt(x) II](http://www.lintcode.com/en/problem/sqrtx-ii/)
+
+## Binary Tree
