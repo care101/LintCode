@@ -32,3 +32,4 @@ Algorithm written by Java
 - [Sqrt(x) II](http://www.lintcode.com/en/problem/sqrtx-ii/)
 
 ## Binary Tree
+- [Maximum Depth of Binary Tree](http://www.lintcode.com/en/problem/maximum-depth-of-binary-tree/)
