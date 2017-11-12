@@ -33,3 +33,4 @@ Algorithm written by Java
 
 ## Binary Tree
 - [Maximum Depth of Binary Tree](http://www.lintcode.com/en/problem/maximum-depth-of-binary-tree/)
+- [Binary Tree Path](http://www.lintcode.com/en/problem/binary-tree-paths/)
