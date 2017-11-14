@@ -35,3 +35,4 @@ Algorithm written by Java
 - [Maximum Depth of Binary Tree](http://www.lintcode.com/en/problem/maximum-depth-of-binary-tree/)
 - [Binary Tree Path](http://www.lintcode.com/en/problem/binary-tree-paths/)
 - [Minimum Subtree](http://www.lintcode.com/zh-cn/problem/minimum-subtree/)
+- [Subtree with Maximum Average](http://www.lintcode.com/en/problem/subtree-with-maximum-average/)
