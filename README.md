@@ -38,3 +38,4 @@ Algorithm written by Java
 - [Subtree with Maximum Average](http://www.lintcode.com/en/problem/subtree-with-maximum-average/)
 - [Flatten Binary Tree to Linked List](http://www.lintcode.com/en/problem/flatten-binary-tree-to-linked-list/)
 - [Balanced Binary Tree](http://www.lintcode.com/en/problem/balanced-binary-tree/)
+- [Binary Tree Inorder Traversal](http://www.lintcode.com/en/problem/binary-tree-inorder-traversal/)
