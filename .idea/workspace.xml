@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9762055e-d8fa-4919-9011-a39873272948" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/likexin/binarytree/InorderTraversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Shingo.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Shingo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/likexin/binarytree/PreorderTraversal.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/likexin/binarytree/InorderTraversal.java" afterPath="$PROJECT_DIR$/src/org/likexin/binarytree/InorderTraversal.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/likexin/binarytree/binary tree总结.md" afterPath="$PROJECT_DIR$/src/org/likexin/binarytree/binary tree总结.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,12 +33,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InorderTraversal.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InorderTraversal.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/likexin/binarytree/InorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="504">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PreorderTraversal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/likexin/binarytree/PreorderTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,8 +72,8 @@
         <entry file="file://$PROJECT_DIR$/src/org/likexin/binarytree/binary tree总结.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="432">
-                <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <first_editor relative-caret-position="456">
+                <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -137,6 +148,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/org/likexin/binarytree/binary tree总结.md" />
         <option value="$PROJECT_DIR$/src/org/likexin/binarytree/InorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/org/likexin/binarytree/PreorderTraversal.java" />
       </list>
     </option>
   </component>
@@ -473,12 +485,12 @@
       <workItem from="1509115411980" duration="29734000" />
       <workItem from="1509810452571" duration="2946000" />
       <workItem from="1510475246087" duration="64000" />
-      <workItem from="1510489656969" duration="12337000" />
+      <workItem from="1510489656969" duration="13063000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63145000" />
+    <option name="totallyTimeSpent" value="63871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="2560" height="1338" extended-state="0" />
@@ -542,14 +554,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/Search2DMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/likexin/binarysearch/Search2DmatrixII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="936">
@@ -981,8 +985,8 @@
     <entry file="file://$PROJECT_DIR$/src/org/likexin/binarytree/binary tree总结.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="432">
-            <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <first_editor relative-caret-position="456">
+            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -991,9 +995,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/likexin/binarytree/InorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="504">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/likexin/binarytree/PreorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

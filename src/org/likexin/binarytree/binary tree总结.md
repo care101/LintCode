@@ -17,3 +17,5 @@
 - 前序遍历(Preorder)：根左右
 - 中序遍历(Inorder)：左根右
 - 后序遍历(Postorder)：左右根
+
+其中 Preorder 和 Inorder 要求会迭代的写法，而不仅仅是递归的写法。
