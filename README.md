@@ -39,3 +39,5 @@ Algorithm written by Java
 - [Flatten Binary Tree to Linked List](http://www.lintcode.com/en/problem/flatten-binary-tree-to-linked-list/)
 - [Balanced Binary Tree](http://www.lintcode.com/en/problem/balanced-binary-tree/)
 - [Binary Tree Inorder Traversal](http://www.lintcode.com/en/problem/binary-tree-inorder-traversal/)
+- [Binary Tree Preorder Traversal](http://www.lintcode.com/en/problem/binary-tree-preorder-traversal/)
+- [Lowest Common Ancestor III](http://www.lintcode.com/en/problem/lowest-common-ancestor-iii/)
