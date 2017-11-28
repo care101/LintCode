@@ -10,6 +10,7 @@ Algorithm written by Java
 - [subsetsII](http://www.lintcode.com/en/problem/subsets-ii)
 
 ## Binary Search
+- [二分法总结](https://github.com/Kexin-Li/AlgsProject/blob/master/src/org/likexin/binarysearch/BinarySearch%E6%80%BB%E7%BB%93.md)
 - [Find Minimum in Rotated Sorted Array](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)
 - [Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)
 - [Find Peak Element](http://www.lintcode.com/en/problem/find-peak-element/)
@@ -32,6 +33,7 @@ Algorithm written by Java
 - [Sqrt(x) II](http://www.lintcode.com/en/problem/sqrtx-ii/)
 
 ## Binary Tree
+- [二叉树总结](https://github.com/Kexin-Li/AlgsProject/blob/master/src/org/likexin/binarytree/binary%20tree%E6%80%BB%E7%BB%93.md)
 - [Maximum Depth of Binary Tree](http://www.lintcode.com/en/problem/maximum-depth-of-binary-tree/)
 - [Binary Tree Path](http://www.lintcode.com/en/problem/binary-tree-paths/)
 - [Minimum Subtree](http://www.lintcode.com/zh-cn/problem/minimum-subtree/)

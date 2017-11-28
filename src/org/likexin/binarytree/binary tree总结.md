@@ -19,3 +19,6 @@
 - 后序遍历(Postorder)：左右根
 
 其中 Preorder 和 Inorder 要求会迭代的写法，而不仅仅是递归的写法。
+
+## 关于二叉树的面试资料
+http://blog.sina.com.cn/s/blog_eb52001d0102v1si.html
