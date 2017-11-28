@@ -40,4 +40,5 @@ Algorithm written by Java
 - [Balanced Binary Tree](http://www.lintcode.com/en/problem/balanced-binary-tree/)
 - [Binary Tree Inorder Traversal](http://www.lintcode.com/en/problem/binary-tree-inorder-traversal/)
 - [Binary Tree Preorder Traversal](http://www.lintcode.com/en/problem/binary-tree-preorder-traversal/)
+- [Binary Tree Postorder Traversal](http://www.lintcode.com/en/problem/binary-tree-postorder-traversal/)
 - [Lowest Common Ancestor III](http://www.lintcode.com/en/problem/lowest-common-ancestor-iii/)
