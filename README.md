@@ -46,8 +46,8 @@ Algorithm written by Java
 - [Lowest Common Ancestor III](http://www.lintcode.com/en/problem/lowest-common-ancestor-iii/)
 
 ## LinkedList
-- [链表总结]()
+- [链表总结](https://github.com/Kexin-Li/AlgsProject/blob/master/src/org/likexin/linkedlist/LinkedList%E6%80%BB%E7%BB%93.md)
 - [Insert into a Cyclic Sorted List](http://www.lintcode.com/en/problem/insert-into-a-cyclic-sorted-list/)
 
 ## Array
-- [数组总结]()
+- [数组总结](https://github.com/Kexin-Li/AlgsProject/blob/master/src/org/likexin/array/Array%E6%80%BB%E7%BB%93.md)

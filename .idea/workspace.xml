@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9762055e-d8fa-4919-9011-a39873272948" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/likexin/array/Array总结.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/likexin/linkedlist/Insert.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/likexin/linkedlist/LinkedList总结.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/likexin/linkedlist/ListNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/org/likexin/binarytree/binary tree总结.md" afterPath="$PROJECT_DIR$/src/org/likexin/binarytree/binary tree总结.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="676">
-                <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+              <first_editor relative-caret-position="1084">
+                <caret line="52" column="109" lean-forward="false" selection-start-line="52" selection-start-column="109" selection-end-line="52" selection-end-column="109" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -142,11 +136,11 @@
         <option value="$PROJECT_DIR$/src/org/likexin/binarytree/PostorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/org/likexin/array/Array总结.md" />
         <option value="$PROJECT_DIR$/src/org/likexin/linkedlist/LinkedList总结.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/org/likexin/linkedlist/ListNode.java" />
         <option value="$PROJECT_DIR$/src/org/likexin/binarysearch/BinarySearch总结.md" />
         <option value="$PROJECT_DIR$/src/org/likexin/binarytree/binary tree总结.md" />
         <option value="$PROJECT_DIR$/src/org/likexin/linkedlist/Insert.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -484,12 +478,12 @@
       <workItem from="1509810452571" duration="2946000" />
       <workItem from="1510475246087" duration="64000" />
       <workItem from="1510489656969" duration="19151000" />
-      <workItem from="1511878924358" duration="2161000" />
+      <workItem from="1511878924358" duration="2288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72120000" />
+    <option name="totallyTimeSpent" value="72247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="2560" height="1338" extended-state="6" />
@@ -967,8 +961,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="676">
-            <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+          <first_editor relative-caret-position="1084">
+            <caret line="52" column="109" lean-forward="false" selection-start-line="52" selection-start-column="109" selection-end-line="52" selection-end-column="109" />
             <folding />
           </first_editor>
           <second_editor />
