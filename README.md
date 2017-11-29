@@ -44,3 +44,10 @@ Algorithm written by Java
 - [Binary Tree Preorder Traversal](http://www.lintcode.com/en/problem/binary-tree-preorder-traversal/)
 - [Binary Tree Postorder Traversal](http://www.lintcode.com/en/problem/binary-tree-postorder-traversal/)
 - [Lowest Common Ancestor III](http://www.lintcode.com/en/problem/lowest-common-ancestor-iii/)
+
+## LinkedList
+- [链表总结]()
+- [Insert into a Cyclic Sorted List](http://www.lintcode.com/en/problem/insert-into-a-cyclic-sorted-list/)
+
+## Array
+- [数组总结]()

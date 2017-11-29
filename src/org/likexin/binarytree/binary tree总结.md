@@ -22,3 +22,6 @@
 
 ## 关于二叉树的面试资料
 http://blog.sina.com.cn/s/blog_eb52001d0102v1si.html
+
+## 理解递归
+http://www.nowamagic.net/librarys/veda/detail/2314
