@@ -27,12 +27,14 @@ public class SubarraySum {
 
         int sum = 0;
         Map<Integer, Integer> map = new HashMap<>();
+        map.put(0, -1);
         for (int i = 0; i < nums.length; i++) {
             sum += nums[i];
 
             if (map.containsKey(sum)) {
                 result.add(map.get(sum) + 1);
                 result.add(i);
+                return result;
             }
             map.put(sum, i);
         }
@@ -40,7 +42,7 @@ public class SubarraySum {
     }
 
     public static void main(String[] args) {
-        int[] nums = {-3, 1, 2, -3, 4};
+        int[] nums = {1, -1};
         System.out.println(new SubarraySum().subarraySum(nums));
     }
 
