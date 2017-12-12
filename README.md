@@ -53,3 +53,4 @@ Algorithm written by Java
 ## Array
 - [数组总结](https://github.com/Kexin-Li/AlgsProject/blob/master/src/org/likexin/array/Array%E6%80%BB%E7%BB%93.md)
 - [Subarray sum](http://www.lintcode.com/en/problem/subarray-sum/)
+- [Maximum Subarray](http://www.lintcode.com/en/problem/maximum-subarray/)
