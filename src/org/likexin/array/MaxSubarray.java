@@ -28,7 +28,7 @@ public class MaxSubarray {
 
     public static void main(String[] args) {
         int[] nums = {-2, 2, -3, 4, -1, 2, 1, -5, 3};
-        new MaxSubarray().maxSubarray(nums);
+        System.out.println(new MaxSubarray().maxSubarray(nums));
     }
 
 }
