@@ -1,6 +1,6 @@
-## 二叉树基础知识
+# 二叉树基础知识
 
-### definition
+## definition
 二叉树是每个节点最多只有两个分支的树结构，其分支被称为左子树和右子树，并且分支具有顺序，不能颠倒。
 ![binary tree](../pic/binary-tree.png)
 
@@ -8,17 +8,17 @@
 - 深度为 k 的二叉树最多有 2^(k+1) - 1 个节点。（此时根节点所在的深度为0）
 - 二叉树可以为空，但普通树不可以。
 
-#### 满二叉树
+### 满二叉树
 深度为 k 的二叉树有 2^(k+1) - 1 个节点（此时根节点所在的深度为0）的二叉树。
 ![full binary tree](../pic/complete-full-binary-tree.jpg)
 
-#### 完全二叉树
+### 完全二叉树
 深度为 k 有 n 个节点的二叉树，当且仅当其中的每一节点，都可以和同样深度 k 的满二叉树，序号为 1 到 n 的节点一对一对应的二叉树。
 
 翻译一下是：叶节点只能出现在最下层和次下层，并且最下面一层的结点都集中在该层最左边的若干位置的二叉树。
 ![complete binary tree](../pic/complete-full-binary-tree.jpg)
 
-#### 二叉树的表示方法(Java)
+### 二叉树的表示方法(Java)
 ```
 class TreeNode {
   public int val;
@@ -30,7 +30,7 @@ class TreeNode {
 }
 ```
 
-#### 二叉树的高度
+### 二叉树的高度
 - 高度(height)：二叉树的高度是指 root 节点到最长叶子结点的**边数**。
 - 深度(depth)：二叉树的深度是指 root 节点到最长叶子结点的**节点数**。
 
@@ -54,9 +54,10 @@ int height(TreeNode node) {
 
 非递归的写法可以用层序遍历来实现。
 
-#### 平衡二叉树
-平衡二叉树是指一颗二叉树的所有左右子树高度之差小于等于1。一颗空树是高度平衡的。
+### 平衡二叉树
+平衡二叉树是指一颗二叉树的**所有左右子树**高度之差小于等于1。一颗空树是高度平衡的。
 
+判断一棵树是不是平衡二叉树：
 ```
 boolean isBalanced(TreeNode root) {
   if (root == null) {
@@ -73,3 +74,44 @@ boolean isBalanced(TreeNode root) {
   return true;
 }
 ```
+
+### 二叉搜索树(BST)
+二叉搜索树是指所有左子树的节点值小于根节点，所有右子树的节点值大于根节点，并且不存在重复节点值的二叉树。
+![BST](pic/binary-search-tree.png)
+
+#### 在 BST 中查找节点
+```
+TreeNode search(TreeNode root, int key) {
+  if (root == null || root.val == key) {
+    return root;
+  }
+  if (root.val < key) {
+    return search(root.right, key);
+  }
+  if (root.val > key) {
+    return search(root.left, key);
+  }
+  return null;
+} 
+```
+
+#### 向 BST 中插入节点
+
+根据 BST 的性质：所有左子树节点值小于根节点值，所有右子树节点值大于根结点值，并且没有重复节点。因此不难发现，新加入的节点只能在叶子结点的位置被插入。
+```
+TreeNode insert(TreeNode root, int value) {
+  if (root == null) {
+    root = new TreeNode(value);
+    return root;
+  }
+  if (root.val < value) {
+    root.right = insert(root.right, value);
+  }
+  if (root.val > value) {
+    root.left = insert(root.left, value);
+  }
+  return root;
+}
+```
+
+#### 在 BST 中删除节点
