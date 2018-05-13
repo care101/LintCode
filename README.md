@@ -1,15 +1,19 @@
 # AlgsProject
+
 Algorithm written by Java
 
 ## String
+
 - [strStr](http://www.lintcode.com/problem/strstr)
 - [strStrII](http://www.lintcode.com/problem/strstrII): [Rabin-Karp 算法](https://github.com/Kexin-Li/AlgsProject/blob/master/src/org/likexin/string/Rabin-Karp%E7%AE%97%E6%B3%95.md)
 
 ## DFS
+
 - [subsets](http://www.lintcode.com/en/problem/subsets)
 - [subsetsII](http://www.lintcode.com/en/problem/subsets-ii)
 
 ## Binary Search
+
 - [二分法总结](https://github.com/Kexin-Li/AlgsProject/blob/master/src/org/likexin/binarysearch/BinarySearch%E6%80%BB%E7%BB%93.md)
 - [Find Minimum in Rotated Sorted Array](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)
 - [Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)
@@ -33,7 +37,8 @@ Algorithm written by Java
 - [Sqrt(x) II](http://www.lintcode.com/en/problem/sqrtx-ii/)
 
 ## Binary Tree
-- [二叉树总结](https://github.com/Kexin-Li/AlgsProject/blob/master/src/org/likexin/binarytree/binary%20tree%E6%80%BB%E7%BB%93.md)
+
+- [二叉树总结](note/binarytree/binarytree-1.md)
 - [Maximum Depth of Binary Tree](http://www.lintcode.com/en/problem/maximum-depth-of-binary-tree/)
 - [Binary Tree Path](http://www.lintcode.com/en/problem/binary-tree-paths/)
 - [Minimum Subtree](http://www.lintcode.com/zh-cn/problem/minimum-subtree/)
@@ -46,11 +51,13 @@ Algorithm written by Java
 - [Lowest Common Ancestor III](http://www.lintcode.com/en/problem/lowest-common-ancestor-iii/)
 
 ## LinkedList
+
 - [链表总结](https://github.com/Kexin-Li/AlgsProject/blob/master/src/org/likexin/linkedlist/LinkedList%E6%80%BB%E7%BB%93.md)
 - [Insert into a Cyclic Sorted List](http://www.lintcode.com/en/problem/insert-into-a-cyclic-sorted-list/)
 - [Merge Two Sorted Lists](http://www.lintcode.com/en/problem/merge-two-sorted-lists/)
 
 ## Array
+
 - [数组总结](https://github.com/Kexin-Li/AlgsProject/blob/master/src/org/likexin/array/Array%E6%80%BB%E7%BB%93.md)
 - [Subarray sum](http://www.lintcode.com/en/problem/subarray-sum/)
 - [Maximum Subarray](http://www.lintcode.com/en/problem/maximum-subarray/)
