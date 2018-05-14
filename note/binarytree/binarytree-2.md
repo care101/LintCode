@@ -9,4 +9,9 @@
 - 相邻两个节点的颜色不能同是红色，即红色节点的父节点和子节点都不能是红色。
 - 每一条从根节点到 NULL 节点路径所经历的黑色节点数相同。
 
+![red-black tree](../pic/RedBlackTree.png)
+
 ## AVL 树
+
+AVL 树是一颗平衡的 BST。
+![AVL TREE](../pic/AVL-Tree.jpg)
