@@ -170,3 +170,25 @@ int findMin(Node root) {
   return min;
 }
 ```
+
+#### 求 BST 的最小公共祖先
+
+由于 BST 的特性，在 BST 中求两个节点的最小公共祖先([LCA](https://en.wikipedia.org/wiki/Lowest_common_ancestor))可以变得很简单。可以根据两个节点的值与根结点的大小比较而得出这两个节点在左子树还是右子树。
+
+- 如果两个节点分别位于左子树和右子树，那么其最小公公祖先就是根结点。
+- 如果两个节点同时位于左子树，那么递归左子树查找。
+- 如果两个节点同时位于右子树，那么递归右子树查找。
+
+``` java
+public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+  if (root == null) return root;
+
+  if (p.val < root.val && q.val < root.val) {
+    return lowestCommonAncestor(root.left, p, q);
+  } else if (p.val > root.val && q.val > root.val) {
+    return lowestCommonAncestor(root, p, q);
+  } else {
+    return root;
+  }
+}
+```
