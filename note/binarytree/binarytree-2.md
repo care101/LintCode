@@ -18,6 +18,34 @@ AVL 树是一颗平衡的 BST。
 
 ## 遍历二叉树
 
+### 前序遍历(Preorder)
+
+前序遍历：`根左右`。例如这样一棵树遍历的结果是[1, 2, 4, 5, 3]
+![Inorder](../pic/inorder.png)
+
+``` java
+List<Integer> Preorder(TreeNode root) {
+  List<Integer> result = new ArrayList<>();
+  if (root == null) return result;
+
+  Stack<TreeNode> stack = new Stack<>();
+  stack.push(root);
+
+  while (!stack.isEmpty()) {
+    TreeNode curr = stack.pop();
+    result.add(curr.val);
+
+    if (curr.right != null) {
+      stack.push(curr.right);
+    }
+    if (curr.left != null) {
+      stack.push(curr.left);
+    }
+  }
+  return result;
+}
+```
+
 ### 中序遍历(Inorder)
 
 中序遍历：`左根右`。例如这样一棵树遍历的结果是[4, 2, 5, 1, 3]
