@@ -85,7 +85,7 @@ boolean isBalanced(TreeNode root) {
 ### 二叉搜索树(BST)
 
 二叉搜索树是指所有左子树的节点值小于根节点，所有右子树的节点值大于根节点，并且不存在重复节点值的二叉树。
-![BST](pic/binary-search-tree.png)
+![BST](../pic/binary-search-tree.png)
 
 #### 在 BST 中查找节点
 
