@@ -4,6 +4,7 @@ Algorithm written by Java
 
 ## String
 
+- [String 总结](note/string/string-1.md)
 - [strStr](http://www.lintcode.com/problem/strstr)
 - [strStrII](http://www.lintcode.com/problem/strstrII): [Rabin-Karp 算法](https://github.com/Kexin-Li/AlgsProject/blob/master/src/org/likexin/string/Rabin-Karp%E7%AE%97%E6%B3%95.md)
 
@@ -61,3 +62,9 @@ Algorithm written by Java
 - [数组总结](https://github.com/Kexin-Li/AlgsProject/blob/master/src/org/likexin/array/Array%E6%80%BB%E7%BB%93.md)
 - [Subarray sum](http://www.lintcode.com/en/problem/subarray-sum/)
 - [Maximum Subarray](http://www.lintcode.com/en/problem/maximum-subarray/)
+
+---
+
+## TODO
+
+- 比较 js 和 java 在字符串基础知识上的区别

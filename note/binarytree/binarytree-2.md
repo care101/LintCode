@@ -79,3 +79,12 @@ List<Integer> Inorder(TreeNode root) {
   return result;
 }
 ```
+
+### 后序遍历(Preorder)
+
+后序遍历：`左右根`。例如这样一棵树遍历的结果是[4, 5, 2, 3, 1]
+![Inorder](../pic/inorder.png)
+
+``` java
+
+```
