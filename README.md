@@ -2,20 +2,9 @@
 
 Algorithm written by Java
 
-## String
-
-- [String 总结](note/string/string-1.md)
-- [strStr](http://www.lintcode.com/problem/strstr)
-- [strStrII](http://www.lintcode.com/problem/strstrII): [Rabin-Karp 算法](https://github.com/Kexin-Li/AlgsProject/blob/master/src/org/likexin/string/Rabin-Karp%E7%AE%97%E6%B3%95.md)
-
-## DFS
-
-- [subsets](http://www.lintcode.com/en/problem/subsets)
-- [subsetsII](http://www.lintcode.com/en/problem/subsets-ii)
-
 ## Binary Search
 
-- [二分法总结](https://github.com/Kexin-Li/AlgsProject/blob/master/src/org/likexin/binarysearch/BinarySearch%E6%80%BB%E7%BB%93.md)
+- [二分法总结](note/binarysearch.md)
 - [Find Minimum in Rotated Sorted Array](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)
 - [Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)
 - [Find Peak Element](http://www.lintcode.com/en/problem/find-peak-element/)
@@ -36,6 +25,17 @@ Algorithm written by Java
 - [Sqrt(x)](http://www.lintcode.com/en/problem/sqrtx/)
 - [Maximum Average Subarray](http://www.lintcode.com/en/problem/maximum-average-subarray/)：[**!!!reference**](http://www.lintcode.com/en/problem/maximum-average-subarray/)
 - [Sqrt(x) II](http://www.lintcode.com/en/problem/sqrtx-ii/)
+
+## String
+
+- [String 总结](note/string/string-1.md)
+- [strStr](http://www.lintcode.com/problem/strstr)
+- [strStrII](http://www.lintcode.com/problem/strstrII): [Rabin-Karp 算法](https://github.com/Kexin-Li/AlgsProject/blob/master/src/org/likexin/string/Rabin-Karp%E7%AE%97%E6%B3%95.md)
+
+## DFS
+
+- [subsets](http://www.lintcode.com/en/problem/subsets)
+- [subsetsII](http://www.lintcode.com/en/problem/subsets-ii)
 
 ## Binary Tree
 
