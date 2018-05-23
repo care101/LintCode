@@ -5,6 +5,10 @@ Algorithm written by Java
 ## Binary Search
 
 - [二分法总结](note/binarysearch.md)
+- Classical Binary Search [Java](src/org/likexin/binarysearch/ClassicalBinarySearch.java) [题目](https://www.lintcode.com/problem/classical-binary-search/)
+- Maximum Number in Mountain Sequence [Java](src/org/likexin/binarysearch/MountainSequence.java) [题目](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)
+- Last Position of Target [Java](src/org/likexin/binarysearch/LastPosition.java) [题目](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)
+
 - [Find Minimum in Rotated Sorted Array](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)
 - [Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)
 - [Find Peak Element](http://www.lintcode.com/en/problem/find-peak-element/)
@@ -12,9 +16,7 @@ Algorithm written by Java
 - [Search a 2D Matrix](http://www.lintcode.com/en/problem/search-a-2d-matrix/)
 - [Search a 2D Matrix II](http://www.lintcode.com/en/problem/search-a-2d-matrix-ii/)
 - [Closest Number in Sorted Array](http://www.lintcode.com/en/problem/closest-number-in-sorted-array/)
-- [Last Position of Target](http://www.lintcode.com/en/problem/last-position-of-target/)
 - [First Position of Target](http://www.lintcode.com/problem/first-position-of-target)
-- [Maximum Number in Mountain Sequence](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)
 - [Search in a Big Sorted Array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)
 - [Total Occurrence of Target](http://www.lintcode.com/en/problem/total-occurrence-of-target/)
 - [Drop Eggs](http://www.lintcode.com/en/problem/drop-eggs/)：[**!!!reference**](http://www.cnblogs.com/grandyang/p/4762756.html)
