@@ -14,6 +14,8 @@ Algorithm written by Java
 - Find Peak Element [Java](src/org/likexin/binarysearch/FindPeak.java) [题目](http://www.lintcode.com/en/problem/find-peak-element/)
 - First Bad Version [Java](src/org/likexin/binarysearch/FindFirstBadVersion.java) [题目](http://www.lintcode.com/en/problem/search-a-2d-matrix/)
 - Search in Rotated Sorted Array [Java](src/org/likexin/binarysearch/Search.java) [题目](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)
+- Recover Rotated Sorted Array [Java](src/org/likexin/binarysearch/RecoverRotatedSortedArray.java) [题目](https://www.lintcode.com/problem/recover-rotated-sorted-array/description)
+
 - Pow(x, n) [题目](https://www.lintcode.com/problem/powx-n/description) **TODO**
 - Fast Power [题目](https://www.lintcode.com/problem/fast-power/description) **TODO**
 
