@@ -8,6 +8,7 @@ Algorithm written by Java
 - Classical Binary Search [Java](src/org/likexin/binarysearch/ClassicalBinarySearch.java) [题目](https://www.lintcode.com/problem/classical-binary-search/)
 - Maximum Number in Mountain Sequence [Java](src/org/likexin/binarysearch/MountainSequence.java) [题目](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)
 - Last Position of Target [Java](src/org/likexin/binarysearch/LastPosition.java) [题目](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)
+- K Closest Numbers In Sorted Array [Java](src/org/likexin/binarysearch/KClosestNumber.java) [题目](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)
 
 - [Find Minimum in Rotated Sorted Array](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)
 - [Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)
@@ -20,7 +21,6 @@ Algorithm written by Java
 - [Search in a Big Sorted Array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)
 - [Total Occurrence of Target](http://www.lintcode.com/en/problem/total-occurrence-of-target/)
 - [Drop Eggs](http://www.lintcode.com/en/problem/drop-eggs/)：[**!!!reference**](http://www.cnblogs.com/grandyang/p/4762756.html)
-- [K Closest Numbers In Sorted Array](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)
 - [Divide Two Integers](http://www.lintcode.com/en/problem/divide-two-integers/)：[**!!!reference**](http://blog.csdn.net/linhuanmars/article/details/20024907#reply)
 - [Search for a Range](http://www.lintcode.com/en/problem/search-for-a-range/)
 - [Smallest Rectangle Enclosing Black Pixels](http://www.lintcode.com/en/problem/smallest-rectangle-enclosing-black-pixels/)
