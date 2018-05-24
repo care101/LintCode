@@ -9,16 +9,19 @@ Algorithm written by Java
 - Maximum Number in Mountain Sequence [Java](src/org/likexin/binarysearch/MountainSequence.java) [题目](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)
 - Last Position of Target [Java](src/org/likexin/binarysearch/LastPosition.java) [题目](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)
 - K Closest Numbers In Sorted Array [Java](src/org/likexin/binarysearch/KClosestNumber.java) [题目](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)
+- Search in a Big Sorted Array [Java](src/org/likexin/binarysearch/SearchBigSortedArray.java) [题目](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)
+- Find Minimum in Rotated Sorted Array [Java](src/org/likexin/binarysearch/FindMin.java) [题目](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)
+- Find Peak Element [Java](src/org/likexin/binarysearch/FindPeak.java) [题目](http://www.lintcode.com/en/problem/find-peak-element/)
+- First Bad Version [Java](src/org/likexin/binarysearch/FindFirstBadVersion.java) [题目](http://www.lintcode.com/en/problem/search-a-2d-matrix/)
+- Search in Rotated Sorted Array [Java](src/org/likexin/binarysearch/Search.java) [题目](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)
+- Pow(x, n) [题目](https://www.lintcode.com/problem/powx-n/description) **TODO**
+- Fast Power [题目](https://www.lintcode.com/problem/fast-power/description) **TODO**
 
-- [Find Minimum in Rotated Sorted Array](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)
-- [Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)
-- [Find Peak Element](http://www.lintcode.com/en/problem/find-peak-element/)
 - [First Bad Version](http://www.lintcode.com/en/problem/first-bad-version/)
 - [Search a 2D Matrix](http://www.lintcode.com/en/problem/search-a-2d-matrix/)
 - [Search a 2D Matrix II](http://www.lintcode.com/en/problem/search-a-2d-matrix-ii/)
 - [Closest Number in Sorted Array](http://www.lintcode.com/en/problem/closest-number-in-sorted-array/)
 - [First Position of Target](http://www.lintcode.com/problem/first-position-of-target)
-- [Search in a Big Sorted Array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)
 - [Total Occurrence of Target](http://www.lintcode.com/en/problem/total-occurrence-of-target/)
 - [Drop Eggs](http://www.lintcode.com/en/problem/drop-eggs/)：[**!!!reference**](http://www.cnblogs.com/grandyang/p/4762756.html)
 - [Divide Two Integers](http://www.lintcode.com/en/problem/divide-two-integers/)：[**!!!reference**](http://blog.csdn.net/linhuanmars/article/details/20024907#reply)
