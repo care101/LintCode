@@ -15,11 +15,11 @@ Algorithm written by Java
 - First Bad Version [Java](src/org/likexin/binarysearch/FindFirstBadVersion.java) [题目](http://www.lintcode.com/en/problem/search-a-2d-matrix/)
 - Search in Rotated Sorted Array [Java](src/org/likexin/binarysearch/Search.java) [题目](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)
 - Recover Rotated Sorted Array [Java](src/org/likexin/binarysearch/RecoverRotatedSortedArray.java) [题目](https://www.lintcode.com/problem/recover-rotated-sorted-array/description)
+- Pow(x, n) [Java](src/org/likexin/binarysearch/MyPow.java) [题目](https://www.lintcode.com/problem/powx-n/description)
 
-- Pow(x, n) [题目](https://www.lintcode.com/problem/powx-n/description) **TODO**
 - Fast Power [题目](https://www.lintcode.com/problem/fast-power/description) **TODO**
 
-- [First Bad Version](http://www.lintcode.com/en/problem/first-bad-version/)
+<!-- - [First Bad Version](http://www.lintcode.com/en/problem/first-bad-version/)
 - [Search a 2D Matrix](http://www.lintcode.com/en/problem/search-a-2d-matrix/)
 - [Search a 2D Matrix II](http://www.lintcode.com/en/problem/search-a-2d-matrix-ii/)
 - [Closest Number in Sorted Array](http://www.lintcode.com/en/problem/closest-number-in-sorted-array/)
@@ -31,7 +31,7 @@ Algorithm written by Java
 - [Smallest Rectangle Enclosing Black Pixels](http://www.lintcode.com/en/problem/smallest-rectangle-enclosing-black-pixels/)
 - [Sqrt(x)](http://www.lintcode.com/en/problem/sqrtx/)
 - [Maximum Average Subarray](http://www.lintcode.com/en/problem/maximum-average-subarray/)：[**!!!reference**](http://www.lintcode.com/en/problem/maximum-average-subarray/)
-- [Sqrt(x) II](http://www.lintcode.com/en/problem/sqrtx-ii/)
+- [Sqrt(x) II](http://www.lintcode.com/en/problem/sqrtx-ii/) -->
 
 ## String
 

@@ -118,3 +118,11 @@ public int findPosition(int[] nums, int target) {
 => [5, 4, 3, 2, 1]
 
 => [1, 2, 3, 4, 5]
+
+相关题目：
+http://www.lintcode.com/problem/recover-rotated-sorted-array/
+
+### 快速幂算法
+
+相关题目：
+https://www.lintcode.com/problem/powx-n/description
