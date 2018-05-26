@@ -33,6 +33,10 @@ Algorithm written by Java
 - [Maximum Average Subarray](http://www.lintcode.com/en/problem/maximum-average-subarray/)：[**!!!reference**](http://www.lintcode.com/en/problem/maximum-average-subarray/)
 - [Sqrt(x) II](http://www.lintcode.com/en/problem/sqrtx-ii/) -->
 
+## Two pointer
+
+- [双指针算法总结](note/two-point.md)
+
 ## String
 
 - [String 总结](note/string/string-1.md)
