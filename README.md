@@ -19,7 +19,7 @@ Algorithm written by Java
 
 - Fast Power [题目](https://www.lintcode.com/problem/fast-power/description) **TODO**
 
-<!-- - [First Bad Version](http://www.lintcode.com/en/problem/first-bad-version/)
+<!--
 - [Search a 2D Matrix](http://www.lintcode.com/en/problem/search-a-2d-matrix/)
 - [Search a 2D Matrix II](http://www.lintcode.com/en/problem/search-a-2d-matrix-ii/)
 - [Closest Number in Sorted Array](http://www.lintcode.com/en/problem/closest-number-in-sorted-array/)
@@ -73,9 +73,3 @@ Algorithm written by Java
 - [数组总结](https://github.com/Kexin-Li/AlgsProject/blob/master/src/org/likexin/array/Array%E6%80%BB%E7%BB%93.md)
 - [Subarray sum](http://www.lintcode.com/en/problem/subarray-sum/)
 - [Maximum Subarray](http://www.lintcode.com/en/problem/maximum-subarray/)
-
----
-
-## TODO
-
-- 比较 js 和 java 在字符串基础知识上的区别
