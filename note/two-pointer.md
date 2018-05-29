@@ -91,3 +91,21 @@ public int[] twoSum(int[] A, int target) {
   return results;
 }
 ```
+
+其中 HashMap 的解法需要 `O(n)` 的空间与时间，双指针的解法需要 `O(1)` 的空间与 `O(n)` 的时间。
+
+### 判断回文串
+
+``` java
+public boolean isPalindrome(String s) {
+  if (s == null || s.length() == 0) {
+    return true;
+  }
+  for (int i = 0, i = s.length() - 1; i < j; i++, j--) {
+    if (s.charAt(i) != s.charAt(j)) {
+      return false;
+    }
+  }
+  return true;
+}
+```

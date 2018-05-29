@@ -35,7 +35,8 @@ Algorithm written by Java
 
 ## Two pointer
 
-- [双指针算法总结](note/two-point.md)
+- [双指针算法总结](note/two-pointer.md)
+- Two Sum [Java](src/org/likexin/twopointer/TwoSum.java) [题目](https://www.lintcode.com/problem/two-sum/description)
 
 ## String
 
