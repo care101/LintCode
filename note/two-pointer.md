@@ -109,3 +109,41 @@ public boolean isPalindrome(String s) {
   return true;
 }
 ```
+
+Follow up: 判断回文串的时候不区分大小写，且忽略非英文字母。
+
+对于不区分大小写这一点可以在比较时统一变成小写或大写来比较。忽略非英文字母需要使用`while`来不断跳过非英文字母。
+
+``` java
+public boolean isPalindrome(String s) {
+  if (s == null || s.length() == 0) {
+    return true;
+  }
+
+  int start = 0, end = s.length() - 1;
+  while (start < end) {
+    while (start < s.length() && !isValid(s.charAt(start))) {
+      start++;
+    }
+    if (start == s.length()) {
+      return true;
+    }
+    while (end >= 0 && !isValid(s.charAt(end))) {
+      end--;
+    }
+
+    if (Character.toUpperCase(s.charAt(start)) != Character.toUpperCase(s.charAt(end))) {
+      break;
+    } else {
+      start++;
+      end--;
+    }
+  }
+
+  return end <= start;
+}
+
+private boolean isValid(char c) {
+  return Character.isLetter(c) || Character.isDigit(c);
+}
+```

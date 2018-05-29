@@ -5,7 +5,7 @@ Algorithm written by Java
 ## Binary Search
 
 - [二分法总结](note/binarysearch.md)
-- Classical Binary Search [Java](src/org/likexin/binarysearch/ClassicalBinarySearch.java) [题目](https://www.lintcode.com/problem/classical-binary-search/)
+- [Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/) [Java](src/org/likexin/binarysearch/ClassicalBinarySearch.java)
 - Maximum Number in Mountain Sequence [Java](src/org/likexin/binarysearch/MountainSequence.java) [题目](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)
 - Last Position of Target [Java](src/org/likexin/binarysearch/LastPosition.java) [题目](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)
 - K Closest Numbers In Sorted Array [Java](src/org/likexin/binarysearch/KClosestNumber.java) [题目](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)
@@ -37,6 +37,8 @@ Algorithm written by Java
 
 - [双指针算法总结](note/two-pointer.md)
 - Two Sum [Java](src/org/likexin/twopointer/TwoSum.java) [题目](https://www.lintcode.com/problem/two-sum/description)
+- Valid Palindrome [Java](src/org/likexin/twopointer/IsPalindrome.java) [题目](https://www.lintcode.com/problem/valid-palindrome/description)
+- [Valid Palindrome II](https://www.lintcode.com/problem/valid-palindrome-ii/description) [Java](src/org/likexin/twopointer/IsPalindromeII.java)
 
 ## String
 
