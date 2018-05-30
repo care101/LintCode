@@ -16,7 +16,7 @@
 
 ## Two Pointer
 
-[Valid Palindrome II](https://www.lintcode.com/problem/valid-palindrome-ii/description): 我的删除算法出了错。不能理解答案里的`isValid(s, start + 1, end)`, `isValid(s, start, end - 1)`这两句。
+- [Valid Palindrome II](https://www.lintcode.com/problem/valid-palindrome-ii/description): 我的删除算法出了错。不能理解答案里的`isValid(s, start + 1, end)`, `isValid(s, start, end - 1)`这两句。
 
 ``` java
 private boolean isValid(String s, int delete) {
@@ -37,4 +37,5 @@ private boolean isValid(String s, int delete) {
 }
 ```
 
-[两数之差](src/org/likexin/twopointer/TwoSum7.java)的同向双指针解法。
+- [两数之差](src/org/likexin/twopointer/TwoSum7.java)的同向双指针解法。
+- 数据流问题。
