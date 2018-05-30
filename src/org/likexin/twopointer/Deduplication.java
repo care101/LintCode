@@ -30,7 +30,8 @@ public class Deduplication {
   }
 
   /**
-   * 法二：双指针法
+   * 法二：双指针法，先将数组排序，快指针走得快遍历整个数组，慢指针走得慢，指向不重复的最后一个数。
+   * 当发现快指针和慢指针不相同时，将快指针的值赋给慢指针，并且慢指针++。
    */
   public int deduplication2(int[] nums) {
     if (nums == null || nums.length == 0) {
