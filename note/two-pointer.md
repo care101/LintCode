@@ -153,7 +153,7 @@ private boolean isValid(char c) {
 同向双指针指的是两根指针都从头出发，朝着一个方向前进。可以解决以下问题：
 
 - 数组去重问题 [Remove duplicates in an array](../src/org/likexin/twopointer/Deduplication.java)
-- 滑动窗口问题 Window Sum
+- 滑动窗口问题 [Window Sum](../src/org/likexin/twopointer/WinSum.java)
 - 两数之差问题 Two Difference
 - 链表中点问题 Middle of Linked List
 - 带环链表问题 Linked List Cycle

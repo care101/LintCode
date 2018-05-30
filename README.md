@@ -41,6 +41,7 @@ Algorithm written by Java
 - [Valid Palindrome II](https://www.lintcode.com/problem/valid-palindrome-ii/description) [Java](src/org/likexin/twopointer/IsPalindromeII.java)
 - [deduplication](https://www.lintcode.com/problem/remove-duplicate-numbers-in-array/description) [java](src/org/likexin/twopointer/Deduplication.java)
 - [Window Sum](https://www.lintcode.com/problem/window-sum/description) [Java](src/org/likexin/twopointer/WinSum.java)
+- [Two Sum - Difference equals to target](https://www.lintcode.com/problem/two-sum-difference-equals-to-target/description) [java](src/org/likexin/twopointer/TwoSum7.java)
 
 ## String
 
