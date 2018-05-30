@@ -40,6 +40,7 @@ Algorithm written by Java
 - Valid Palindrome [Java](src/org/likexin/twopointer/IsPalindrome.java) [题目](https://www.lintcode.com/problem/valid-palindrome/description)
 - [Valid Palindrome II](https://www.lintcode.com/problem/valid-palindrome-ii/description) [Java](src/org/likexin/twopointer/IsPalindromeII.java)
 - [deduplication](https://www.lintcode.com/problem/remove-duplicate-numbers-in-array/description) [java](src/org/likexin/twopointer/Deduplication.java)
+- [Window Sum](https://www.lintcode.com/problem/window-sum/description) [Java](src/org/likexin/twopointer/WinSum.java)
 
 ## String
 
