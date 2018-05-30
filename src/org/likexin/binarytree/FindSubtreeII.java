@@ -7,38 +7,39 @@ package org.likexin.binarytree;
  */
 public class FindSubtreeII {
 
-    private class ResultType {
-        public int sum;
-        public int size;
-        public ResultType(int sum, int size) {
-            this.sum = sum;
-            this.size = size;
-        }
+  private TreeNode subtree = null;
+  private ResultType subtreeResult = null;
+
+  public TreeNode findSubtreeII(TreeNode root) {
+    helper(root);
+    return subtree;
+  }
+
+  private ResultType helper(TreeNode node) {
+    if (node == null) {
+      return new ResultType(0, 0);
     }
 
-    private TreeNode subtree = null;
-    private ResultType subtreeResult = null;
+    ResultType left = helper(node.left);
+    ResultType right = helper(node.right);
+    ResultType result = new ResultType(left.sum + right.sum + node.val, left.size + right.size + 1);
 
-    public TreeNode findSubtreeII(TreeNode root) {
-        helper(root);
-        return subtree;
+    if (subtree == null || subtreeResult.sum * result.size < result.sum * subtreeResult.size) {
+      subtree = node;
+      subtreeResult = result;
     }
 
-    private ResultType helper(TreeNode node) {
-        if (node == null) {
-            return new ResultType(0, 0);
-        }
+    return result;
+  }
 
-        ResultType left = helper(node.left);
-        ResultType right = helper(node.right);
-        ResultType result = new ResultType(left.sum + right.sum + node.val, left.size + right.size + 1);
+  private class ResultType {
+    public int sum;
+    public int size;
 
-        if (subtree == null || subtreeResult.sum * result.size < result.sum * subtreeResult.size) {
-            subtree = node;
-            subtreeResult = result;
-        }
-
-        return result;
+    public ResultType(int sum, int size) {
+      this.sum = sum;
+      this.size = size;
     }
+  }
 
 }
