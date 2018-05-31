@@ -154,9 +154,18 @@ private boolean isValid(char c) {
 
 - 数组去重问题 [Remove duplicates in an array](../src/org/likexin/twopointer/Deduplication.java)
 - 滑动窗口问题 [Window Sum](../src/org/likexin/twopointer/WinSum.java)
-- 两数之差问题 Two Difference
-- 链表中点问题 Middle of Linked List
-- 带环链表问题 Linked List Cycle
+- 两数之差问题 [Two Difference](../src/org/likexin/twopointer/TwoSum7.java)
+- 链表中点问题 [Middle of Linked List](../src/org/likexin/twopointer/MiddleNode.java)
+- 带环链表问题 [Linked List Cycle](../src/org/likexin/twopointer/HasCycle.java)
 
 ## 快速排序算法
 
+快速排序是一种先整体有序再部分有序的算法，它先选取一个 pivot 基准数，比 pivot 小的都扔到左边，比 pivot 大的都扔到右边，这样就实现了整体有序。再递归左边和右边做同样的操作，就会使得部分也变得有序。
+
+[quick sort](../src/org/likexin/twopointer/QuickSort.java)
+
+## 归并排序算法
+
+归并排序是一种先部分有序再整体有序的算法，它先递归左右两边使之有序，再归并两个有序的部分。将两个有序数组合并成一个数组需要耗费 `O(n)` 的空间。
+
+[merge sort](../src/org/likexin/twopointer/MergeSort.java)
