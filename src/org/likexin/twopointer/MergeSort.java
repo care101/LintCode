@@ -2,7 +2,12 @@ package org.likexin.twopointer;
 
 public class MergeSort {
 
-  public void sort(int[] A) {
+  /**
+   * 先部分有序再整体有序。即：先递归左右两边使左右两边先变得有序，再归并两个有序部分。
+   * 时间复杂度：O(nlogn)
+   * 空间复杂度：O(n)
+   */
+  public void sortInteger(int[] A) {
     if (A == null || A.length == 0) {
       return;
     }

@@ -43,6 +43,9 @@ Algorithm written by Java
 - [Window Sum](https://www.lintcode.com/problem/window-sum/description) [Java](src/org/likexin/twopointer/WinSum.java)
 - [Two Sum - Difference equals to target](https://www.lintcode.com/problem/two-sum-difference-equals-to-target/description) [Java](src/org/likexin/twopointer/TwoSum7.java)
 - [Linked List Cycle](https://www.lintcode.com/problem/linked-list-cycle/note) [Java](src/org/likexin/twopointer/HasCycle.java)
+- [Quick Sort](https://www.lintcode.com/problem/sort-integers-ii/description) [Java](src/org/likexin/twopointer/QuickSort.java)
+- [Merge Sort](https://www.lintcode.com/problem/sort-integers-ii/description) [Java](src/org/likexin/twopointer/MergeSort.java)
+- [Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description) [Java](src/org/likexin/twopointer/QuickSelect.java)
 
 ## String
 
