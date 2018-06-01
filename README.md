@@ -47,6 +47,7 @@ Algorithm written by Java
 - [Merge Sort](https://www.lintcode.com/problem/sort-integers-ii/description) [Java](src/org/likexin/twopointer/MergeSort.java)
 - [Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description) [Java](src/org/likexin/twopointer/QuickSelect.java)
 - [Sort Colors](https://www.lintcode.com/problem/sort-colors/description) [Java](src/org/likexin/twopointer/SortColor.java)
+- [Move Zeros](https://www.lintcode.com/problem/move-zeroes/description) [Java](src/org/likexin/twopointer/MoveZeros.java)
 
 ## String
 
