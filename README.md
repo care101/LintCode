@@ -39,7 +39,7 @@ Algorithm written by Java
 - Two Sum [Java](src/org/likexin/twopointer/TwoSum.java) [题目](https://www.lintcode.com/problem/two-sum/description)
 - Valid Palindrome [Java](src/org/likexin/twopointer/IsPalindrome.java) [题目](https://www.lintcode.com/problem/valid-palindrome/description)
 - [Valid Palindrome II](https://www.lintcode.com/problem/valid-palindrome-ii/description) [Java](src/org/likexin/twopointer/IsPalindromeII.java)
-- [deduplication](https://www.lintcode.com/problem/remove-duplicate-numbers-in-array/description) [java](src/org/likexin/twopointer/Deduplication.java)
+- [deduplication](https://www.lintcode.com/problem/remove-duplicate-numbers-in-array/description) [Java](src/org/likexin/twopointer/Deduplication.java)
 - [Window Sum](https://www.lintcode.com/problem/window-sum/description) [Java](src/org/likexin/twopointer/WinSum.java)
 - [Two Sum - Difference equals to target](https://www.lintcode.com/problem/two-sum-difference-equals-to-target/description) [Java](src/org/likexin/twopointer/TwoSum7.java)
 - [Linked List Cycle](https://www.lintcode.com/problem/linked-list-cycle/note) [Java](src/org/likexin/twopointer/HasCycle.java)
@@ -48,6 +48,7 @@ Algorithm written by Java
 - [Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description) [Java](src/org/likexin/twopointer/QuickSelect.java)
 - [Sort Colors](https://www.lintcode.com/problem/sort-colors/description) [Java](src/org/likexin/twopointer/SortColor.java)
 - [Move Zeros](https://www.lintcode.com/problem/move-zeroes/description) [Java](src/org/likexin/twopointer/MoveZeros.java)
+- [Partition Array](https://www.lintcode.com/problem/partition-array/description) [Java](src/org/likexin/twopointer/MoveZeros.java)
 
 ## String
 
