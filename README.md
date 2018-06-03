@@ -49,6 +49,7 @@ Algorithm written by Java
 - [Sort Colors](https://www.lintcode.com/problem/sort-colors/description) [Java](src/org/likexin/twopointer/SortColor.java)
 - [Move Zeros](https://www.lintcode.com/problem/move-zeroes/description) [Java](src/org/likexin/twopointer/MoveZeros.java)
 - [Partition Array](https://www.lintcode.com/problem/partition-array/description) [Java](src/org/likexin/twopointer/MoveZeros.java)
+- [3 Sum](https://www.lintcode.com/problem/3sum/description) [Java](src/org/likexin/twopointer/ThreeSum.java)
 
 ## String
 
