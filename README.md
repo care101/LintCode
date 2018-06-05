@@ -51,6 +51,10 @@ Algorithm written by Java
 - [Partition Array](https://www.lintcode.com/problem/partition-array/description) [Java](src/org/likexin/twopointer/MoveZeros.java)
 - [3 Sum](https://www.lintcode.com/problem/3sum/description) [Java](src/org/likexin/twopointer/ThreeSum.java)
 
+## BFS
+
+- [BFS 算法总结](note/bfs.md)
+
 ## String
 
 - [String 总结](note/string/string-1.md)
