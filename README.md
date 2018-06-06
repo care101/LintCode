@@ -55,6 +55,7 @@ Algorithm written by Java
 
 - [BFS 算法总结](note/bfs.md)
 - [Binary Tree Level Order Traversal](https://www.lintcode.com/problem/binary-tree-level-order-traversal/description): [Java Solution](src/org/likexin/bfs/LevelOrder.java)
+- [Number of Islands](https://www.lintcode.com/problem/number-of-islands/description) [Java](src/org/likexin/bfs/NumIslands.java)
 
 ## String
 
