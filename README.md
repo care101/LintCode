@@ -6,8 +6,8 @@ LintCode/LeetCode algorithm written by Java or python or anything else.
 
 [二分法总结](note/binarysearch.md)
 
-| #   |  Problem  | Solution | Comments |
-| --- | --------- | -------- | -------- |
+| #   |  Problem  | Solution | Comments   |
+| --- | --------- | -------- | :--------: |
 |1|[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/)|[Java](Java/binarysearch/ClassicalBinarySearch.java)|  |
 |2|[Maximum Number in Mountain Sequence](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[Java](src/org/likexin/binarysearch/MountainSequence.java)| |
 |3|[Last Position of Target](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[Java](src/org/likexin/binarysearch/LastPosition.java)| |
@@ -40,8 +40,8 @@ LintCode/LeetCode algorithm written by Java or python or anything else.
 
 [双指针算法总结](note/two-pointer.md)
 
-| #   |  Problem  | Solution | Comments |
-| --- | --------- | -------- | -------- |
+| #   |  Problem  | Solution | Comments   |
+| --- | --------- | -------- | :--------: |
 |1|[Two Sum](https://www.lintcode.com/problem/two-sum/description)|[Java](src/org/likexin/twopointer/TwoSum.java)||
 |2|[Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/description)|[Java](src/org/likexin/twopointer/IsPalindrome.java)||
 |3|[Valid Palindrome II](https://www.lintcode.com/problem/valid-palindrome-ii/description)|[Java](src/org/likexin/twopointer/IsPalindromeII.java)||
@@ -62,8 +62,8 @@ LintCode/LeetCode algorithm written by Java or python or anything else.
 
 [BFS 算法总结](note/bfs.md)
 
-| #   |  Problem  | Solution | Comments |
-| --- | --------- | -------- | -------- |
+| #   |  Problem  | Solution | Comments   |
+| --- | --------- | -------- | :--------: |
 |1|[Binary Tree Level Order Traversal](https://www.lintcode.com/problem/binary-tree-level-order-traversal/description)|[Java](src/org/likexin/bfs/LevelOrder.java)||
 |2|[Number of Islands](https://www.lintcode.com/problem/number-of-islands/description)|[Java](src/org/likexin/bfs/NumIslands.java)||
 |3|**[BFS 算法总结](note/bfs.md)**|||
