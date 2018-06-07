@@ -8,7 +8,7 @@ LintCode/LeetCode algorithm written by Java or python or anything else.
 
 | #   |  Problem  | Solution | Comments |
 | --- | --------- | -------- | -------- |
-|1|[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/)|[Java](src/org/likexin/binarysearch/ClassicalBinarySearch.java)|  |
+|1|[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/)|[Java](Java/binarysearch/ClassicalBinarySearch.java)|  |
 |2|[Maximum Number in Mountain Sequence](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[Java](src/org/likexin/binarysearch/MountainSequence.java)| |
 |3|[Last Position of Target](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[Java](src/org/likexin/binarysearch/LastPosition.java)| |
 |4|[K Closest Numbers In Sorted Array](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)|[Java](src/org/likexin/binarysearch/KClosestNumber.java)| |
