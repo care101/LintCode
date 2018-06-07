@@ -6,8 +6,8 @@ LintCode/LeetCode algorithm written by Java or python or anything else.
 
 [二分法总结](note/binarysearch.md)
 
-| #   |  Title  | Solution | Comments |
-| --- | ------- | -------- | -------- |
+| #   |  Problem  | Solution | Comments |
+| --- | --------- | -------- | -------- |
 |1|[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/)|[Java](src/org/likexin/binarysearch/ClassicalBinarySearch.java)|  |
 |2|[Maximum Number in Mountain Sequence](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[Java](src/org/likexin/binarysearch/MountainSequence.java)| |
 |3|[Last Position of Target](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[Java](src/org/likexin/binarysearch/LastPosition.java)| |
@@ -20,6 +20,7 @@ LintCode/LeetCode algorithm written by Java or python or anything else.
 |10|[Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/description)|[Java](src/org/likexin/binarysearch/RecoverRotatedSortedArray.java)||
 |11|[Pow(x, n)](https://www.lintcode.com/problem/powx-n/description)|[Java](src/org/likexin/binarysearch/MyPow.java)||
 |12|[Fast Power](https://www.lintcode.com/problem/fast-power/description)||**TODO**|
+|13|**[二分法总结](note/binarysearch.md)**|||
 
 <!--
 - [Search a 2D Matrix](http://www.lintcode.com/en/problem/search-a-2d-matrix/)
@@ -37,21 +38,23 @@ LintCode/LeetCode algorithm written by Java or python or anything else.
 
 ## Two pointer
 
-- [双指针算法总结](note/two-pointer.md)
-- Two Sum [Java](src/org/likexin/twopointer/TwoSum.java) [题目](https://www.lintcode.com/problem/two-sum/description)
-- Valid Palindrome [Java](src/org/likexin/twopointer/IsPalindrome.java) [题目](https://www.lintcode.com/problem/valid-palindrome/description)
-- [Valid Palindrome II](https://www.lintcode.com/problem/valid-palindrome-ii/description) [Java](src/org/likexin/twopointer/IsPalindromeII.java)
-- [deduplication](https://www.lintcode.com/problem/remove-duplicate-numbers-in-array/description) [Java](src/org/likexin/twopointer/Deduplication.java)
-- [Window Sum](https://www.lintcode.com/problem/window-sum/description) [Java](src/org/likexin/twopointer/WinSum.java)
-- [Two Sum - Difference equals to target](https://www.lintcode.com/problem/two-sum-difference-equals-to-target/description) [Java](src/org/likexin/twopointer/TwoSum7.java)
-- [Linked List Cycle](https://www.lintcode.com/problem/linked-list-cycle/note) [Java](src/org/likexin/twopointer/HasCycle.java)
-- [Quick Sort](https://www.lintcode.com/problem/sort-integers-ii/description) [Java](src/org/likexin/twopointer/QuickSort.java)
-- [Merge Sort](https://www.lintcode.com/problem/sort-integers-ii/description) [Java](src/org/likexin/twopointer/MergeSort.java)
-- [Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description) [Java](src/org/likexin/twopointer/QuickSelect.java)
-- [Sort Colors](https://www.lintcode.com/problem/sort-colors/description) [Java](src/org/likexin/twopointer/SortColor.java)
-- [Move Zeros](https://www.lintcode.com/problem/move-zeroes/description) [Java](src/org/likexin/twopointer/MoveZeros.java)
-- [Partition Array](https://www.lintcode.com/problem/partition-array/description) [Java](src/org/likexin/twopointer/MoveZeros.java)
-- [3 Sum](https://www.lintcode.com/problem/3sum/description) [Java](src/org/likexin/twopointer/ThreeSum.java)
+| #   |  Problem  | Solution | Comments |
+| --- | --------- | -------- | -------- |
+|1|[Two Sum](https://www.lintcode.com/problem/two-sum/description)|[Java](src/org/likexin/twopointer/TwoSum.java)||
+|2|[Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/description)|[Java](src/org/likexin/twopointer/IsPalindrome.java)||
+|3|[Valid Palindrome II](https://www.lintcode.com/problem/valid-palindrome-ii/description)|[Java](src/org/likexin/twopointer/IsPalindromeII.java)||
+|4|[deduplication](https://www.lintcode.com/problem/remove-duplicate-numbers-in-array/description)|[Java](src/org/likexin/twopointer/Deduplication.java)||
+|5|[Window Sum](https://www.lintcode.com/problem/window-sum/description)|[Java](src/org/likexin/twopointer/WinSum.java)||
+|6|[Two Sum - Difference equals to target](https://www.lintcode.com/problem/two-sum-difference-equals-to-target/description)|[Java](src/org/likexin/twopointer/TwoSum7.java)||
+|7|[Linked List Cycle](https://www.lintcode.com/problem/linked-list-cycle/note)|[Java](src/org/likexin/twopointer/HasCycle.java)||
+|8|[Quick Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[Java](src/org/likexin/twopointer/QuickSort.java)|快速排序|
+|9|[Merge Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[Java](src/org/likexin/twopointer/MergeSort.java)|归并排序|
+|10|[Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description)|[Java](src/org/likexin/twopointer/QuickSelect.java)|Top K|
+|11|[Sort Colors](https://www.lintcode.com/problem/sort-colors/description)|[Java](src/org/likexin/twopointer/SortColor.java)|三指针|
+|12|[Move Zeros](https://www.lintcode.com/problem/move-zeroes/description)|[Java](src/org/likexin/twopointer/MoveZeros.java)||
+|13|[Partition Array](https://www.lintcode.com/problem/partition-array/description)|[Java](src/org/likexin/twopointer/MoveZeros.java)||
+|14|[3 Sum](https://www.lintcode.com/problem/3sum/description)|[Java](src/org/likexin/twopointer/ThreeSum.java)||
+|15|**[双指针算法总结](note/two-pointer.md)**|||
 
 ## BFS
 
