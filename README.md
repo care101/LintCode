@@ -1,6 +1,6 @@
-# AlgsProject
+# LintCode
 
-LintCode/LeetCode algorithm written by Java and python or anything else.
+LintCode/LeetCode algorithm written by Java or python or anything else.
 
 ## Binary Search
 
@@ -10,20 +10,16 @@ LintCode/LeetCode algorithm written by Java and python or anything else.
 | --- | ------- | -------- | -------- |
 |1|[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/)|[Java](src/org/likexin/binarysearch/ClassicalBinarySearch.java)|  |
 |2|[Maximum Number in Mountain Sequence](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[Java](src/org/likexin/binarysearch/MountainSequence.java)| |
-
-<!-- - [Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/) [Java](src/org/likexin/binarysearch/ClassicalBinarySearch.java)
-- Maximum Number in Mountain Sequence [Java](src/org/likexin/binarysearch/MountainSequence.java) [题目](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)
-- Last Position of Target [Java](src/org/likexin/binarysearch/LastPosition.java) [题目](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)
-- K Closest Numbers In Sorted Array [Java](src/org/likexin/binarysearch/KClosestNumber.java) [题目](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)
-- Search in a Big Sorted Array [Java](src/org/likexin/binarysearch/SearchBigSortedArray.java) [题目](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)
-- Find Minimum in Rotated Sorted Array [Java](src/org/likexin/binarysearch/FindMin.java) [题目](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)
-- Find Peak Element [Java](src/org/likexin/binarysearch/FindPeak.java) [题目](http://www.lintcode.com/en/problem/find-peak-element/)
-- First Bad Version [Java](src/org/likexin/binarysearch/FindFirstBadVersion.java) [题目](http://www.lintcode.com/en/problem/search-a-2d-matrix/)
-- Search in Rotated Sorted Array [Java](src/org/likexin/binarysearch/Search.java) [题目](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)
-- Recover Rotated Sorted Array [Java](src/org/likexin/binarysearch/RecoverRotatedSortedArray.java) [题目](https://www.lintcode.com/problem/recover-rotated-sorted-array/description)
-- Pow(x, n) [Java](src/org/likexin/binarysearch/MyPow.java) [题目](https://www.lintcode.com/problem/powx-n/description)
-
-- Fast Power [题目](https://www.lintcode.com/problem/fast-power/description) **TODO** -->
+|3|[Last Position of Target](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[Java](src/org/likexin/binarysearch/LastPosition.java)| |
+|4|[K Closest Numbers In Sorted Array](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)|[Java](src/org/likexin/binarysearch/KClosestNumber.java)| |
+|5|[Search in a Big Sorted Array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)|[Java](src/org/likexin/binarysearch/SearchBigSortedArray.java)||
+|6|[Find Minimum in Rotated Sorted Array](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)|[Java](src/org/likexin/binarysearch/FindMin.java)||
+|7|[Find Peak Element](http://www.lintcode.com/en/problem/find-peak-element/)|[Java](src/org/likexin/binarysearch/FindPeak.java)||
+|8|[First Bad Version](http://www.lintcode.com/en/problem/search-a-2d-matrix/)|[Java](src/org/likexin/binarysearch/FindFirstBadVersion.java)||
+|9|[Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)|[Java](src/org/likexin/binarysearch/Search.java)||
+|10|[Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/description)|[Java](src/org/likexin/binarysearch/RecoverRotatedSortedArray.java)||
+|11|[Pow(x, n)](https://www.lintcode.com/problem/powx-n/description)|[Java](src/org/likexin/binarysearch/MyPow.java)||
+|12|[Fast Power](https://www.lintcode.com/problem/fast-power/description)||**TODO**|
 
 <!--
 - [Search a 2D Matrix](http://www.lintcode.com/en/problem/search-a-2d-matrix/)
