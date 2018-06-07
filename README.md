@@ -1,11 +1,17 @@
 # AlgsProject
 
-Algorithm written by Java
+LintCode/LeetCode algorithm written by Java and python or anything else.
 
 ## Binary Search
 
-- [二分法总结](note/binarysearch.md)
-- [Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/) [Java](src/org/likexin/binarysearch/ClassicalBinarySearch.java)
+[二分法总结](note/binarysearch.md)
+
+| #   |  Title  | Solution | Comments |
+| --- | ------- | -------- | -------- |
+|1|[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/)|[Java](src/org/likexin/binarysearch/ClassicalBinarySearch.java)|  |
+|2|[Maximum Number in Mountain Sequence](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[Java](src/org/likexin/binarysearch/MountainSequence.java)| |
+
+<!-- - [Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/) [Java](src/org/likexin/binarysearch/ClassicalBinarySearch.java)
 - Maximum Number in Mountain Sequence [Java](src/org/likexin/binarysearch/MountainSequence.java) [题目](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)
 - Last Position of Target [Java](src/org/likexin/binarysearch/LastPosition.java) [题目](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)
 - K Closest Numbers In Sorted Array [Java](src/org/likexin/binarysearch/KClosestNumber.java) [题目](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)
@@ -17,7 +23,7 @@ Algorithm written by Java
 - Recover Rotated Sorted Array [Java](src/org/likexin/binarysearch/RecoverRotatedSortedArray.java) [题目](https://www.lintcode.com/problem/recover-rotated-sorted-array/description)
 - Pow(x, n) [Java](src/org/likexin/binarysearch/MyPow.java) [题目](https://www.lintcode.com/problem/powx-n/description)
 
-- Fast Power [题目](https://www.lintcode.com/problem/fast-power/description) **TODO**
+- Fast Power [题目](https://www.lintcode.com/problem/fast-power/description) **TODO** -->
 
 <!--
 - [Search a 2D Matrix](http://www.lintcode.com/en/problem/search-a-2d-matrix/)
