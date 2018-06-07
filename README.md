@@ -38,6 +38,8 @@ LintCode/LeetCode algorithm written by Java or python or anything else.
 
 ## Two pointer
 
+[双指针算法总结](note/two-pointer.md)
+
 | #   |  Problem  | Solution | Comments |
 | --- | --------- | -------- | -------- |
 |1|[Two Sum](https://www.lintcode.com/problem/two-sum/description)|[Java](src/org/likexin/twopointer/TwoSum.java)||
@@ -58,9 +60,13 @@ LintCode/LeetCode algorithm written by Java or python or anything else.
 
 ## BFS
 
-- [BFS 算法总结](note/bfs.md)
-- [Binary Tree Level Order Traversal](https://www.lintcode.com/problem/binary-tree-level-order-traversal/description): [Java Solution](src/org/likexin/bfs/LevelOrder.java)
-- [Number of Islands](https://www.lintcode.com/problem/number-of-islands/description) [Java](src/org/likexin/bfs/NumIslands.java)
+[BFS 算法总结](note/bfs.md)
+
+| #   |  Problem  | Solution | Comments |
+| --- | --------- | -------- | -------- |
+|1|[Binary Tree Level Order Traversal](https://www.lintcode.com/problem/binary-tree-level-order-traversal/description)|[Java](src/org/likexin/bfs/LevelOrder.java)||
+|2|[Number of Islands](https://www.lintcode.com/problem/number-of-islands/description)|[Java](src/org/likexin/bfs/NumIslands.java)||
+|3|**[BFS 算法总结](note/bfs.md)**|||
 
 ## String
 
