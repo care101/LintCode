@@ -20,7 +20,7 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 |10|[Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/description)|[Java](Java/binarysearch/RecoverRotatedSortedArray.java)||
 |11|[Pow(x, n)](https://www.lintcode.com/problem/powx-n/description)|[Java](Java/binarysearch/MyPow.java)||
 |12|[Fast Power](https://www.lintcode.com/problem/fast-power/description)||**TODO**|
-|13|**[二分法总结](note/binarysearch.md)**|||
+|13|**[二分法总结](note/binarysearch.md)**||**Summary**|
 
 <!--
 - [Search a 2D Matrix](http://www.lintcode.com/en/problem/search-a-2d-matrix/)
@@ -56,7 +56,7 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 |12|[Move Zeros](https://www.lintcode.com/problem/move-zeroes/description)|[Java](Java/twopointer/MoveZeros.java)||
 |13|[Partition Array](https://www.lintcode.com/problem/partition-array/description)|[Java](Java/twopointer/MoveZeros.java)||
 |14|[3 Sum](https://www.lintcode.com/problem/3sum/description)|[Java](Java/twopointer/ThreeSum.java)||
-|15|**[双指针算法总结](note/two-pointer.md)**|||
+|15|**[双指针算法总结](note/two-pointer.md)**||**Summary**|
 
 ## BFS
 
@@ -66,7 +66,7 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 | --- | --------- | :--------: | :--------: |
 |1|[Binary Tree Level Order Traversal](https://www.lintcode.com/problem/binary-tree-level-order-traversal/description)|[Java](Java/bfs/LevelOrder.java), [Python](Python/bfs/LevelOrder.py)||
 |2|[Number of Islands](https://www.lintcode.com/problem/number-of-islands/description)|[Java](Java/bfs/NumIslands.java)||
-|3|**[BFS 算法总结](note/bfs.md)**|||
+|3|**[BFS 算法总结](note/bfs.md)**||**Summary**|
 
 <!-- ## String
 
