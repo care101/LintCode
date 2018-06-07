@@ -6,29 +6,19 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 
 <!-- [二分法总结](note/binarysearch.md) -->
 
-| #   |  Problem  | Solution | Keywords   |
-| --- | --------- | -------- | :--------: |
+| #   |  Problem  |  Solution  |  Keywords  |
+| --- | --------- | :--------: | :--------: |
 |1|[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/)|[Java](Java/binarysearch/ClassicalBinarySearch.java)|  |
-|2|[Maximum Number in Mountain Sequence](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[Java](Java
-/binarysearch/MountainSequence.java)| |
-|3|[Last Position of Target](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[Java](Java
-/binarysearch/LastPosition.java)| |
-|4|[K Closest Numbers In Sorted Array](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)|[Java](Java
-/binarysearch/KClosestNumber.java)| |
-|5|[Search in a Big Sorted Array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)|[Java](Java
-/binarysearch/SearchBigSortedArray.java)||
-|6|[Find Minimum in Rotated Sorted Array](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)|[Java](Java
-/binarysearch/FindMin.java)||
-|7|[Find Peak Element](http://www.lintcode.com/en/problem/find-peak-element/)|[Java](Java
-/binarysearch/FindPeak.java)||
-|8|[First Bad Version](http://www.lintcode.com/en/problem/search-a-2d-matrix/)|[Java](Java
-/binarysearch/FindFirstBadVersion.java)||
-|9|[Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)|[Java](Java
-/binarysearch/Search.java)||
-|10|[Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/description)|[Java](Java
-/binarysearch/RecoverRotatedSortedArray.java)||
-|11|[Pow(x, n)](https://www.lintcode.com/problem/powx-n/description)|[Java](Java
-/binarysearch/MyPow.java)||
+|2|[Maximum Number in Mountain Sequence](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[Java](Java/binarysearch/MountainSequence.java)| |
+|3|[Last Position of Target](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[Java](Java/binarysearch/LastPosition.java)| |
+|4|[K Closest Numbers In Sorted Array](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)|[Java](Java/binarysearch/KClosestNumber.java)| |
+|5|[Search in a Big Sorted Array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)|[Java](Java/binarysearch/SearchBigSortedArray.java)||
+|6|[Find Minimum in Rotated Sorted Array](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)|[Java](Java/binarysearch/FindMin.java)||
+|7|[Find Peak Element](http://www.lintcode.com/en/problem/find-peak-element/)|[Java](Java/binarysearch/FindPeak.java)||
+|8|[First Bad Version](http://www.lintcode.com/en/problem/search-a-2d-matrix/)|[Java](Java/binarysearch/FindFirstBadVersion.java)||
+|9|[Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)|[Java](Java/binarysearch/Search.java)||
+|10|[Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/description)|[Java](Java/binarysearch/RecoverRotatedSortedArray.java)||
+|11|[Pow(x, n)](https://www.lintcode.com/problem/powx-n/description)|[Java](Java/binarysearch/MyPow.java)||
 |12|[Fast Power](https://www.lintcode.com/problem/fast-power/description)||**TODO**|
 |13|**[二分法总结](note/binarysearch.md)**|||
 
@@ -50,48 +40,32 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 
 <!-- [双指针算法总结](note/two-pointer.md) -->
 
-| #   |  Problem  | Solution | Keywords   |
-| --- | --------- | -------- | :--------: |
-|1|[Two Sum](https://www.lintcode.com/problem/two-sum/description)|[Java](Java
-/twopointer/TwoSum.java)||
-|2|[Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/description)|[Java](Java
-/twopointer/IsPalindrome.java)||
-|3|[Valid Palindrome II](https://www.lintcode.com/problem/valid-palindrome-ii/description)|[Java](Java
-/twopointer/IsPalindromeII.java)||
-|4|[deduplication](https://www.lintcode.com/problem/remove-duplicate-numbers-in-array/description)|[Java](Java
-/twopointer/Deduplication.java)||
-|5|[Window Sum](https://www.lintcode.com/problem/window-sum/description)|[Java](Java
-/twopointer/WinSum.java)||
-|6|[Two Sum - Difference equals to target](https://www.lintcode.com/problem/two-sum-difference-equals-to-target/description)|[Java](Java
-/twopointer/TwoSum7.java)||
-|7|[Linked List Cycle](https://www.lintcode.com/problem/linked-list-cycle/note)|[Java](Java
-/twopointer/HasCycle.java)||
-|8|[Quick Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[Java](Java
-/twopointer/QuickSort.java)|快速排序|
-|9|[Merge Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[Java](Java
-/twopointer/MergeSort.java)|归并排序|
-|10|[Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description)|[Java](Java
-/twopointer/QuickSelect.java)|Top K|
-|11|[Sort Colors](https://www.lintcode.com/problem/sort-colors/description)|[Java](Java
-/twopointer/SortColor.java)|三指针|
-|12|[Move Zeros](https://www.lintcode.com/problem/move-zeroes/description)|[Java](Java
-/twopointer/MoveZeros.java)||
-|13|[Partition Array](https://www.lintcode.com/problem/partition-array/description)|[Java](Java
-/twopointer/MoveZeros.java)||
-|14|[3 Sum](https://www.lintcode.com/problem/3sum/description)|[Java](Java
-/twopointer/ThreeSum.java)||
+| #   |  Problem  |  Solution  |  Keywords  |
+| --- | --------- | :--------: | :--------: |
+|1|[Two Sum](https://www.lintcode.com/problem/two-sum/description)|[Java](Java/twopointer/TwoSum.java)||
+|2|[Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/description)|[Java](Java/twopointer/IsPalindrome.java)||
+|3|[Valid Palindrome II](https://www.lintcode.com/problem/valid-palindrome-ii/description)|[Java](Java/twopointer/IsPalindromeII.java)||
+|4|[deduplication](https://www.lintcode.com/problem/remove-duplicate-numbers-in-array/description)|[Java](Java/twopointer/Deduplication.java)||
+|5|[Window Sum](https://www.lintcode.com/problem/window-sum/description)|[Java](Java/twopointer/WinSum.java)||
+|6|[Two Sum - Difference equals to target](https://www.lintcode.com/problem/two-sum-difference-equals-to-target/description)|[Java](Java/twopointer/TwoSum7.java)||
+|7|[Linked List Cycle](https://www.lintcode.com/problem/linked-list-cycle/note)|[Java](Java/twopointer/HasCycle.java)||
+|8|[Quick Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[Java](Java/twopointer/QuickSort.java)|快速排序|
+|9|[Merge Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[Java](Java/twopointer/MergeSort.java)|归并排序|
+|10|[Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description)|[Java](Java/twopointer/QuickSelect.java)|Top K|
+|11|[Sort Colors](https://www.lintcode.com/problem/sort-colors/description)|[Java](Java/twopointer/SortColor.java)|三指针|
+|12|[Move Zeros](https://www.lintcode.com/problem/move-zeroes/description)|[Java](Java/twopointer/MoveZeros.java)||
+|13|[Partition Array](https://www.lintcode.com/problem/partition-array/description)|[Java](Java/twopointer/MoveZeros.java)||
+|14|[3 Sum](https://www.lintcode.com/problem/3sum/description)|[Java](Java/twopointer/ThreeSum.java)||
 |15|**[双指针算法总结](note/two-pointer.md)**|||
 
 ## BFS
 
 <!-- [BFS 算法总结](note/bfs.md) -->
 
-| #   |  Problem  | Solution | Keywords   |
-| --- | --------- | -------- | :--------: |
-|1|[Binary Tree Level Order Traversal](https://www.lintcode.com/problem/binary-tree-level-order-traversal/description)|[Java](Java
-/bfs/LevelOrder.java)||
-|2|[Number of Islands](https://www.lintcode.com/problem/number-of-islands/description)|[Java](Java
-/bfs/NumIslands.java)||
+| #   |  Problem  |  Solution  |  Keywords  |
+| --- | --------- | :--------: | :--------: |
+|1|[Binary Tree Level Order Traversal](https://www.lintcode.com/problem/binary-tree-level-order-traversal/description)|[Java](Java/bfs/LevelOrder.java), [Python](Python/bfs/LevelOrder.py)||
+|2|[Number of Islands](https://www.lintcode.com/problem/number-of-islands/description)|[Java](Java/bfs/NumIslands.java)||
 |3|**[BFS 算法总结](note/bfs.md)**|||
 
 <!-- ## String
