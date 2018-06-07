@@ -1,3 +1,5 @@
 .idea
 out
 AlgsProject.iml
+src
+.vscode
