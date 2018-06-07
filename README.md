@@ -65,7 +65,7 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
 |1|[Binary Tree Level Order Traversal](https://www.lintcode.com/problem/binary-tree-level-order-traversal/description)|[Java](Java/bfs/LevelOrder.java), [Python](Python/bfs/LevelOrder.py)||
-|2|[Number of Islands](https://www.lintcode.com/problem/number-of-islands/description)|[Java](Java/bfs/NumIslands.java)||
+|2|[Number of Islands](https://www.lintcode.com/problem/number-of-islands/description)|[Java](Java/bfs/NumIslands.java), [Python](Python/bfs/NumIslands.py)||
 |3|[Topological Sorting](https://www.lintcode.com/problem/topological-sorting/description)|[Java](Java/bfs/TopSorting.java)||
 |4|**[BFS 算法总结](note/bfs.md)**||**Summary**|
 
