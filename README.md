@@ -12,13 +12,13 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 |2|[Maximum Number in Mountain Sequence](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[Java](Java/binarysearch/MountainSequence.java)| |
 |3|[Last Position of Target](http://www.lintcode.com/en/problem/maximum-number-in-mountain-sequence/)|[Java](Java/binarysearch/LastPosition.java)| |
 |4|[K Closest Numbers In Sorted Array](http://www.lintcode.com/en/problem/k-closest-numbers-in-sorted-array/)|[Java](Java/binarysearch/KClosestNumber.java)| |
-|5|[Search in a Big Sorted Array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)|[Java](Java/binarysearch/SearchBigSortedArray.java)||
+|5|[Search in a Big Sorted Array](http://www.lintcode.com/en/problem/search-in-a-big-sorted-array/)|[Java](Java/binarysearch/SearchBigSortedArray.java)|倍增法|
 |6|[Find Minimum in Rotated Sorted Array](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array/)|[Java](Java/binarysearch/FindMin.java)||
 |7|[Find Peak Element](http://www.lintcode.com/en/problem/find-peak-element/)|[Java](Java/binarysearch/FindPeak.java)||
 |8|[First Bad Version](http://www.lintcode.com/en/problem/search-a-2d-matrix/)|[Java](Java/binarysearch/FindFirstBadVersion.java)||
 |9|[Search in Rotated Sorted Array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array/)|[Java](Java/binarysearch/Search.java)||
 |10|[Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/description)|[Java](Java/binarysearch/RecoverRotatedSortedArray.java)||
-|11|[Pow(x, n)](https://www.lintcode.com/problem/powx-n/description)|[Java](Java/binarysearch/MyPow.java)||
+|11|[Pow(x, n)](https://www.lintcode.com/problem/powx-n/description)|[Java](Java/binarysearch/MyPow.java)|快速幂算法|
 |12|[Fast Power](https://www.lintcode.com/problem/fast-power/description)||**TODO**|
 |13|**[二分法总结](note/binarysearch.md)**||**[Summary](note/binarysearch.md)**|
 
@@ -66,7 +66,7 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 | --- | --------- | :--------: | :--------: |
 |1|[Binary Tree Level Order Traversal](https://www.lintcode.com/problem/binary-tree-level-order-traversal/description)|[Java](Java/bfs/LevelOrder.java), [Python](Python/bfs/LevelOrder.py)||
 |2|[Number of Islands](https://www.lintcode.com/problem/number-of-islands/description)|[Java](Java/bfs/NumIslands.java), [Python](Python/bfs/NumIslands.py)||
-|3|[Topological Sorting](https://www.lintcode.com/problem/topological-sorting/description)|[Java](Java/bfs/TopSorting.java)||
+|3|[Topological Sorting](https://www.lintcode.com/problem/topological-sorting/description)|[Java](Java/bfs/TopSorting.java)|拓扑排序|
 |4|[Word Ladder](https://www.lintcode.com/problem/word-ladder/description)|[Java](Java/bfs/WordLadder.java)|BFS+HashSet|
 |5|**[BFS 算法总结](note/bfs.md)**||**[Summary](note/bfs.md)**|
 
