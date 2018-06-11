@@ -20,7 +20,7 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 |10|[Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/description)|[Java](Java/binarysearch/RecoverRotatedSortedArray.java)||
 |11|[Pow(x, n)](https://www.lintcode.com/problem/powx-n/description)|[Java](Java/binarysearch/MyPow.java)|快速幂算法|
 |12|[Fast Power](https://www.lintcode.com/problem/fast-power/description)||**TODO**|
-|13|**[二分法总结](note/binarysearch.md)**||**[Summary](note/binarysearch.md)**|
+|13|**[二分法总结](Note/binarysearch.md)**||**[Summary](Note/binarysearch.md)**|
 
 <!--
 - [Search a 2D Matrix](http://www.lintcode.com/en/problem/search-a-2d-matrix/)
@@ -56,7 +56,7 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 |12|[Move Zeros](https://www.lintcode.com/problem/move-zeroes/description)|[Java](Java/twopointer/MoveZeros.java)||
 |13|[Partition Array](https://www.lintcode.com/problem/partition-array/description)|[Java](Java/twopointer/MoveZeros.java)||
 |14|[3 Sum](https://www.lintcode.com/problem/3sum/description)|[Java](Java/twopointer/ThreeSum.java)||
-|15|**[双指针算法总结](note/two-pointer.md)**||**[Summary](note/two-pointer.md)**|
+|15|**[双指针算法总结](Note/two-pointer.md)**||**[Summary](Note/two-pointer.md)**|
 
 ## BFS
 
@@ -68,14 +68,14 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 |2|[Number of Islands](https://www.lintcode.com/problem/number-of-islands/description)|[Java](Java/bfs/NumIslands.java), [Python](Python/bfs/NumIslands.py)||
 |3|[Topological Sorting](https://www.lintcode.com/problem/topological-sorting/description)|[Java](Java/bfs/TopSorting.java)|拓扑排序|
 |4|[Word Ladder](https://www.lintcode.com/problem/word-ladder/description)|[Java](Java/bfs/WordLadder.java)|BFS+HashSet|
-|5|**[BFS 算法总结](note/bfs.md)**||**[Summary](note/bfs.md)**|
+|5|**[BFS 算法总结](Note/bfs.md)**||**[Summary](Note/bfs.md)**|
 
 ## DFS
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
 |1|[Maximum Depth of Binary Tree](https://www.lintcode.com/problem/maximum-depth-of-binary-tree/description)|[Java](Java/dfs/MaxDepth.java)|遍历/分治|
 |2|[Balanced Binary Tree](https://www.lintcode.com/problem/balanced-binary-tree/description)|[Java](Java/dfs/IsBalanced.java)|分治法|
-|3|**[DFS 算法总结](note/dfs.md)**||**[Summary](note/dfs.md)**|
+|3|**[DFS 算法总结](Note/dfs.md)**||**[Summary](Note/dfs.md)**|
 
 <!-- ## String
 
