@@ -4,8 +4,6 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 
 ## Binary Search
 
-<!-- [二分法总结](note/binarysearch.md) -->
-
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
 |1|[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/)|[Java](Java/binarysearch/ClassicalBinarySearch.java)|  |
@@ -38,8 +36,6 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 
 ## Two pointer
 
-<!-- [双指针算法总结](note/two-pointer.md) -->
-
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
 |1|[Two Sum](https://www.lintcode.com/problem/two-sum/description)|[Java](Java/twopointer/TwoSum.java)||
@@ -60,8 +56,6 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 
 ## BFS
 
-<!-- [BFS 算法总结](note/bfs.md) -->
-
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
 |1|[Binary Tree Level Order Traversal](https://www.lintcode.com/problem/binary-tree-level-order-traversal/description)|[Java](Java/bfs/LevelOrder.java), [Python](Python/bfs/LevelOrder.py)||
@@ -71,9 +65,10 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 |5|**[BFS 算法总结](Note/bfs.md)**||**[Summary](Note/bfs.md)**|
 
 ## DFS
+
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Maximum Depth of Binary Tree](https://www.lintcode.com/problem/maximum-depth-of-binary-tree/description)|[Java](Java/dfs/MaxDepth.java), [Python](Python/DFS/MaxDepth.py)|遍历/分治|
+|1|[Maximum Depth of Binary Tree](https://www.lintcode.com/problem/maximum-depth-of-binary-tree/description)|[Java](Java/dfs/MaxDepth.java), [Python](Python/dfs/MaxDepth.py), [JavaScript](JavaScript/dfs/MaxDepth.js)|遍历/分治|
 |2|[Balanced Binary Tree](https://www.lintcode.com/problem/balanced-binary-tree/description)|[Java](Java/dfs/IsBalanced.java)|分治法|
 |3|**[DFS 算法总结](Note/dfs.md)**||**[Summary](Note/dfs.md)**|
 
