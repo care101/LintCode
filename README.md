@@ -70,6 +70,12 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 |4|[Word Ladder](https://www.lintcode.com/problem/word-ladder/description)|[Java](Java/bfs/WordLadder.java)|BFS+HashSet|
 |5|**[BFS 算法总结](note/bfs.md)**||**[Summary](note/bfs.md)**|
 
+## DFS
+| #   |  Problem  |  Solution  |  Keywords  |
+| --- | --------- | :--------: | :--------: |
+|1|[Maximum Depth of Binary Tree](https://www.lintcode.com/problem/maximum-depth-of-binary-tree/description)|[Java](Java/dfs/MaxDepth.java)|遍历/分治|
+|2|**[DFS 算法总结](note/dfs.md)**||**[Summary](note/dfs.md)**|
+
 <!-- ## String
 
 - [String 总结](note/string/string-1.md)

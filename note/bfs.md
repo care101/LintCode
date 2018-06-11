@@ -1,4 +1,4 @@
-# 宽度优先搜索算法
+# 宽度优先搜索算法（BFS）
 
 ## 队列
 
@@ -133,3 +133,5 @@ while (!queue.isEmpty()) {
 ### 使用两个队列实现 BFS
 
 ### 使用 dummy node 实现 BFS
+
+## 双向宽度优先搜索算法（Bidirectional BFS）
