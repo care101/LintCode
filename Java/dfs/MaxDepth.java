@@ -11,19 +11,19 @@ public class MaxDepth {
    */
   public int maxDepth(TreeNode root) {
     depth = 0;
-    traversal(root, 1);
+    traverse(root, 1);
     return depth;
   }
 
-  private void traversal(TreeNode node, int currDepth) {
+  private void traverse(TreeNode node, int currDepth) {
     if (node == null) {
       return;
     }
 
     depth = Math.max(depth, currDepth);
 
-    traversal(node.left, currDepth + 1);
-    traversal(node.right, currDepth + 1);
+    traverse(node.left, currDepth + 1);
+    traverse(node.right, currDepth + 1);
   }
 
   /**
