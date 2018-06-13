@@ -71,7 +71,8 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 |1|[Maximum Depth of Binary Tree](https://www.lintcode.com/problem/maximum-depth-of-binary-tree/description)|[Java](Java/dfs/MaxDepth.java), [Python](Python/dfs/MaxDepth.py), [JavaScript](JavaScript/dfs/MaxDepth.js)|遍历/分治|
 |2|[Balanced Binary Tree](https://www.lintcode.com/problem/balanced-binary-tree/description)|[Java](Java/dfs/IsBalanced.java)|分治法|
 |3|[Validate Binary Search Tree](https://www.lintcode.com/problem/validate-binary-search-tree/description)|[Java](Java/dfs/ValidBST.java), [JavaScript](JavaScript/dfs/ValidBST.js)|遍历/分治|
-|4|**[DFS 算法总结](Note/dfs.md)**||**[Summary](Note/dfs.md)**|
+|4|[Closest Binary Search Tree Value](https://www.lintcode.com/problem/closest-binary-search-tree-value/description)|[Java](Java/dfs/ClosestValue.java), [JavaScript](JavaScript/dfs/ClosestValue.js)|二分|
+|5|**[DFS 算法总结](Note/dfs.md)**||**[Summary](Note/dfs.md)**|
 
 <!-- ## String
 

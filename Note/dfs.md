@@ -54,6 +54,8 @@ AVL 树指的是一颗平衡二叉树，即左右子树的高度差绝对值不�
 
 若二叉搜索树是 AVL 树，则最大的作用是保证查找的最坏时间复杂度为 `O(logN)`，而且较浅的树对插入和删除操作也更快。
 
+更多 AVL 树的内容见：[Binary Tree 笔记](./binarytree/binarytree-1.md)
+
 BST 指的是一棵树是空树，或者满足以下特性：
 
 - 若左子树不为空，那么左子树上的所有节点值都小于等于根节点值。
@@ -69,3 +71,5 @@ BST 引申而出的高级树：
 - 优化红黑树的 [AA 树](https://zh.wikipedia.org/wiki/AA%E6%A0%91)
 - 随机插入的[树堆](https://zh.wikipedia.org/wiki/%E6%A0%91%E5%A0%86)
 - 机器学习 kNN 算法的高维快速搜索 [k-d 树](https://zh.wikipedia.org/wiki/K-d%E6%A0%91)
+
+更多 BST 的内容见：[Binary Tree 笔记](./binarytree/binarytree-1.md)
