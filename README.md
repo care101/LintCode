@@ -79,7 +79,7 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Maximum Subarray](https://www.lintcode.com/problem/maximum-subarray/description)|[Java](Java/array/MaxSubarray.java), [JavaScript](JavaScript/array/MaxSubarray.js)|前缀和|
+|1|[Maximum Subarray](https://www.lintcode.com/problem/maximum-subarray/description)|[Java](Java/array/MaxSubarray.java), [JavaScript](JavaScript/array/MaxSubarray.js), [Python](Python/array/MaxSubarray.py)|前缀和|
 |2|**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
 
 
