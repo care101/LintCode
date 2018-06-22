@@ -16,11 +16,8 @@ class Solution:
         temp = preSum[0]
         maxSum = preSum[1]
         for j in range(len(preSum) - 1):
-          temp = min(temp, preSum[j])
-          # if maxSum <= preSum[j+1]:
-            # maxSum = preSum[j+1]
-          # maxSum = max(maxSum, preSum[j+1] - temp)
-          maxSum = max(maxSum, preSum[j+1], preSum[j+1]-temp)
+          temp = min(temp, preSum[j]) 
+          maxSum = max(maxSum, preSum[j+1]-temp)
         return maxSum
           
           
