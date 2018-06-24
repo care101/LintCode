@@ -80,7 +80,8 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
 |1|[Maximum Subarray](https://www.lintcode.com/problem/maximum-subarray/description)|[Java](Java/array/MaxSubarray.java), [JavaScript](JavaScript/array/MaxSubarray.js), [Python](Python/array/MaxSubarray.py)|前缀和|
-|2|**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
+|2|[Median of two Sorted Arrays](https://www.lintcode.com/problem/median-of-two-sorted-arrays/description)|[Python](Python/array/MedianOfSortedArray.py)||
+|3|**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
 
 <!-- ## String
 
