@@ -84,6 +84,12 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 |3|[Implement Stack by Two Queues](https://www.lintcode.com/problem/implement-stack-by-two-queues/description)|[Java](Java/array/Stack.java)||
 |4|**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
 
+## String
+| #   |  Problem  |  Solution  |  Keywords  |
+| --- | --------- | :--------: | :--------: |
+|1|[First Unique Character in a String](https://www.lintcode.com/problem/first-unique-character-in-a-string/description)|[Java](Java/string/UniqueChar.java)||
+|2|**[String 算法总结](Note/string.md)**||**[Summary](Note/string.md)**|
+
 <!-- ## String
 
 - [String 总结](note/string/string-1.md)
