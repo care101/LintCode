@@ -81,7 +81,8 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 | --- | --------- | :--------: | :--------: |
 |1|[Maximum Subarray](https://www.lintcode.com/problem/maximum-subarray/description)|[Java](Java/array/MaxSubarray.java), [JavaScript](JavaScript/array/MaxSubarray.js), [Python](Python/array/MaxSubarray.py)|前缀和|
 |2|[Median of two Sorted Arrays](https://www.lintcode.com/problem/median-of-two-sorted-arrays/description)|[Python](Python/array/MedianOfSortedArray.py)||
-|3|**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
+|3|[Implement Stack by Two Queues](https://www.lintcode.com/problem/implement-stack-by-two-queues/description)|[Java](Java/array/Stack.java)||
+|4|**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
 
 <!-- ## String
 
