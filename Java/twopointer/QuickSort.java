@@ -38,6 +38,8 @@ public class QuickSort {
         int temp = A[left];
         A[left] = A[right];
         A[right] = temp;
+
+        lef++; right--;
       }
     }
 

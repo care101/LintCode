@@ -73,7 +73,8 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 |3|[Validate Binary Search Tree](https://www.lintcode.com/problem/validate-binary-search-tree/description)|[Java](Java/dfs/ValidBST.java), [JavaScript](JavaScript/dfs/ValidBST.js)|遍历/分治|
 |4|[Closest Binary Search Tree Value](https://www.lintcode.com/problem/closest-binary-search-tree-value/description)|[Java](Java/dfs/ClosestValue.java), [JavaScript](JavaScript/dfs/ClosestValue.js)|二分|
 |5|[Minimum Subtree](https://www.lintcode.com/problem/minimum-subtree/description)|[Java](Java/dfs/MinSubtree.java)|遍历+分治|
-|5|**[DFS 算法总结](Note/dfs.md)**||**[Summary](Note/dfs.md)**|
+|6|[Triangle](https://www.lintcode.com/problem/triangle/description)|[Java](Java/dfs/Triangle.java)|分治+记忆搜索|
+|7|**[DFS 算法总结](Note/dfs.md)**||**[Summary](Note/dfs.md)**|
 
 ## Array
 
