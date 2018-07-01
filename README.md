@@ -94,7 +94,7 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 ## DP
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Minimum Path Sum](https://www.lintcode.com/problem/minimum-path-sum/description)|[Java](Java/dp/MinPathSum.java)||
+|1|[Minimum Path Sum](https://www.lintcode.com/problem/minimum-path-sum/description)|[Java](Java/dp/MinPathSum.java),[Python](Python/dp/MinimumPathSum.py)||
 |2|[Unique Paths](https://www.lintcode.com/problem/unique-paths/description)||[Python](Python/dp/UniquePaths.py)|
 |3|**[Dynamic Programming 算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
 
