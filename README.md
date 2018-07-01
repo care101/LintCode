@@ -91,6 +91,12 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 |1|[First Unique Character in a String](https://www.lintcode.com/problem/first-unique-character-in-a-string/description)|[Java](Java/string/UniqueChar.java)||
 |2|**[String 算法总结](Note/string.md)**||**[Summary](Note/string.md)**|
 
+## DP
+| #   |  Problem  |  Solution  |  Keywords  |
+| --- | --------- | :--------: | :--------: |
+|1|[Minimum Path Sum](https://www.lintcode.com/problem/minimum-path-sum/description)|[Java](Java/dp/MinPathSum.java)||
+|2|**[Dynamic Programming 算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
+
 <!-- ## String
 
 - [String 总结](note/string/string-1.md)
