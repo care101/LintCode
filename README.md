@@ -88,7 +88,7 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 ## String
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[First Unique Character in a String](https://www.lintcode.com/problem/first-unique-character-in-a-string/description)|[Java](Java/string/UniqueChar.java)||
+|1|[First Unique Character in a String](https://www.lintcode.com/problem/first-unique-character-in-a-string/description)|[Java](Java/string/UniqueChar.java),[Python](Python/string/UniqueChar.py)||
 |2|**[String 算法总结](Note/string.md)**||**[Summary](Note/string.md)**|
 
 ## DP
