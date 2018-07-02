@@ -187,7 +187,7 @@ public boolean dp_sum(int[] arr, int S) {
       if (arr[i] > j) {
         dp[i][j] = dp[i - 1][j];
       } else {
-        dp[i][j] = dp[i - 1][S - arr[i]] || dp[i - 1][j];
+        dp[i][j] = dp[i - 1][j - arr[i]] || dp[i - 1][j];
       }
     }
   }
