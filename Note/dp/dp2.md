@@ -183,8 +183,8 @@ public boolean dp_sum(int[] arr, int S) {
 
   for (int i = 1; i < dp.length; i++) {
     for (int j = 1; j < dp[0].length; j++) {
-      // 当 arr[i] > S 时，只有走不选这条路。
-      if (arr[i] > S) {
+      // 当 arr[i] > j 时，只有走不选这条路。
+      if (arr[i] > j) {
         dp[i][j] = dp[i - 1][j];
       } else {
         dp[i][j] = dp[i - 1][S - arr[i]] || dp[i - 1][j];
