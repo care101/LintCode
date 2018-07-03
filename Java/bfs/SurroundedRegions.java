@@ -14,25 +14,19 @@ public class SurroundedRegions {
   }
 
   /**
-   * TODO: 70%
-   * @param board
+   * 先找到连通域，如果发现连通域有边界点，则标记 O；否则标记 X。
+   *
+   * @param board: board a 2D board containing 'X' and 'O'
+   * @return: nothing
    */
   public void surroundedRegions(char[][] board) {
     if (board == null || board.length == 0 || board[0].length == 0) {
       return;
     }
-    for (int i = 1; i < board.length - 1; i++) {
-      for (int j = 1; j < board[0].length - 1; j++) {
-        if (board[i][j] == 'O') {
-          markByBFS(board, i, j);
-        }
-      }
-    }
-
     for (int i = 0; i < board.length; i++) {
       for (int j = 0; j < board[0].length; j++) {
-        if (board[i][j] == 'F') {
-          board[i][j] = 'O';
+        if (board[i][j] == 'O') {
+          markByBFS(board, i, j);
         }
       }
     }
@@ -44,34 +38,59 @@ public class SurroundedRegions {
 
     Coordinate coordinate = new Coordinate(x, y);
     Queue<Coordinate> queue = new LinkedList<>();
+    Set<Coordinate> set = new HashSet<>();
     queue.offer(coordinate);
+    set.add(coordinate);
+
+    board[coordinate.x][coordinate.y] = 'T';
 
     while (!queue.isEmpty()) {
-      int count = 0;
-      boolean flag = false;
       Coordinate coor = queue.poll();
-      board[coor.x][coor.y] = 'F';
-
       for (int i = 0; i < 4; i++) {
         int newX = coor.x + dirX[i];
         int newY = coor.y + dirY[i];
         if (inBound(board, newX, newY)) {
           Coordinate adj = new Coordinate(newX, newY);
-          if (board[adj.x][adj.y] == 'O') {
-            if (isBorder(board, adj.x, adj.y)) {
-              flag = true;
-            } else {
-              queue.offer(adj);
-            }
-          }
-          if (board[adj.x][adj.y] == 'F') {
-            count++;
+          if (board[newX][newY] == 'O') {
+            set.add(adj);
+            queue.offer(adj);
+            board[newX][newY] = 'T';
           }
         }
       }
-      if (!flag && count < 2) {
-        board[coor.x][coor.y] = 'X';
+    }
+    // 如果连通域没有边界点
+    if (!checkSet(set, board)) {
+      markX(board, set);
+    } else {
+      markO(board, set);
+    }
+  }
+
+  private boolean checkSet(Set<Coordinate> set, char[][] board) {
+    Iterator<Coordinate> ii = set.iterator();
+    while (ii.hasNext()) {
+      Coordinate c = ii.next();
+      if (isBorder(board, c.x, c.y)) {
+        return true;
       }
+    }
+    return false;
+  }
+
+  private void markO(char[][] board, Set<Coordinate> set) {
+    Iterator<Coordinate> ii = set.iterator();
+    while (ii.hasNext()) {
+      Coordinate c = ii.next();
+      board[c.x][c.y] = 'O';
+    }
+  }
+
+  private void markX(char[][] board, Set<Coordinate> set) {
+    Iterator<Coordinate> ii = set.iterator();
+    while (ii.hasNext()) {
+      Coordinate c = ii.next();
+      board[c.x][c.y] = 'X';
     }
   }
 
@@ -96,7 +115,7 @@ public class SurroundedRegions {
   public static void main(String[] args) {
     char[][] board = {
             {'X', 'O', 'O', 'O', 'O'},
-            {'X', 'X', 'X', 'O', 'O'},
+            {'X', 'O', 'X', 'O', 'O'},
             {'X', 'X', 'O', 'X', 'X'},
             {'X', 'X', 'O', 'O', 'O'},
     };
