@@ -9,11 +9,6 @@ public class NumIslands {
    * 为什么不推荐 DFS：因为最坏情况全是1，那么递归的深度是nm的，直接stack overflow了。
    *
    * PS：能用BFS就不要用DFS
-   *
-   * TODO
-   *  1.重复入栈
-   *  2.没有coordinate类的话如何实现，有它的好处是什么
-   *  3.magic number的由来
    */
   public int numIslands(boolean[][] grid) {
     if (grid == null || grid.length == 0 || grid[0].length == 0) {
@@ -65,6 +60,28 @@ public class NumIslands {
 
   private boolean inBound(Coordinate coor, boolean[][] grid) {
     return (coor.x >= 0 && coor.x < grid.length) && (coor.y >= 0 && coor.y < grid[0].length);
+  }
+
+  public static void main(String[] args) {
+    boolean[][] grid = {
+            {true, true, false, false, false},
+            {false, true, false, false, true},
+            {false, false, false, true, true},
+            {false, false, false, false, false},
+            {false, false, false, false, true},
+    };
+
+    new NumIslands().numIslands(grid);
+  }
+
+  public void print(boolean[][] grid) {
+    for (int i = 0; i < grid.length; i++) {
+      for (int j = 0; j < grid[0].length; j++) {
+        System.out.print(grid[i][j] + " ");
+      }
+      System.out.println(" ");
+    }
+    System.out.println(" ");
   }
 
 }
