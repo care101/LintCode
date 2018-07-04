@@ -1,4 +1,4 @@
-class Solution:
+ class Solution:
     """
     @param grid: a boolean 2D matrix
     @return: an integer
