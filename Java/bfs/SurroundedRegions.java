@@ -14,7 +14,7 @@ public class SurroundedRegions {
   }
 
   /**
-   * 先找到连通域，如果发现连通域有边界点，则标记 O；否则标记 X。
+   * 先找到连通域，如果发现连通域有边界点，则标记 F；否则标记 X。最后再将所有 F 标记为 O。
    *
    * @param board: board a 2D board containing 'X' and 'O'
    * @return: nothing
@@ -30,6 +30,7 @@ public class SurroundedRegions {
         }
       }
     }
+    markO(board);
   }
 
   private void markByBFS(char[][] board, int x, int y) {
@@ -63,7 +64,7 @@ public class SurroundedRegions {
     if (!checkSet(set, board)) {
       markX(board, set);
     } else {
-      markO(board, set);
+      markF(board, set);
     }
   }
 
@@ -78,7 +79,7 @@ public class SurroundedRegions {
     return false;
   }
 
-  private void markO(char[][] board, Set<Coordinate> set) {
+  private void markF(char[][] board, Set<Coordinate> set) {
     Iterator<Coordinate> ii = set.iterator();
     while (ii.hasNext()) {
       Coordinate c = ii.next();
@@ -91,6 +92,16 @@ public class SurroundedRegions {
     while (ii.hasNext()) {
       Coordinate c = ii.next();
       board[c.x][c.y] = 'X';
+    }
+  }
+
+  private void markO(char[][] board) {
+    for (int i = 0; i < board.length; i++) {
+      for (int j = 0; j < board[0].length; j++) {
+        if (board[i][j] == 'F') {
+          board[i][j] == 'O';
+        }
+      }
     }
   }
 

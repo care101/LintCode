@@ -1,6 +1,8 @@
 # LintCode
 
-LintCode/LeetCode algorithm written by Java or python or something else.
+LintCode/LeetCode algorithm written by Java or python or something else. 
+
+If you found a bug, please please create a issue. Also, I welcome pull request from anyone! Whatever your programming language is. 
 
 ## Binary Search
 
