@@ -63,7 +63,8 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |4|[Closest Binary Search Tree Value](https://www.lintcode.com/problem/closest-binary-search-tree-value/description)|[Java](Java/dfs/ClosestValue.java), [JavaScript](JavaScript/dfs/ClosestValue.js)|二分|
 |5|[Minimum Subtree](https://www.lintcode.com/problem/minimum-subtree/description)|[Java](Java/dfs/MinSubtree.java)|遍历+分治|
 |6|[Triangle](https://www.lintcode.com/problem/triangle/description)|[Java](Java/dfs/Triangle.java)|分治+记忆搜索|
-|7|**[DFS 算法总结](Note/dfs.md)**||**[Summary](Note/dfs.md)**|
+|7|[Combinations](https://www.lintcode.com/problem/combinations/description)|[Java](Java/dfs/Combinations.java)|组合|
+||**[DFS 算法总结](Note/dfs.md)**||**[Summary](Note/dfs.md)**|
 
 ## Array
 
