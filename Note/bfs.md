@@ -204,7 +204,7 @@ public int doubleBFS(UndirectedGraphNode start, UndirectedGraphNode end) {
           return step;
         } else {
           startQueue.offer(neighbor);
-          startSet.offer(neighbor);
+          startSet.add(neighbor);
         }
       }
     }
@@ -218,7 +218,7 @@ public int doubleBFS(UndirectedGraphNode start, UndirectedGraphNode end) {
           return step;
         } else {
           endQueue.offer(neighbor);
-          endSet.offer(neighbor);
+          endSet.add(neighbor);
         }
       }
     }
