@@ -134,4 +134,95 @@ while (!queue.isEmpty()) {
 
 ### 使用 dummy node 实现 BFS
 
+## 如何构建图
+
+第一种方法是使用自定义邻接表：
+
+``` java
+class DirectedGraphNode {
+  int label;
+  List<DirectedGraphNode> neighbors;
+}
+```
+
+第二种是使用 Map 与 Set 的搭配：
+
+``` java
+HashMap<T, Set<T>> graph = new HashMap<Integer, HashSet<Integer>>; // 其中 T 代表节点类型，通常是整数
+```
+
 ## 双向宽度优先搜索算法（Bidirectional BFS）
+
+双向宽度优先搜索算法适用于如下场景：
+
+- 无向图
+- 所有边的长度都为 1 或者长度都一样
+- 同时给出了起点和终点
+
+### 算法描述
+
+双向宽度优先搜索本质上还是BFS，只不过变成了起点向终点和终点向起点同时进行扩展，直至两个方向上出现同一个子节点，搜索结束。我们还是可以利用队列来实现：一个队列保存从起点开始搜索的状态，另一个保存从终点开始的状态，两边如果相交了，那么搜索结束。起点到终点的最短距离即为起点到相交节点的距离与终点到相交节点的距离之和。
+
+所以双向宽度优先搜索在某些情况下可以作为宽搜的优化。
+
+``` java
+/**
+ * Definition for graph node.
+ * class UndirectedGraphNode {
+ *   int label;
+ *   ArrayList<UndirectedGraphNode> neighbors;
+ *   UndirectedGraphNode(int x) {
+ *     label = x; neighbors = new ArrayList<UndirectedGraphNode>();
+ *   }
+ * };
+ */
+public int doubleBFS(UndirectedGraphNode start, UndirectedGraphNode end) {
+  if (start.equals(1)) {
+    return 1;
+  }
+  Queue<UndirectedGraphNode> startQueue = new LinkedList<>();
+  Queue<UndirectedGraphNode> endQueue = new LinkedList<>();
+  startQueue.offer(start);
+  endQueue.offer(end);
+  Set<UndirectedGraphNode> startSet = new HashSet<>();
+  Set<UndirectedGraphNode> endSet = new HashSet<>();
+  startSet.add(start);
+  endSet.add(end);
+
+  int step = 0;
+
+  while (!startQueue.isEmpty() || !endQueue.isEmpty()) {
+    int startSize = startQueue.size();
+    int endSize = endQueue.size();
+    step++;
+    for (int i = 0; i < startSize; i++) {
+      UndirectedGraphNode node = startQueue.poll();
+      for (UndirectedGraphNode neighbor : node.neighbors) {
+        if (startSet.contains(neighbor)) { // 重复节点
+          continue;
+        } else if (endSet.contains(neighbor)) { // 相交
+          return step;
+        } else {
+          startQueue.offer(neighbor);
+          startSet.offer(neighbor);
+        }
+      }
+    }
+    setp++;
+    for (int i = 0; i < endSize; i++) {
+      UndirectedGraphNode node = endQueue.poll();
+      for (UndirectedGraphNode neighbor : node.neighbors) {
+        if (endSet.contains(neighbor)) { // 重复节点
+          continue;
+        } else if (startSet.contains(neighbor)) { // 相交
+          return step;
+        } else {
+          endQueue.offer(neighbor);
+          endSet.offer(neighbor);
+        }
+      }
+    }
+  }
+  return -1;
+}
+```

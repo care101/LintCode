@@ -1,8 +1,8 @@
 # LintCode
 
-LintCode/LeetCode algorithm written by Java or python or something else. 
+LintCode/LeetCode algorithm written by Java or python or something else.
 
-If you found a bug, please please create a issue. Also, I welcome pull request from anyone! Whatever your programming language is. 
+If you found a bug, please please create a issue. Also, I welcome pull request from anyone! Whatever your programming language is.
 
 ## Binary Search
 
@@ -51,7 +51,8 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |3|[Topological Sorting](https://www.lintcode.com/problem/topological-sorting/description)|[Java](Java/bfs/TopSorting.java)|拓扑排序|
 |4|[Word Ladder](https://www.lintcode.com/problem/word-ladder/description)|[Java](Java/bfs/WordLadder.java)|BFS+HashSet|
 |5|[Surrounded Regions](https://www.lintcode.com/problem/surrounded-regions/description)|[Java](Java/bfs/SurroundedRegions.java), [Python](Python/bfs/SurroundedRegions.py)||
-|6|**[BFS 算法总结](Note/bfs.md)**||**[Summary](Note/bfs.md)**|
+|6|[Shortest Path in Undirected Graph](https://www.lintcode.com/problem/shortest-path-in-undirected-graph/description)|[Java](Java/bfs/ShortestPath.java)|双向宽搜|
+|7|**[BFS 算法总结](Note/bfs.md)**||**[Summary](Note/bfs.md)**|
 
 ## DFS
 
