@@ -91,4 +91,5 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |2|[Unique Paths](https://www.lintcode.com/problem/unique-paths/description)|[Java](Java/dp/UniquePaths.java), [Python](Python/dp/UniquePaths.py)||
 |3|[Jump Game](https://www.lintcode.com/problem/jump-game/description)|[Python](Python/dp/JumpGame.py)||
 |4|[Triangle](https://www.lintcode.com/problem/triangle/description)|[Python](Python/dp/Triangle.py)||
-|5|**[Dynamic Programming 算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
+|5|[Climbing Stairs](https://www.lintcode.com/problem/climbing-stairs/description)|[Java](Java/dp/ClimbStairs.java)||
+|6|**[Dynamic Programming 算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
