@@ -87,9 +87,10 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Minimum Path Sum](https://www.lintcode.com/problem/minimum-path-sum/description)|[Java](Java/dp/MinPathSum.java), [Python](Python/dp/MinimumPathSum.py)||
-|2|[Unique Paths](https://www.lintcode.com/problem/unique-paths/description)|[Java](Java/dp/UniquePaths.java), [Python](Python/dp/UniquePaths.py)||
-|3|[Jump Game](https://www.lintcode.com/problem/jump-game/description)|[Python](Python/dp/JumpGame.py)||
-|4|[Triangle](https://www.lintcode.com/problem/triangle/description)|[Python](Python/dp/Triangle.py)||
-|5|[Climbing Stairs](https://www.lintcode.com/problem/climbing-stairs/description)|[Java](Java/dp/ClimbStairs.java)||
-|6|**[Dynamic Programming 算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
+|1|[Minimum Path Sum](https://www.lintcode.com/problem/minimum-path-sum/description)|[Java](Java/dp/MinPathSum.java), [Python](Python/dp/MinimumPathSum.py)|坐标型|
+|2|[Unique Paths](https://www.lintcode.com/problem/unique-paths/description)|[Java](Java/dp/UniquePaths.java), [Python](Python/dp/UniquePaths.py)|坐标型|
+|3|[Climbing Stairs](https://www.lintcode.com/problem/climbing-stairs/description)|[Java](Java/dp/ClimbStairs.java)|斐波那契变体|
+|4|[Jump Game](https://www.lintcode.com/problem/jump-game/description)|[Python](Python/dp/JumpGame.py)||
+|5|[Triangle](https://www.lintcode.com/problem/triangle/description)|[Python](Python/dp/Triangle.py)||
+|6|[LongestIncreasingSubsequence](https://www.lintcode.com/problem/longest-increasing-subsequence/description)|[Java](Java/dp/LongestIncreasingSubsequence.java)|序列型|
+|7|**[Dynamic Programming 算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
