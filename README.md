@@ -93,4 +93,5 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |4|[Jump Game](https://www.lintcode.com/problem/jump-game/description)|[Python](Python/dp/JumpGame.py)||
 |5|[Triangle](https://www.lintcode.com/problem/triangle/description)|[Python](Python/dp/Triangle.py)||
 |6|[LongestIncreasingSubsequence](https://www.lintcode.com/problem/longest-increasing-subsequence/description)|[Java](Java/dp/LongestIncreasingSubsequence.java)|序列型|
-|7|**[Dynamic Programming 算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
+|7|[LongestCommonSubsequence](https://www.lintcode.com/problem/longest-common-subsequence/)|[Java](Java/dp/LongestCommonSubsequence.java)|序列型|
+|8|**[Dynamic Programming 算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
