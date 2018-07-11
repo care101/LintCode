@@ -93,6 +93,6 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |4|[Climbing Stairs](https://www.lintcode.com/problem/climbing-stairs/description)|[Java](Java/dp/ClimbStairs.java), [Python](Python/dp/ClimbStairs.py)|斐波那契变体|
 |5|[Jump Game](https://www.lintcode.com/problem/jump-game/description)|[Python](Python/dp/JumpGame.py)||
 |6|[Triangle](https://www.lintcode.com/problem/triangle/description)|[Python](Python/dp/Triangle.py)||
-|7|[LongestIncreasingSubsequence](https://www.lintcode.com/problem/longest-increasing-subsequence/description)|[Java](Java/dp/LongestIncreasingSubsequence.java)|序列型|
-|8|[LongestCommonSubsequence](https://www.lintcode.com/problem/longest-common-subsequence/)|[Java](Java/dp/LongestCommonSubsequence.java)|序列型|
+|7|[LongestIncreasingSubsequence](https://www.lintcode.com/problem/longest-increasing-subsequence/description)|[Java](Java/dp/LongestIncreasingSubsequence.java), [Python](Python/dp/LongestIncreasingSubsequence.py)|序列型|
+|8|[LongestCommonSubsequence](https://www.lintcode.com/problem/longest-common-subsequence/)|[Java](Java/dp/LongestCommonSubsequence.java), [Python](Python/dp/LongestCommonSubsequence.py)|序列型|
 |9|**[Dynamic Programming 算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
