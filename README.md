@@ -95,4 +95,5 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |6|[Triangle](https://www.lintcode.com/problem/triangle/description)|[Python](Python/dp/Triangle.py)||
 |7|[LongestIncreasingSubsequence](https://www.lintcode.com/problem/longest-increasing-subsequence/description)|[Java](Java/dp/LongestIncreasingSubsequence.java), [Python](Python/dp/LongestIncreasingSubsequence.py)|序列型|
 |8|[LongestCommonSubsequence](https://www.lintcode.com/problem/longest-common-subsequence/)|[Java](Java/dp/LongestCommonSubsequence.java), [Python](Python/dp/LongestCommonSubsequence.py)|序列型|
-|9|**[Dynamic Programming 算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
+|9|[Edit Distance](https://www.lintcode.com/problem/edit-distance/description)|[Java](Java/dp/EditDistance.java)|序列型|
+|10|**[Dynamic Programming 算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
