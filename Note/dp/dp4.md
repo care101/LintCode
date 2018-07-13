@@ -117,3 +117,58 @@ public int longestCommonSubsequence(String A, String B) {
   return dp[dp.length - 1][dp[0].length - 1];
 }
 ```
+
+## Edit Distance
+
+[题目](https://www.lintcode.com/problem/edit-distance/description)：找出把 word1 编辑成 word2 的最小代价。其中插入、删除、替换的代价均为 1。
+
+假设 word1 长度为 M，word2 长度为 N。生成大小为 (M+1)*(N+1) 的二维矩阵 dp，dp[i][j] 代表将 word1[0...i - 1] 编辑成 word2[0...j - 1] 的最小代价。
+
+dp[0][0] = 0;
+dp[i][0] 指的是把 word1[0...i - 1] 编辑成空串的最小代价，即删除的代价。dp[i][0] = i * 1;
+dp[0][j] 指的是把空串编辑成 word2[0...j - 1] 的代价，即插入的代价。dp[0][j] = j * 1;
+
+``` java
+         ' ' 'k' 'a' 'r' 'm' 'a'
+          0   1   2   3   4   5
+' ' | 0   0   1   2   3   4   5
+'m' | 1   1
+'a' | 2   2
+'r' | 3   3
+'t' | 4   4
+```
+
+dp[i][j] 的值有四种情况：
+
+- word1[0...i-1] ---> word1[0...i-2] ---> word2[0...j-1]。即：先删除 word1[i-1] 再由 word1[i-2] 编辑成 word2[j-1]，此时 dp[i][j] = dp[i - 1][j] + 1(delete);
+- word1[0...i-1] ---> word2[0...j-2] --->word2[0...j-1]。即：先由 word1[i-1] 编辑成 word2[j-2] 再插入 word2[j-1]，此时 dp[i][j] = dp[i][j - 1] + 1(insert);
+- word1[0...i-1] ---> word1[0...i-2] ---> word2[j-1]。即：先将 word1[i-1] 替换成 word2[j-1] 再由 word1[i-2] 编辑成 word2[j-2]。dp[i][j] = dp[i - 1][j - 1] + 1(replace);
+- word1[0...i-2] ---> word2[0...j-2]。当 word1[i-1] == word2[j-1] 时，dp[i][j] = dp[i-1][j-1];
+
+取他们的最小值就是答案。
+
+``` java
+public int minDistance(String word1, String word2) {
+  if ((word1 == null || word1.length() == 0) && (word2 == null || word2.length() == 0)) {
+    return 0;
+  }
+  int[][] dp = new int[word1.length() + 1][word2.length() + 1];
+  for (int i = 0; i < dp.length; i++) {
+    dp[i][0] = i;
+  }
+  for (int j = 0; j < dp[0].length; j++) {
+    dp[0][j] = j;
+  }
+  for (int i = 1; i < dp.length; i++) {
+    for (int j = 1; j < dp[0].length; j++) {
+      if (word1.charAt(i - 1) == word2.charAt(j - 1)) {
+        dp[i][j] = dp[i - 1][j - 1];
+      } else {
+        dp[i][j] = Math.min(dp[i - 1][j], dp[i][j - 1]) + 1;
+        dp[i][j] = Math.min(dp[i][j], dp[i - 1][j - 1] + 1);
+      }
+    }
+  }
+  return dp[dp.length - 1][dp[0].length - 1];
+}
+```
