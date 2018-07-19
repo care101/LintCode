@@ -94,7 +94,11 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |5|[Climbing Stairs](https://www.lintcode.com/problem/climbing-stairs/description)|[Java](Java/dp/ClimbStairs.java), [Python](Python/dp/ClimbStairs.py)|斐波那契变体|
 |6|[Jump Game](https://www.lintcode.com/problem/jump-game/description)|[Python](Python/dp/JumpGame.py)||
 |7|[Triangle](https://www.lintcode.com/problem/triangle/description)|[Python](Python/dp/Triangle.py)||
-|8|[LongestIncreasingSubsequence](https://www.lintcode.com/problem/longest-increasing-subsequence/description)|[Java](Java/dp/LongestIncreasingSubsequence.java), [Python](Python/dp/LongestIncreasingSubsequence.py)|序列型|
-|9|[LongestCommonSubsequence](https://www.lintcode.com/problem/longest-common-subsequence/)|[Java](Java/dp/LongestCommonSubsequence.java), [Python](Python/dp/LongestCommonSubsequence.py)|序列型|
-|10|[Edit Distance](https://www.lintcode.com/problem/edit-distance/description)|[Java](Java/dp/EditDistance.java)|序列型|
-|11|**[Dynamic Programming 算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
+|8|[Longest Increasing Subsequence](https://www.lintcode.com/problem/longest-increasing-subsequence/description)|[Java](Java/dp/LongestIncreasingSubsequence.java), [Python](Python/dp/LongestIncreasingSubsequence.py)|序列型|
+|9|[Longest Common Subsequence](https://www.lintcode.com/problem/longest-common-subsequence/)|[Java](Java/dp/LongestCommonSubsequence.java), [Python](Python/dp/LongestCommonSubsequence.py)|序列型|
+|10|[Longest Continuous Increasing Subsequence](https://www.lintcode.com/problem/longest-continuous-increasing-subsequence/description)| [Python](Python/dp/LongestContinuousIncreasingSubsequence.py)||
+|11|[Edit Distance](https://www.lintcode.com/problem/edit-distance/description)|[Java](Java/dp/EditDistance.java)|序列型|
+|12|[Paint Fence](https://www.lintcode.com/problem/paint-fence/description)| [Python](Python/dp/PaintFence.py)||
+|13|[Range Sum Query](https://www.lintcode.com/problem/range-sum-query-immutable/description)| [Python](Python/dp/RangeSumQuery.py)||
+|14|[Interleaving String](https://www.lintcode.com/problem/interleaving-string/description)| [Python](Python/dp/isInterleave.py)
+|15|**[Dynamic Programming 算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
