@@ -4,6 +4,12 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 
 If you found a bug, please please create a issue. Also, I welcome pull request from anyone! Whatever your programming language is.
 
+## Sort
+
+| #   |  Problem  |  Solution  |  Keywords  |
+| --- | --------- | :--------: | :--------: |
+|1|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)| [Python](Python/sort/sortIntegers.py)||
+
 ## Binary Search
 
 | #   |  Problem  |  Solution  |  Keywords  |
