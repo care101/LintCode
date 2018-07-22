@@ -4,6 +4,16 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 
 If you found a bug, please please create a issue. Also, I welcome pull request from anyone! Whatever your programming language is.
 
+## Sort
+
+| #   |  Problem  |  Solution  |  Keywords  |
+| --- | --------- | :--------: | :--------: |
+|1|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/BubbleSort.js)|冒泡排序|
+|2|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/InsertSort.js)|插入排序|
+|3|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/SelectSort.js)|选择排序|
+|4|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/MergeSort.js)|归并排序|
+||[排序算法总结](Note/sort.md)|||
+
 ## Binary Search
 
 | #   |  Problem  |  Solution  |  Keywords  |
@@ -81,7 +91,10 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
 |1|[First Unique Character in a String](https://www.lintcode.com/problem/first-unique-character-in-a-string/description)|[Java](Java/string/UniqueChar.java), [Python](Python/string/UniqueChar.py)||
-|2|**[String 算法总结](Note/string.md)**||**[Summary](Note/string.md)**|
+|2|[Reverse Words in a String](https://www.lintcode.com/problem/reverse-words-in-a-string/description)|[JavaScript](JavaScript/string/ReverseWords.js)||
+|3|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[JavaScript](JavaScript/string/ReverseString.js)||
+|4|[Valid Anagram](https://www.lintcode.com/problem/valid-anagram/description)|[JavaScript](JavaScript/string/Anagram.js)||
+||**[String 算法总结](Note/string.md)**||**[Summary](Note/string.md)**|
 
 ## DP
 
@@ -101,4 +114,4 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |12|[Paint Fence](https://www.lintcode.com/problem/paint-fence/description)| [Python](Python/dp/PaintFence.py)||
 |13|[Range Sum Query](https://www.lintcode.com/problem/range-sum-query-immutable/description)| [Python](Python/dp/RangeSumQuery.py)||
 |14|[Interleaving String](https://www.lintcode.com/problem/interleaving-string/description)| [Python](Python/dp/isInterleave.py)
-|15|**[Dynamic Programming 算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
+|15|**[动态规划算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
