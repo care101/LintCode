@@ -12,7 +12,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |2|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/InsertSort.js)|插入排序|
 |3|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/SelectSort.js)|选择排序|
 |4|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/MergeSort.js)|归并排序|
-||[排序算法总结](Note/sort.md)|||
+||**[排序算法总结](Note/sort.md)**||**[Summary](Note/sort.md)**|
 
 ## Binary Search
 
@@ -30,7 +30,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |10|[Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/description)|[Java](Java/binarysearch/RecoverRotatedSortedArray.java)||
 |11|[Pow(x, n)](https://www.lintcode.com/problem/powx-n/description)|[Java](Java/binarysearch/MyPow.java)|快速幂算法|
 |12|[Fast Power](https://www.lintcode.com/problem/fast-power/description)||**TODO**|
-|13|**[二分法总结](Note/binarysearch.md)**||**[Summary](Note/binarysearch.md)**|
+||**[二分法总结](Note/binarysearch.md)**||**[Summary](Note/binarysearch.md)**|
 
 ## Two pointer
 
@@ -50,7 +50,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |12|[Move Zeros](https://www.lintcode.com/problem/move-zeroes/description)|[Java](Java/twopointer/MoveZeros.java)||
 |13|[Partition Array](https://www.lintcode.com/problem/partition-array/description)|[Java](Java/twopointer/MoveZeros.java)||
 |14|[3 Sum](https://www.lintcode.com/problem/3sum/description)|[Java](Java/twopointer/ThreeSum.java)||
-|15|**[双指针算法总结](Note/two-pointer.md)**||**[Summary](Note/two-pointer.md)**|
+||**[双指针算法总结](Note/two-pointer.md)**||**[Summary](Note/two-pointer.md)**|
 
 ## BFS
 
@@ -62,7 +62,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |4|[Word Ladder](https://www.lintcode.com/problem/word-ladder/description)|[Java](Java/bfs/WordLadder.java)|BFS+HashSet|
 |5|[Surrounded Regions](https://www.lintcode.com/problem/surrounded-regions/description)|[Java](Java/bfs/SurroundedRegions.java), [Python](Python/bfs/SurroundedRegions.py)||
 |6|[Shortest Path in Undirected Graph](https://www.lintcode.com/problem/shortest-path-in-undirected-graph/description)|[Java](Java/bfs/ShortestPath.java)|双向宽搜|
-|7|**[BFS 算法总结](Note/bfs.md)**||**[Summary](Note/bfs.md)**|
+||**[BFS 算法总结](Note/bfs.md)**||**[Summary](Note/bfs.md)**|
 
 ## DFS
 
@@ -84,7 +84,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |1|[Maximum Subarray](https://www.lintcode.com/problem/maximum-subarray/description)|[Java](Java/array/MaxSubarray.java), [JavaScript](JavaScript/array/MaxSubarray.js), [Python](Python/array/MaxSubarray.py)|前缀和|
 |2|[Median of two Sorted Arrays](https://www.lintcode.com/problem/median-of-two-sorted-arrays/description)|[Python](Python/array/MedianOfSortedArray.py)||
 |3|[Implement Stack by Two Queues](https://www.lintcode.com/problem/implement-stack-by-two-queues/description)|[Java](Java/array/Stack.java)||
-|4|**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
+||**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
 
 ## String
 
@@ -114,4 +114,4 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |12|[Paint Fence](https://www.lintcode.com/problem/paint-fence/description)| [Python](Python/dp/PaintFence.py)||
 |13|[Range Sum Query](https://www.lintcode.com/problem/range-sum-query-immutable/description)| [Python](Python/dp/RangeSumQuery.py)||
 |14|[Interleaving String](https://www.lintcode.com/problem/interleaving-string/description)| [Python](Python/dp/isInterleave.py)
-|15|**[动态规划算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
+||**[动态规划算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
