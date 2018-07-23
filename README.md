@@ -11,7 +11,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |1|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/BubbleSort.js), [Python](Python/sort/BubbleSort.py)|冒泡排序|
 |2|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/InsertSort.js), [Python](Python/sort/InsertSort.py)|插入排序|
 |3|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/SelectSort.js), [Python](Python/sort/SelectSort.py)|选择排序|
-|4|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/MergeSort.js)|归并排序|
+|4|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/MergeSort.js), [Python](Python/sort/MergeSort.py)|归并排序|
 ||**[排序算法总结](Note/sort.md)**||**[Summary](Note/sort.md)**|
 
 ## Binary Search
