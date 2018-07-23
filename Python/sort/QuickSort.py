@@ -3,9 +3,9 @@ class Solution:
     """
     @ param A: an integer array
     @ return: nothing
-    @ solution: 
+    @ solution: 快排O(N*logN)
     - 快排是随便选择一个数作为参考，对数组进行划分，比它小的放前面，比它大的放后面；
-    - 第一次划分的具体过程是：
+    - 第一次划分的具体过程是,划分时间复杂度O(N)：
         - 定义一个interval（小于区间），初始值为0；
         - 取最后一个数做参考，数组从前面与之比较，比它大的不动，比它小的与array[interval]进行交换，同时interval加1；
         - 最后把参考值放到interval那里去
