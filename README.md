@@ -37,7 +37,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Two Sum](https://www.lintcode.com/problem/two-sum/description)|[Java](Java/twopointer/TwoSum.java)||
+|1|[Two Sum](https://www.lintcode.com/problem/two-sum/description)|[Java](Java/twopointer/TwoSum.java), [Python](Python/twopointer/TwoSum.py)||
 |2|[Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/description)|[Java](Java/twopointer/IsPalindrome.java)||
 |3|[Valid Palindrome II](https://www.lintcode.com/problem/valid-palindrome-ii/description)|[Java](Java/twopointer/IsPalindromeII.java)||
 |4|[deduplication](https://www.lintcode.com/problem/remove-duplicate-numbers-in-array/description)|[Java](Java/twopointer/Deduplication.java)||
