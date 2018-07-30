@@ -47,7 +47,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |8|[Quick Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[Java](Java/twopointer/QuickSort.java)|快速排序|
 |9|[Merge Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[Java](Java/twopointer/MergeSort.java)|归并排序|
 |10|[Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description)|[Java](Java/twopointer/QuickSelect.java)|Top K|
-|11|[Sort Colors](https://www.lintcode.com/problem/sort-colors/description)|[Java](Java/twopointer/SortColor.java)|三指针|
+|11|[Sort Colors](https://www.lintcode.com/problem/sort-colors/description)|[Java](Java/twopointer/SortColor.java), [Python](Python/twopointer/SortColor.py)|三指针|
 |12|[Move Zeros](https://www.lintcode.com/problem/move-zeroes/description)|[Java](Java/twopointer/MoveZeros.java)||
 |13|[Partition Array](https://www.lintcode.com/problem/partition-array/description)|[Java](Java/twopointer/MoveZeros.java)||
 |14|[3 Sum](https://www.lintcode.com/problem/3sum/description)|[Java](Java/twopointer/ThreeSum.java)||
@@ -95,6 +95,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |2|[Reverse Words in a String](https://www.lintcode.com/problem/reverse-words-in-a-string/description)|[JavaScript](JavaScript/string/ReverseWords.js)||
 |3|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[JavaScript](JavaScript/string/ReverseString.js)||
 |4|[Valid Anagram](https://www.lintcode.com/problem/valid-anagram/description)|[JavaScript](JavaScript/string/Anagram.js)||
+|5|[Valid Parenthesis String](https://www.lintcode.com/problem/valid-parenthesis-string/description)| [Python](Python/string/CheckValidString.py)
 ||**[String 算法总结](Note/string.md)**||**[Summary](Note/string.md)**|
 
 ## DP
