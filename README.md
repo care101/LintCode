@@ -87,6 +87,13 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |3|[Implement Stack by Two Queues](https://www.lintcode.com/problem/implement-stack-by-two-queues/description)|[Java](Java/array/Stack.java)||
 ||**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
 
+## Linked List
+
+| #   |  Problem  |  Solution  |  Keywords  |
+| --- | --------- | :--------: | :--------: |
+|1|[Delete Node in a Linked List](https://www.lintcode.com/problem/delete-node-in-a-linked-list/description)|[JavaScript](JavaScript/linkedlist/DeleteNode.js)||
+||**[Linked List 算法总结](Note/linkedlist.md)**||**[Summary](Note/linkedlist.md)**|
+
 ## String
 
 | #   |  Problem  |  Solution  |  Keywords  |
