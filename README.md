@@ -8,10 +8,11 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/BubbleSort.js)|冒泡排序|
-|2|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/InsertSort.js)|插入排序|
-|3|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/SelectSort.js)|选择排序|
-|4|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/MergeSort.js)|归并排序|
+|1|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/BubbleSort.js), [Python](Python/sort/BubbleSort.py)|冒泡排序|
+|2|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/InsertSort.js), [Python](Python/sort/InsertSort.py)|插入排序|
+|3|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/SelectSort.js), [Python](Python/sort/SelectSort.py)|选择排序|
+|4|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/MergeSort.js), [Python](Python/sort/MergeSort.py)|归并排序|
+|5|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)| [Python](Python/sort/QuickSort.py)|快速排序|
 ||**[排序算法总结](Note/sort.md)**||**[Summary](Note/sort.md)**|
 
 ## Binary Search
@@ -36,7 +37,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Two Sum](https://www.lintcode.com/problem/two-sum/description)|[Java](Java/twopointer/TwoSum.java)||
+|1|[Two Sum](https://www.lintcode.com/problem/two-sum/description)|[Java](Java/twopointer/TwoSum.java), [Python](Python/twopointer/TwoSum.py)||
 |2|[Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/description)|[Java](Java/twopointer/IsPalindrome.java)||
 |3|[Valid Palindrome II](https://www.lintcode.com/problem/valid-palindrome-ii/description)|[Java](Java/twopointer/IsPalindromeII.java)||
 |4|[deduplication](https://www.lintcode.com/problem/remove-duplicate-numbers-in-array/description)|[Java](Java/twopointer/Deduplication.java)||
@@ -46,7 +47,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |8|[Quick Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[Java](Java/twopointer/QuickSort.java)|快速排序|
 |9|[Merge Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[Java](Java/twopointer/MergeSort.java)|归并排序|
 |10|[Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description)|[Java](Java/twopointer/QuickSelect.java)|Top K|
-|11|[Sort Colors](https://www.lintcode.com/problem/sort-colors/description)|[Java](Java/twopointer/SortColor.java)|三指针|
+|11|[Sort Colors](https://www.lintcode.com/problem/sort-colors/description)|[Java](Java/twopointer/SortColor.java), [Python](Python/twopointer/SortColor.py)|三指针|
 |12|[Move Zeros](https://www.lintcode.com/problem/move-zeroes/description)|[Java](Java/twopointer/MoveZeros.java)||
 |13|[Partition Array](https://www.lintcode.com/problem/partition-array/description)|[Java](Java/twopointer/MoveZeros.java)||
 |14|[3 Sum](https://www.lintcode.com/problem/3sum/description)|[Java](Java/twopointer/ThreeSum.java)||
@@ -94,8 +95,9 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |2|[Reverse Words in a String](https://www.lintcode.com/problem/reverse-words-in-a-string/description)|[JavaScript](JavaScript/string/ReverseWords.js)||
 |3|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[JavaScript](JavaScript/string/ReverseString.js)||
 |4|[Valid Anagram](https://www.lintcode.com/problem/valid-anagram/description)|[JavaScript](JavaScript/string/Anagram.js)||
-|4|[Rotate String](https://www.lintcode.com/problem/rotate-string/description)|[Java](Java/string/RotateString.java)|部分逆序|
-|5|[Palindrome Number](https://www.lintcode.com/problem/palindrome-number/description)|[JavaScript](JavaScript/string/IsPalindromeNum.js)||
+|5|[Rotate String](https://www.lintcode.com/problem/rotate-string/description)|[Java](Java/string/RotateString.java)|部分逆序|
+|6|[Palindrome Number](https://www.lintcode.com/problem/palindrome-number/description)|[JavaScript](JavaScript/string/IsPalindromeNum.js)||
+|7|[Valid Parenthesis String](https://www.lintcode.com/problem/valid-parenthesis-string/description)| [Python](Python/string/CheckValidString.py)
 ||**[String 算法总结](Note/string.md)**||**[Summary](Note/string.md)**|
 
 ## DP
