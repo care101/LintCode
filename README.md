@@ -100,11 +100,12 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 | --- | --------- | :--------: | :--------: |
 |1|[First Unique Character in a String](https://www.lintcode.com/problem/first-unique-character-in-a-string/description)|[Java](Java/string/UniqueChar.java), [Python](Python/string/UniqueChar.py)||
 |2|[Reverse Words in a String](https://www.lintcode.com/problem/reverse-words-in-a-string/description)|[JavaScript](JavaScript/string/ReverseWords.js)||
-|3|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[JavaScript](JavaScript/string/ReverseString.js)||
-|4|[Valid Anagram](https://www.lintcode.com/problem/valid-anagram/description)|[JavaScript](JavaScript/string/Anagram.js)||
-|5|[Rotate String](https://www.lintcode.com/problem/rotate-string/description)|[Java](Java/string/RotateString.java)|部分逆序|
-|6|[Palindrome Number](https://www.lintcode.com/problem/palindrome-number/description)|[JavaScript](JavaScript/string/IsPalindromeNum.js)||
-|7|[Valid Parenthesis String](https://www.lintcode.com/problem/valid-parenthesis-string/description)| [Python](Python/string/CheckValidString.py)
+|3|[Reverse Words in a String II](https://www.lintcode.com/problem/reverse-words-in-a-string-ii/description)| [Python](Python/string/ReverseWordsII.py)||
+|4|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[JavaScript](JavaScript/string/ReverseString.js)||
+|5|[Valid Anagram](https://www.lintcode.com/problem/valid-anagram/description)|[JavaScript](JavaScript/string/Anagram.js)||
+|6|[Rotate String](https://www.lintcode.com/problem/rotate-string/description)|[Java](Java/string/RotateString.java), [Python](Python/string/RotateString.py)|部分逆序|
+|7|[Palindrome Number](https://www.lintcode.com/problem/palindrome-number/description)|[JavaScript](JavaScript/string/IsPalindromeNum.js)||
+|8|[Valid Parenthesis String](https://www.lintcode.com/problem/valid-parenthesis-string/description)| [Python](Python/string/CheckValidString.py)
 ||**[String 算法总结](Note/string.md)**||**[Summary](Note/string.md)**|
 
 ## DP
