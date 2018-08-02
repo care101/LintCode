@@ -92,6 +92,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
 |1|[Delete Node in a Linked List](https://www.lintcode.com/problem/delete-node-in-a-linked-list/description)|[JavaScript](JavaScript/linkedlist/DeleteNode.js)||
+|2|[Reverse Linked List](https://www.lintcode.com/problem/reverse-linked-list/description)|[JavaScript](JavaScript/linkedlist/ReverseList.js)||
 ||**[Linked List 算法总结](Note/linkedlist.md)**||**[Summary](Note/linkedlist.md)**|
 
 ## String
