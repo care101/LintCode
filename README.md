@@ -91,9 +91,9 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Delete Node in a Linked List](https://www.lintcode.com/problem/delete-node-in-a-linked-list/description)|[JavaScript](JavaScript/linkedlist/DeleteNode.js)||
-|2|[Reverse Linked List](https://www.lintcode.com/problem/reverse-linked-list/description)|[JavaScript](JavaScript/linkedlist/ReverseList.js)||
-|3|[Linked List Cycle](https://www.lintcode.com/problem/linked-list-cycle/description)|[JavaScript](JavaScript/linkedlist/HasCycle.js)||
+|1|[Delete Node in a Linked List](https://www.lintcode.com/problem/delete-node-in-a-linked-list/description)|[JavaScript](JavaScript/linkedlist/DeleteNode.js), [Python](Python/linkedlist/DeleteNode.py)||
+|2|[Reverse Linked List](https://www.lintcode.com/problem/reverse-linked-list/description)|[JavaScript](JavaScript/linkedlist/ReverseList.js), [Python](Python/linkedlist/ReverseList.py)||
+|3|[Linked List Cycle](https://www.lintcode.com/problem/linked-list-cycle/description)|[JavaScript](JavaScript/linkedlist/HasCycle.js), [Python](Python/linkedlist/HasCycle.py)||
 ||**[Linked List 算法总结](Note/linkedlist.md)**||**[Summary](Note/linkedlist.md)**|
 
 ## String
@@ -106,7 +106,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |4|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[JavaScript](JavaScript/string/ReverseString.js)||
 |5|[Valid Anagram](https://www.lintcode.com/problem/valid-anagram/description)|[JavaScript](JavaScript/string/Anagram.js)||
 |6|[Rotate String](https://www.lintcode.com/problem/rotate-string/description)|[Java](Java/string/RotateString.java), [Python](Python/string/RotateString.py)|部分逆序|
-|7|[Palindrome Number](https://www.lintcode.com/problem/palindrome-number/description)|[JavaScript](JavaScript/string/IsPalindromeNum.js)||
+|7|[Palindrome Number](https://www.lintcode.com/problem/palindrome-number/description)|[JavaScript](JavaScript/string/IsPalindromeNum.js), [Python](Python/string/IsPalindromeNum.py)||
 |8|[Valid Parenthesis String](https://www.lintcode.com/problem/valid-parenthesis-string/description)| [Python](Python/string/CheckValidString.py)
 ||**[String 算法总结](Note/string.md)**||**[Summary](Note/string.md)**|
 
