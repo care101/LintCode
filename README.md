@@ -95,6 +95,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |2|[Reverse Linked List](https://www.lintcode.com/problem/reverse-linked-list/description)|[JavaScript](JavaScript/linkedlist/ReverseList.js), [Python](Python/linkedlist/ReverseList.py)||
 |3|[Linked List Cycle](https://www.lintcode.com/problem/linked-list-cycle/description)|[JavaScript](JavaScript/linkedlist/HasCycle.js), [Python](Python/linkedlist/HasCycle.py)||
 |4|[Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[JavaScript](JavaScript/linkedlist/MergeList.js), [Python](Python/linkedlist/MergeList.py)||
+|5|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)| [Python](Python/linkedlist/DeleteDuplicates.py)||
 ||**[Linked List 算法总结](Note/linkedlist.md)**||**[Summary](Note/linkedlist.md)**|
 
 ## String
