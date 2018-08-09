@@ -15,5 +15,9 @@ class Solution:
     """
     def deleteNode(self, node):
         # write your code here
-        node.val = node.next.val 
-        node.next = node.next.next
+        if not node.next:
+            node = None
+        else:
+            node.val = node.next.val
+            node.next = node.next.next
+
