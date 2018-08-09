@@ -5,7 +5,7 @@
 #         self.val = x
 #         self.next = None
 '''
-Solution:
+Solution: (Python2)
     - 用长度来判断；
     - 或者用python自带的set进行判断，把一个链表的元素加入到set里面，然后看另一个链表的元素在不在这里面；
 '''
