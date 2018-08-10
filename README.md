@@ -95,7 +95,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |2|[Reverse Linked List](https://www.lintcode.com/problem/reverse-linked-list/description)|[JavaScript](JavaScript/linkedlist/ReverseList.js), [Python](Python/linkedlist/ReverseList.py)||
 |3|[Linked List Cycle](https://www.lintcode.com/problem/linked-list-cycle/description)|[JavaScript](JavaScript/linkedlist/HasCycle.js), [Python](Python/linkedlist/HasCycle.py)||
 |4|[Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[JavaScript](JavaScript/linkedlist/MergeList.js), [Python](Python/linkedlist/MergeList.py)||
-|5|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)| [Python](Python/linkedlist/DeleteDuplicates.py)||
+|5|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[JavaScript](JavaScript/linkedlist/DeleteDuplicates.js), [Python](Python/linkedlist/DeleteDuplicates.py)||
 |6|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)| [Python](Python/linkedlist/getIntersectionNode.py)||
 |7|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)| [JavaScript](JavaScript/linkedlist/RemoveNodes.js), [Python](Python/linkedlist/removeElements.py)||
 |8|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)| [Python](Python/linkedlist/isPalindrome.py)||
