@@ -102,6 +102,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |9|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/1)| [Python](Python/linkedlist/middleNode.py)||
 |10|[Design Linked List](https://leetcode.com/problems/design-linked-list/description/)| [Python](Python/linkedlist/MyLinkedList.py)||
 |11|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)| [Python](Python/linkedlist/addTwoNumbers.py)||
+|12|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)| [Python](Python/linkedlist/addTwoNumbersII.py)||
 ||**[Linked List 算法总结](Note/linkedlist.md)**||**[Summary](Note/linkedlist.md)**|
 
 ## String
