@@ -8,11 +8,11 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/BubbleSort.js), [Python](Python/sort/BubbleSort.py)|冒泡排序|
-|2|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/InsertSort.js), [Python](Python/sort/InsertSort.py)|插入排序|
-|3|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/SelectSort.js), [Python](Python/sort/SelectSort.py)|选择排序|
-|4|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/MergeSort.js), [Python](Python/sort/MergeSort.py)|归并排序|
-|5|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)| [Python](Python/sort/QuickSort.py)|快速排序|
+|1|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/BubbleSort.js), [Python3](Python/sort/BubbleSort.py)|冒泡排序|
+|2|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/InsertSort.js), [Python3](Python/sort/InsertSort.py)|插入排序|
+|3|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/SelectSort.js), [Python3](Python/sort/SelectSort.py)|选择排序|
+|4|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)|[JavaScript](JavaScript/sort/MergeSort.js), [Python3](Python/sort/MergeSort.py)|归并排序|
+|5|[Sort Integers](https://www.lintcode.com/problem/sort-integers/description)| [Python3](Python/sort/QuickSort.py)|快速排序|
 ||**[排序算法总结](Note/sort.md)**||**[Summary](Note/sort.md)**|
 
 ## Binary Search
@@ -37,7 +37,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Two Sum](https://www.lintcode.com/problem/two-sum/description)|[Java](Java/twopointer/TwoSum.java), [Python](Python/twopointer/TwoSum.py)||
+|1|[Two Sum](https://www.lintcode.com/problem/two-sum/description)|[Java](Java/twopointer/TwoSum.java), [Python3](Python/twopointer/TwoSum.py)||
 |2|[Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/description)|[Java](Java/twopointer/IsPalindrome.java)||
 |3|[Valid Palindrome II](https://www.lintcode.com/problem/valid-palindrome-ii/description)|[Java](Java/twopointer/IsPalindromeII.java)||
 |4|[deduplication](https://www.lintcode.com/problem/remove-duplicate-numbers-in-array/description)|[Java](Java/twopointer/Deduplication.java)||
@@ -47,7 +47,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |8|[Quick Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[Java](Java/twopointer/QuickSort.java)|快速排序|
 |9|[Merge Sort](https://www.lintcode.com/problem/sort-integers-ii/description)|[Java](Java/twopointer/MergeSort.java)|归并排序|
 |10|[Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description)|[Java](Java/twopointer/QuickSelect.java)|Top K|
-|11|[Sort Colors](https://www.lintcode.com/problem/sort-colors/description)|[Java](Java/twopointer/SortColor.java), [Python](Python/twopointer/SortColor.py)|三指针|
+|11|[Sort Colors](https://www.lintcode.com/problem/sort-colors/description)|[Java](Java/twopointer/SortColor.java), [Python3](Python/twopointer/SortColor.py)|三指针|
 |12|[Move Zeros](https://www.lintcode.com/problem/move-zeroes/description)|[Java](Java/twopointer/MoveZeros.java)||
 |13|[Partition Array](https://www.lintcode.com/problem/partition-array/description)|[Java](Java/twopointer/MoveZeros.java)||
 |14|[3 Sum](https://www.lintcode.com/problem/3sum/description)|[Java](Java/twopointer/ThreeSum.java)||
@@ -57,11 +57,11 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Binary Tree Level Order Traversal](https://www.lintcode.com/problem/binary-tree-level-order-traversal/description)|[Java](Java/bfs/LevelOrder.java), [Python](Python/bfs/LevelOrder.py)||
-|2|[Number of Islands](https://www.lintcode.com/problem/number-of-islands/description)|[Java](Java/bfs/NumIslands.java), [Python](Python/bfs/NumIslands.py)||
+|1|[Binary Tree Level Order Traversal](https://www.lintcode.com/problem/binary-tree-level-order-traversal/description)|[Java](Java/bfs/LevelOrder.java), [Python3](Python/bfs/LevelOrder.py)||
+|2|[Number of Islands](https://www.lintcode.com/problem/number-of-islands/description)|[Java](Java/bfs/NumIslands.java), [Python3](Python/bfs/NumIslands.py)||
 |3|[Topological Sorting](https://www.lintcode.com/problem/topological-sorting/description)|[Java](Java/bfs/TopSorting.java)|拓扑排序|
 |4|[Word Ladder](https://www.lintcode.com/problem/word-ladder/description)|[Java](Java/bfs/WordLadder.java)|BFS+HashSet|
-|5|[Surrounded Regions](https://www.lintcode.com/problem/surrounded-regions/description)|[Java](Java/bfs/SurroundedRegions.java), [Python](Python/bfs/SurroundedRegions.py)||
+|5|[Surrounded Regions](https://www.lintcode.com/problem/surrounded-regions/description)|[Java](Java/bfs/SurroundedRegions.java), [Python3](Python/bfs/SurroundedRegions.py)||
 |6|[Shortest Path in Undirected Graph](https://www.lintcode.com/problem/shortest-path-in-undirected-graph/description)|[Java](Java/bfs/ShortestPath.java)|双向宽搜|
 ||**[BFS 算法总结](Note/bfs.md)**||**[Summary](Note/bfs.md)**|
 
@@ -69,7 +69,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Maximum Depth of Binary Tree](https://www.lintcode.com/problem/maximum-depth-of-binary-tree/description)|[Java](Java/dfs/MaxDepth.java), [Python](Python/dfs/MaxDepth.py), [JavaScript](JavaScript/dfs/MaxDepth.js)|遍历/分治|
+|1|[Maximum Depth of Binary Tree](https://www.lintcode.com/problem/maximum-depth-of-binary-tree/description)|[Java](Java/dfs/MaxDepth.java), [Python3](Python/dfs/MaxDepth.py), [JavaScript](JavaScript/dfs/MaxDepth.js)|遍历/分治|
 |2|[Balanced Binary Tree](https://www.lintcode.com/problem/balanced-binary-tree/description)|[Java](Java/dfs/IsBalanced.java)|分治法|
 |3|[Validate Binary Search Tree](https://www.lintcode.com/problem/validate-binary-search-tree/description)|[Java](Java/dfs/ValidBST.java), [JavaScript](JavaScript/dfs/ValidBST.js)|遍历/分治|
 |4|[Closest Binary Search Tree Value](https://www.lintcode.com/problem/closest-binary-search-tree-value/description)|[Java](Java/dfs/ClosestValue.java), [JavaScript](JavaScript/dfs/ClosestValue.js)|二分|
@@ -82,8 +82,8 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Maximum Subarray](https://www.lintcode.com/problem/maximum-subarray/description)|[Java](Java/array/MaxSubarray.java), [JavaScript](JavaScript/array/MaxSubarray.js), [Python](Python/array/MaxSubarray.py)|前缀和|
-|2|[Median of two Sorted Arrays](https://www.lintcode.com/problem/median-of-two-sorted-arrays/description)|[Python](Python/array/MedianOfSortedArray.py)||
+|1|[Maximum Subarray](https://www.lintcode.com/problem/maximum-subarray/description)|[Java](Java/array/MaxSubarray.java), [JavaScript](JavaScript/array/MaxSubarray.js), [Python3](Python/array/MaxSubarray.py)|前缀和|
+|2|[Median of two Sorted Arrays](https://www.lintcode.com/problem/median-of-two-sorted-arrays/description)|[Python3](Python/array/MedianOfSortedArray.py)||
 |3|[Implement Stack by Two Queues](https://www.lintcode.com/problem/implement-stack-by-two-queues/description)|[Java](Java/array/Stack.java)||
 ||**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
 
@@ -91,49 +91,55 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Delete Node in a Linked List](https://www.lintcode.com/problem/delete-node-in-a-linked-list/description)|[JavaScript](JavaScript/linkedlist/DeleteNode.js), [Python](Python/linkedlist/DeleteNode.py)||
-|2|[Reverse Linked List](https://www.lintcode.com/problem/reverse-linked-list/description)|[JavaScript](JavaScript/linkedlist/ReverseList.js), [Python](Python/linkedlist/ReverseList.py)||
-|3|[Linked List Cycle](https://www.lintcode.com/problem/linked-list-cycle/description)|[JavaScript](JavaScript/linkedlist/HasCycle.js), [Python](Python/linkedlist/HasCycle.py)||
-|4|[Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[JavaScript](JavaScript/linkedlist/MergeList.js), [Python](Python/linkedlist/MergeList.py)||
-|5|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[JavaScript](JavaScript/linkedlist/DeleteDuplicates.js), [Python](Python/linkedlist/DeleteDuplicates.py)||
-|6|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)| [Python](Python/linkedlist/getIntersectionNode.py)||
-|7|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)| [JavaScript](JavaScript/linkedlist/RemoveNodes.js), [Python](Python/linkedlist/removeElements.py)||
-|8|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)| [Python](Python/linkedlist/isPalindrome.py)||
-|9|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/1)| [Python](Python/linkedlist/middleNode.py)||
-|10|[Design Linked List](https://leetcode.com/problems/design-linked-list/description/)| [Python](Python/linkedlist/MyLinkedList.py)||
-|11|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)| [Python](Python/linkedlist/addTwoNumbers.py)||
+|1|[Delete Node in a Linked List](https://www.lintcode.com/problem/delete-node-in-a-linked-list/description)|[JavaScript](JavaScript/linkedlist/DeleteNode.js), [Python3](Python/linkedlist/DeleteNode.py)||
+|2|[Reverse Linked List](https://www.lintcode.com/problem/reverse-linked-list/description)|[JavaScript](JavaScript/linkedlist/ReverseList.js), [Python3](Python/linkedlist/ReverseList.py)||
+|3|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)| [Python3](Python/linkedlist/reverseBetween.py)||
+|4|[Linked List Cycle](https://www.lintcode.com/problem/linked-list-cycle/description)|[JavaScript](JavaScript/linkedlist/HasCycle.js), [Python3](Python/linkedlist/HasCycle.py)||
+|5|[Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[JavaScript](JavaScript/linkedlist/MergeList.js), [Python3](Python/linkedlist/MergeList.py)||
+|6|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[JavaScript](JavaScript/linkedlist/DeleteDuplicates.js), [Python3](Python/linkedlist/DeleteDuplicates.py)||
+|7|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)| [Python3](Python/linkedlist/getIntersectionNode.py)||
+|8|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)| [JavaScript](JavaScript/linkedlist/RemoveNodes.js), [Python3](Python/linkedlist/removeElements.py)||
+|9|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)| [Python3](Python/linkedlist/isPalindrome.py)||
+|10|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/1)| [Python3](Python/linkedlist/middleNode.py)||
+|11|[Design Linked List](https://leetcode.com/problems/design-linked-list/description/)| [Python3](Python/linkedlist/MyLinkedList.py)||
+|12|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)| [Python3](Python/linkedlist/addTwoNumbers.py)||
+|13|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)| [Python3](Python/linkedlist/addTwoNumbersII.py)||
+|14|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)| [Python3](Python/linkedlist/splitListToParts.py)||
+|15|[Rotate List](https://leetcode.com/problems/rotate-list/description/)| [Python3](Python/linkedlist/rotateRight.py)||
+|16|[Reorder List](https://leetcode.com/problems/reorder-list/description/)| [Python3](Python/linkedlist/reorderList.py)||
+|17|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)| [Python3](Python/linkedlist/removeNthFromEnd.py)||
 ||**[Linked List 算法总结](Note/linkedlist.md)**||**[Summary](Note/linkedlist.md)**|
 
 ## String
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[First Unique Character in a String](https://www.lintcode.com/problem/first-unique-character-in-a-string/description)|[Java](Java/string/UniqueChar.java), [Python](Python/string/UniqueChar.py)||
+|1|[First Unique Character in a String](https://www.lintcode.com/problem/first-unique-character-in-a-string/description)|[Java](Java/string/UniqueChar.java), [Python3](Python/string/UniqueChar.py)||
 |2|[Reverse Words in a String](https://www.lintcode.com/problem/reverse-words-in-a-string/description)|[JavaScript](JavaScript/string/ReverseWords.js)||
-|3|[Reverse Words in a String II](https://www.lintcode.com/problem/reverse-words-in-a-string-ii/description)| [Python](Python/string/ReverseWordsII.py)||
+|3|[Reverse Words in a String II](https://www.lintcode.com/problem/reverse-words-in-a-string-ii/description)| [Python3](Python/string/ReverseWordsII.py)||
 |4|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[JavaScript](JavaScript/string/ReverseString.js)||
 |5|[Valid Anagram](https://www.lintcode.com/problem/valid-anagram/description)|[JavaScript](JavaScript/string/Anagram.js)||
-|6|[Rotate String](https://www.lintcode.com/problem/rotate-string/description)|[Java](Java/string/RotateString.java), [Python](Python/string/RotateString.py)|部分逆序|
-|7|[Palindrome Number](https://www.lintcode.com/problem/palindrome-number/description)|[JavaScript](JavaScript/string/IsPalindromeNum.js), [Python](Python/string/IsPalindromeNum.py)||
-|8|[Valid Parenthesis String](https://www.lintcode.com/problem/valid-parenthesis-string/description)| [Python](Python/string/CheckValidString.py)||
+|6|[Rotate String](https://www.lintcode.com/problem/rotate-string/description)|[Java](Java/string/RotateString.java), [Python3](Python/string/RotateString.py)|部分逆序|
+|7|[Palindrome Number](https://www.lintcode.com/problem/palindrome-number/description)|[JavaScript](JavaScript/string/IsPalindromeNum.js), [Python3](Python/string/IsPalindromeNum.py)||
+|8|[Valid Parenthesis String](https://www.lintcode.com/problem/valid-parenthesis-string/description)| [Python3](Python/string/CheckValidString.py)||
 ||**[String 算法总结](Note/string.md)**||**[Summary](Note/string.md)**|
 
 ## DP
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
-|1|[Minimum Path Sum](https://www.lintcode.com/problem/minimum-path-sum/description)|[Java](Java/dp/MinPathSum.java), [Python](Python/dp/MinimumPathSum.py)|坐标型|
-|2|[Unique Paths](https://www.lintcode.com/problem/unique-paths/description)|[Java](Java/dp/UniquePaths.java), [Python](Python/dp/UniquePaths.py)|坐标型|
-|3|[Unique Paths II](https://www.lintcode.com/problem/unique-paths-ii/description)|[Java](Java/dp/UniquePathII.java), [Python](Python/dp/UniquePathsII.py)|坐标型|
-|4|[Fibonacci](https://www.lintcode.com/problem/fibonacci/description)|[Python](Python/dp/Fibonacci.py)|斐波那契|
-|5|[Climbing Stairs](https://www.lintcode.com/problem/climbing-stairs/description)|[Java](Java/dp/ClimbStairs.java), [Python](Python/dp/ClimbStairs.py)|斐波那契变体|
-|6|[Jump Game](https://www.lintcode.com/problem/jump-game/description)|[Python](Python/dp/JumpGame.py)||
-|7|[Triangle](https://www.lintcode.com/problem/triangle/description)|[Python](Python/dp/Triangle.py)||
-|8|[Longest Increasing Subsequence](https://www.lintcode.com/problem/longest-increasing-subsequence/description)|[Java](Java/dp/LongestIncreasingSubsequence.java), [Python](Python/dp/LongestIncreasingSubsequence.py)|序列型|
-|9|[Longest Common Subsequence](https://www.lintcode.com/problem/longest-common-subsequence/)|[Java](Java/dp/LongestCommonSubsequence.java), [Python](Python/dp/LongestCommonSubsequence.py)|序列型|
-|10|[Longest Continuous Increasing Subsequence](https://www.lintcode.com/problem/longest-continuous-increasing-subsequence/description)| [Python](Python/dp/LongestContinuousIncreasingSubsequence.py)||
+|1|[Minimum Path Sum](https://www.lintcode.com/problem/minimum-path-sum/description)|[Java](Java/dp/MinPathSum.java), [Python3](Python/dp/MinimumPathSum.py)|坐标型|
+|2|[Unique Paths](https://www.lintcode.com/problem/unique-paths/description)|[Java](Java/dp/UniquePaths.java), [Python3](Python/dp/UniquePaths.py)|坐标型|
+|3|[Unique Paths II](https://www.lintcode.com/problem/unique-paths-ii/description)|[Java](Java/dp/UniquePathII.java), [Python3](Python/dp/UniquePathsII.py)|坐标型|
+|4|[Fibonacci](https://www.lintcode.com/problem/fibonacci/description)|[Python3](Python/dp/Fibonacci.py)|斐波那契|
+|5|[Climbing Stairs](https://www.lintcode.com/problem/climbing-stairs/description)|[Java](Java/dp/ClimbStairs.java), [Python3](Python/dp/ClimbStairs.py)|斐波那契变体|
+|6|[Jump Game](https://www.lintcode.com/problem/jump-game/description)|[Python3](Python/dp/JumpGame.py)||
+|7|[Triangle](https://www.lintcode.com/problem/triangle/description)|[Python3](Python/dp/Triangle.py)||
+|8|[Longest Increasing Subsequence](https://www.lintcode.com/problem/longest-increasing-subsequence/description)|[Java](Java/dp/LongestIncreasingSubsequence.java), [Python3](Python/dp/LongestIncreasingSubsequence.py)|序列型|
+|9|[Longest Common Subsequence](https://www.lintcode.com/problem/longest-common-subsequence/)|[Java](Java/dp/LongestCommonSubsequence.java), [Python3](Python/dp/LongestCommonSubsequence.py)|序列型|
+|10|[Longest Continuous Increasing Subsequence](https://www.lintcode.com/problem/longest-continuous-increasing-subsequence/description)| [Python3](Python/dp/LongestContinuousIncreasingSubsequence.py)||
 |11|[Edit Distance](https://www.lintcode.com/problem/edit-distance/description)|[Java](Java/dp/EditDistance.java)|序列型|
-|12|[Paint Fence](https://www.lintcode.com/problem/paint-fence/description)| [Python](Python/dp/PaintFence.py)||
-|13|[Range Sum Query](https://www.lintcode.com/problem/range-sum-query-immutable/description)| [Python](Python/dp/RangeSumQuery.py)||
-|14|[Interleaving String](https://www.lintcode.com/problem/interleaving-string/description)| [Python](Python/dp/isInterleave.py)
+|12|[Paint Fence](https://www.lintcode.com/problem/paint-fence/description)| [Python3](Python/dp/PaintFence.py)||
+|13|[Range Sum Query](https://www.lintcode.com/problem/range-sum-query-immutable/description)| [Python3](Python/dp/RangeSumQuery.py)||
+|14|[Interleaving String](https://www.lintcode.com/problem/interleaving-string/description)| [Python3](Python/dp/isInterleave.py)
 ||**[动态规划算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
