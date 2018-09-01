@@ -89,6 +89,10 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |5|[Move Zeros](https://leetcode.com/problems/move-zeroes/description/)|[JavaScript](JavaScript/array/MoveZeros.js), [Python3](Python/array/MoveZeros.py)||
 |6|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)|[JavaScript](JavaScript/array/FindDisappearNumbers.js), [Python3](Python/array/FindDisappearNumbers.py)||
 |7|[Majority Element](https://leetcode.com/problems/majority-element/description/)|[JavaScript](JavaScript/array/MajorityNumber.js), [Python3](Python//array/MajorityNumber.py)||
+|8|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)| [Python3](Python/array/matrixReshape.py)||
+|9|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)| [Python3](Python/array/flipAndInvertImage.py)||
+|10|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/)| [Python3](Python/array/arrayPairSum.py)|| 
+|11|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)| [Python3](Python/array/transpose.py)||
 ||**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
 
 ## Linked List
@@ -126,9 +130,6 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |6|[Rotate String](https://www.lintcode.com/problem/rotate-string/description)|[Java](Java/string/RotateString.java), [Python3](Python/string/RotateString.py)|部分逆序|
 |7|[Palindrome Number](https://www.lintcode.com/problem/palindrome-number/description)|[JavaScript](JavaScript/string/IsPalindromeNum.js), [Python3](Python/string/IsPalindromeNum.py)||
 |8|[Valid Parenthesis String](https://www.lintcode.com/problem/valid-parenthesis-string/description)| [Python3](Python/string/CheckValidString.py)||
-|9|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)| [Python3](Python/array/flipAndInvertImage.py)||
-|10|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/)| [Python3](Python/array/arrayPairSum.py)|| 
-|11|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)| [Python3](Python/array/transpose.py)||
 ||**[String 算法总结](Note/string.md)**||**[Summary](Note/string.md)**|
 
 ## DP
