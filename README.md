@@ -85,9 +85,9 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |1|[Maximum Subarray](https://www.lintcode.com/problem/maximum-subarray/description)|[Java](Java/array/MaxSubarray.java), [JavaScript](JavaScript/array/MaxSubarray.js), [Python3](Python/array/MaxSubarray.py)|前缀和|
 |2|[Median of two Sorted Arrays](https://www.lintcode.com/problem/median-of-two-sorted-arrays/description)|[Python3](Python/array/MedianOfSortedArray.py)||
 |3|[Implement Stack by Two Queues](https://www.lintcode.com/problem/implement-stack-by-two-queues/description)|[Java](Java/array/Stack.java)||
-|4|[Single Number](https://leetcode.com/problems/single-number/description/)|[JavaScript](JavaScript/array/SingleNumber.js), [Python](Python/array/SingleNumber.py)||
-|5|[Move Zeros](https://leetcode.com/problems/move-zeroes/description/)|[JavaScript](JavaScript/array/MoveZeros.js), [Python](Python/array/MoveZeros.py)||
-|6|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)|[JavaScript](JavaScript/array/FindDisappearNumbers.js)||
+|4|[Single Number](https://leetcode.com/problems/single-number/description/)|[JavaScript](JavaScript/array/SingleNumber.js), [Python3](Python/array/SingleNumber.py)||
+|5|[Move Zeros](https://leetcode.com/problems/move-zeroes/description/)|[JavaScript](JavaScript/array/MoveZeros.js), [Python3](Python/array/MoveZeros.py)||
+|6|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)|[JavaScript](JavaScript/array/FindDisappearNumbers.js), [Python3](Python/array/FindDisappearNumbers.py)||
 |7|[Majority Element](https://leetcode.com/problems/majority-element/description/)|[JavaScript](JavaScript/array/MajorityNumber.js)||
 ||**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
 
