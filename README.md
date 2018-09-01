@@ -128,6 +128,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |8|[Valid Parenthesis String](https://www.lintcode.com/problem/valid-parenthesis-string/description)| [Python3](Python/string/CheckValidString.py)||
 |9|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)| [Python3](Python/array/flipAndInvertImage.py)||
 |10|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/)| [Python3](Python/array/arrayPairSum.py)|| 
+|11|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)| [Python3](Python/array/transpose.py)||
 ||**[String 算法总结](Note/string.md)**||**[Summary](Note/string.md)**|
 
 ## DP
