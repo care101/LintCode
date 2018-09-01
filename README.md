@@ -126,6 +126,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |6|[Rotate String](https://www.lintcode.com/problem/rotate-string/description)|[Java](Java/string/RotateString.java), [Python3](Python/string/RotateString.py)|部分逆序|
 |7|[Palindrome Number](https://www.lintcode.com/problem/palindrome-number/description)|[JavaScript](JavaScript/string/IsPalindromeNum.js), [Python3](Python/string/IsPalindromeNum.py)||
 |8|[Valid Parenthesis String](https://www.lintcode.com/problem/valid-parenthesis-string/description)| [Python3](Python/string/CheckValidString.py)||
+|9|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)| [Python3](Python/array/flipAndInvertImage.py)||
 ||**[String 算法总结](Note/string.md)**||**[Summary](Note/string.md)**|
 
 ## DP
