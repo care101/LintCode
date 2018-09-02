@@ -103,11 +103,11 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |7|[Majority Element](https://leetcode.com/problems/majority-element/description/)|[JavaScript](JavaScript/array/MajorityNumber.js), [Python3](Python//array/MajorityNumber.py)||
 |8|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)| [Python3](Python/array/matrixReshape.py)||
 |9|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)| [Python3](Python/array/flipAndInvertImage.py)||
-|10|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/)| [Python3](Python/array/arrayPairSum.py)|| 
+|10|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/)|[JavaScript](JavaScript/array/arrayPairSum.js), [Python3](Python/array/arrayPairSum.py)||
 |11|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)| [Python3](Python/array/transpose.py)||
 |12|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)| [Python3](Python/array/isToeplitzMatrix.py)||
-|13|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)| [Python3](Python/array/isMonotonic.py)||
-|14|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)| [Python3](Python/array/findMaxConsecutiveOnes.py)||
+|13|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)|[JavaScript](JavaScript/array/isMonotonic.js), [Python3](Python/array/isMonotonic.py)||
+|14|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)|[JavaScript](JavaScript/array/findMaxConsecutiveOnes.js), [Python3](Python/array/findMaxConsecutiveOnes.py)||
 |15|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)| [Python3](Python/array/maxAreaOfIsland.py)||
 |16|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/)| [Python3](Python/array/fairCandySwap.py)
 ||**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
