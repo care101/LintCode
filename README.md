@@ -4,6 +4,18 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 
 If you found a bug, please please create a issue. Also, I welcome pull request from anyone! Whatever your programming language is.
 
+## Catalog
+
+- [Sort](#sort)
+- [Binary Search](#binary-search)
+- [Two Pointer](#two-pointer)
+- [BFS](#bfs)
+- [DFS](#dfs)
+- [Array](#array)
+- [Linked List](#linked-list)
+- [String](#string)
+- [Dynamic Programming](#dp)
+
 ## Sort
 
 | #   |  Problem  |  Solution  |  Keywords  |
@@ -33,7 +45,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |12|[Fast Power](https://www.lintcode.com/problem/fast-power/description)||**TODO**|
 ||**[二分法总结](Note/binarysearch.md)**||**[Summary](Note/binarysearch.md)**|
 
-## Two pointer
+## Two Pointer
 
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
