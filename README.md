@@ -117,6 +117,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |21|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/)| [Python3](Python/array/findShortestSubArray.py)||
 |22|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/)| [Python3](Python/array/largeGroupPositions.py)||
 |23|[Missing Number](https://leetcode.com/problems/missing-number/description/)| [Python3](Python/array/missingNumber.py)||
+|24|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/)| [Python3](Python/array/maximumProduct.py)||
 ||**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
 
 ## Linked List
