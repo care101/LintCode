@@ -118,6 +118,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |22|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/)| [Python3](Python/array/largeGroupPositions.py)||
 |23|[Missing Number](https://leetcode.com/problems/missing-number/description/)| [Python3](Python/array/missingNumber.py)||
 |24|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/)| [Python3](Python/array/maximumProduct.py)||
+|25|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)|[JavaScript](JavaScript/array/numJewelsInStones.js)||
 ||**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
 
 ## Linked List
