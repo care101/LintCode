@@ -122,6 +122,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |26|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)| [Python3](Python/array/minCostClimbingStairs.py)||
 |27|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)| [Python3](Python/array/findLengthOfLCIS.py)||
 |28|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)| [Python3](Python/array/generate.py)||
+|29|[Remove Element](https://leetcode.com/problems/remove-element/description/)| [Python3](Python/array/removeElement.py)||
 ||**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
 
 ## Linked List
