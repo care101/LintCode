@@ -2,8 +2,6 @@
 
 LintCode/LeetCode algorithm written by Java or python or something else.
 
-If you found a bug, please please create a issue. Also, I welcome pull request from anyone! Whatever your programming language is.
-
 ## Catalog
 
 - [Sort](#sort)
@@ -15,6 +13,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 - [Linked List](#linked-list)
 - [String](#string)
 - [Dynamic Programming](#dp)
+- [Binary Tree](#binary-tree)
 
 ## Sort
 
@@ -102,7 +101,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |6|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)|[JavaScript](JavaScript/array/FindDisappearNumbers.js), [Python3](Python/array/FindDisappearNumbers.py)||
 |7|[Majority Element](https://leetcode.com/problems/majority-element/description/)|[JavaScript](JavaScript/array/MajorityNumber.js), [Python3](Python//array/MajorityNumber.py)||
 |8|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)| [Python3](Python/array/matrixReshape.py)||
-|9|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)| [Python3](Python/array/flipAndInvertImage.py)||
+|9|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)|[JavaScript](JavaScript/array/flipAndInvertImage.js), [Python3](Python/array/flipAndInvertImage.py)||
 |10|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/)|[JavaScript](JavaScript/array/arrayPairSum.js), [Python3](Python/array/arrayPairSum.py)||
 |11|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)| [Python3](Python/array/transpose.py)||
 |12|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)| [Python3](Python/array/isToeplitzMatrix.py)||
@@ -111,7 +110,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |15|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)| [Python3](Python/array/maxAreaOfIsland.py)||
 |16|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/)| [Python3](Python/array/fairCandySwap.py)
 |17|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)| [Python3](Python/array/containsDuplicate.py)||
-|18|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)| [Python3](Python/array/twoSumII.py)||
+|18|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[JavaScript](JavaScript/array/twoSumII.js), [Python3](Python/array/twoSumII.py)|HashMap, Binary Search|
 |19|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)| [Python3](Python/array/isOneBitCharacter,py)||
 |20|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)| [Python3](Python/array/maxProfit.py)||
 |21|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/)| [Python3](Python/array/findShortestSubArray.py)||
@@ -123,6 +122,7 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |27|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)| [Python3](Python/array/findLengthOfLCIS.py)||
 |28|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)| [Python3](Python/array/generate.py)||
 |29|[Remove Element](https://leetcode.com/problems/remove-element/description/)| [Python3](Python/array/removeElement.py)||
+|30|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)|[JavaScript](JavaScript/array/peakIndexInMountainArray.js)|Binary Search|
 ||**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
 
 ## Linked List
@@ -181,3 +181,9 @@ If you found a bug, please please create a issue. Also, I welcome pull request f
 |13|[Range Sum Query](https://www.lintcode.com/problem/range-sum-query-immutable/description)| [Python3](Python/dp/RangeSumQuery.py)||
 |14|[Interleaving String](https://www.lintcode.com/problem/interleaving-string/description)| [Python3](Python/dp/isInterleave.py)
 ||**[动态规划算法总结](Note/dp/dp.md)**||**[Summary](Note/dp/dp.md)**|
+
+## Binary Tree
+
+| #   |  Problem  |  Solution  |  Keywords  |
+| --- | --------- | :--------: | :--------: |
+|1|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)|[JavaScript](JavaScript/binarytree/mergeTrees.js)||
