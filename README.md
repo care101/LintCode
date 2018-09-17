@@ -123,6 +123,7 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 |28|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)| [Python3](Python/array/generate.py)||
 |29|[Remove Element](https://leetcode.com/problems/remove-element/description/)| [Python3](Python/array/removeElement.py)||
 |30|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)|[JavaScript](JavaScript/array/peakIndexInMountainArray.js)|Binary Search|
+|31|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)| [Python3](Python/array/sortArrayByParity.py)||
 ||**[Array 算法总结](Note/array.md)**||**[Summary](Note/array.md)**|
 
 ## Linked List
