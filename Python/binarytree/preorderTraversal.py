@@ -11,12 +11,8 @@ class Solution:
         """
         :type root: TreeNode
         :rtype: List[int]
-        @ Solution: 递归 & 非递归 
-        - 递归: 按照先根节点，左节点，右节点递归即可；
-        - 非递归：利用栈，对于当前的root，先压入右节点，再压入左节点；当栈不为空，就一直遍历；
         """
-
-        # Solution2: recursion        
+        # solution 1: recursion
         if not root:
             return []        
         ans = []
@@ -25,8 +21,7 @@ class Solution:
         return ans        
 
 
-
-        # Solution 1: loop
+        # solution 2: loop
         if not root:
             return [] 
         ans = []
@@ -40,5 +35,6 @@ class Solution:
             if temp.left:
                 stack.append(temp.left)
         return ans
+        
 
 

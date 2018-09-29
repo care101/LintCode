@@ -190,4 +190,6 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 | #   |  Problem  |  Solution  |  Keywords  |
 | --- | --------- | :--------: | :--------: |
 |1|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)|[JavaScript](JavaScript/binarytree/mergeTrees.js)||
-|2|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Python3](Python3/binarytree/preorderTraversal.py)||
+|2|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Python3](Python/binarytree/preorderTraversal.py)||
+|3|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Python3](Python/binarytree/inorderTraversal.py)||
+|4|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python3](Python/binarytree/postorderTraversal.py)||
