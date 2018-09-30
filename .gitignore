@@ -5,3 +5,5 @@ src
 .vscode
 TODO.md
 test.js
+spaceReplacement.js
+spaceReplacement.py

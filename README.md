@@ -1,6 +1,6 @@
 # LintCode
 
-LintCode/LeetCode algorithm written by Java or python or something else.
+LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 
 ## Catalog
 
@@ -171,7 +171,7 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 |1|[Minimum Path Sum](https://www.lintcode.com/problem/minimum-path-sum/description)|[Java](Java/dp/MinPathSum.java), [Python3](Python/dp/MinimumPathSum.py)|坐标型|
 |2|[Unique Paths](https://www.lintcode.com/problem/unique-paths/description)|[Java](Java/dp/UniquePaths.java), [Python3](Python/dp/UniquePaths.py)|坐标型|
 |3|[Unique Paths II](https://www.lintcode.com/problem/unique-paths-ii/description)|[Java](Java/dp/UniquePathII.java), [Python3](Python/dp/UniquePathsII.py)|坐标型|
-|4|[Fibonacci](https://www.lintcode.com/problem/fibonacci/description)|[Python3](Python/dp/Fibonacci.py)|斐波那契|
+|4|[Fibonacci](https://www.lintcode.com/problem/fibonacci/description)|[JavaScript](JavaScript/dp/fibonacci.js), [Python3](Python/dp/Fibonacci.py)|斐波那契|
 |5|[Climbing Stairs](https://www.lintcode.com/problem/climbing-stairs/description)|[Java](Java/dp/ClimbStairs.java), [Python3](Python/dp/ClimbStairs.py)|斐波那契变体|
 |6|[Jump Game](https://www.lintcode.com/problem/jump-game/description)|[Python3](Python/dp/JumpGame.py)||
 |7|[Triangle](https://www.lintcode.com/problem/triangle/description)|[Python3](Python/dp/Triangle.py)||

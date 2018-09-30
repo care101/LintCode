@@ -1,7 +1,5 @@
 # 动态规划（一）
 
-## 定义
-
 动态规划可以理解为用来优化递归的，比起递归，它少去了重复计算的部分。
 
 ## 通过 Fibonacci Sequence 理解递归
@@ -20,7 +18,7 @@ Fib(i) = Fib(i - 1) + Fib(i - 2);
 
 ### 递归出口
 
-第二步，寻找递归出口，很显然当 `i == 0` 时，`Fib(i) == 0`，当 `i == 1` 时，`Fib(i) == 1`。
+第二步，寻找递归出口，当 `i == 0` 时，`Fib(i) == 0`；当 `i == 1` 时，`Fib(i) == 1`。
 
 ### 递归代码(O(2^n))
 
@@ -28,17 +26,14 @@ Fib(i) = Fib(i - 1) + Fib(i - 2);
 
 ``` java
 public int fibnacci(int n) {
-  if (n == 1) {
-    return 0;
-  }
-  if (n == 2) {
-    return 1;
+  if (n <= 1) {
+    return n;
   }
   return fibnacci(n - 1) + fibnacci(n - 2);
 }
 ```
 
-这样的递归代码会产生不少的重复计算，又叫重叠子问题(overlap sub-problems)，导致时间复杂度为 `O(2^n)`。比如，如果我要计算 Fib(5)：
+这样的递归代码会产生不少的重复计算，又叫[重叠子问题(overlap sub-problems)](https://en.wikipedia.org/wiki/Overlapping_subproblems)，导致时间复杂度为 `O(2^n)`。比如，如果我要计算 Fib(5)：
 
 Fib(5) = Fib(4) + Fib(3)
 
@@ -56,7 +51,7 @@ F(2) F(1)
 
 因此，我们可以想到这样一种方法，当第一次求出 F(3) 时，就把这个值保存下来，在下一次需要求 F(3) 时，直接读取保存下来的值。这样的话，每个数只需要求解一次，时间复杂度下降到 `O(n)`。
 
-这种利用保存中间值来去除重复计算的方式差不多就是动态规划的本质。
+**这种利用保存中间值来去除重复计算的方式差不多就是动态规划的本质。**
 
 ### 非递归代码(O(n))
 
@@ -71,27 +66,23 @@ arr[i] = arr[i - 1] + arr[i - 2]
 初始化数组：
 
 ``` java
-arr[0] = 0; // 任意值都行，因为我们不用这一位
-arr[1] = 0;
-arr[2] = 1;
+arr[0] = 0;
+arr[1] = 1;
 ```
 
-通过遍历 n ，将值存入数组后，最终的结果为 `arr[n]`。
+通过遍历 n，将值存入数组后，最终的结果为 `arr[n]`。
 
 代码：
 
 ``` java
 public int fibnacci(int n) {
-  if (n == 1) {
-    return 0;
-  }
-  if (n == 2) {
-    return 1;
+  if (n <= 1) {
+    return n;
   }
   int[] arr = new int[n + 1];
-  arr[1] = 0; arr[2] = 1;
+  arr[0] = 0; arr[1] = 1;
 
-  for (int i = 3; i <= n; i++) {
+  for (int i = 2; i <= n; i++) {
     arr[i] = arr[i - 1] + arr[i - 2];
   }
   return arr[n];
