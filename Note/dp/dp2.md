@@ -20,11 +20,11 @@
 |--| :--:| :--: | :--: | :--: |
 |4|1|1|9|1|
 
-首先看第一题，要求一个最大值，可以理解为求一个最优解。这类题是典型的动态规划题，最主要的是我们需要找到状态转移方程式。
+首先看第一题，要求一个最大值，可以理解为求一个最优解。这类题是典型的动态规划题，最主要的是需要找到状态转移方程式。
 
 #### 递推公式
 
-我们假设函数 OPT(i) 代表从起点到 i 为止的最优解。比如 OPT(arr[5]) 代表当走到 arr[5] 时和的最大值，此时的最优解由只由两种情况决定，那就是选择 arr[5] 时的情况以及不选 arr[5] 时的情况：
+我们假设函数 OPT(i) 代表从起点到 i 为止的最优解。比如 OPT(arr[5]) 代表当走到 arr[5] 时和的最大值，此时的最优解只由两种情况决定，那就是选择 arr[5] 时的情况以及不选 arr[5] 时的情况：
 
 ``` plain
                   / (选) arr[5] + OPT(3)
@@ -48,6 +48,8 @@ OPT(arr[5]) = max
 
 #### 递归与非递归代码
 
+递归代码：
+
 ``` java
 public int rec_maxSum(int[] arr, int i) {
   if (arr == null || arr.length == 0) {
@@ -62,6 +64,8 @@ public int rec_maxSum(int[] arr, int i) {
   return Math.max(rec_maxSum(arr, i - 2) + arr[i], rec_maxSum(arr, i - 1));
 }
 ```
+
+非递归代码：
 
 ``` java
 public int dp_maxSum(int[] arr) {

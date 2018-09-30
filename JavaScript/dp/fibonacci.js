@@ -15,4 +15,4 @@ const fibonacci = function(n) {
     arr[i] = arr[i - 1] + arr[i - 2];
   }
   return arr[n];
-}
+};
