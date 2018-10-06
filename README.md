@@ -1,6 +1,6 @@
 # LintCode
 
-LintCode/LeetCode algorithm written by Java, Python and JavaScript.
+LintCode/LeetCode algorithm written by Java or python or something else.
 
 ## Catalog
 
@@ -171,8 +171,8 @@ LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 |1|[Minimum Path Sum](https://www.lintcode.com/problem/minimum-path-sum/description)|[Java](Java/dp/MinPathSum.java), [Python3](Python/dp/MinimumPathSum.py)|坐标型|
 |2|[Unique Paths](https://www.lintcode.com/problem/unique-paths/description)|[Java](Java/dp/UniquePaths.java), [Python3](Python/dp/UniquePaths.py)|坐标型|
 |3|[Unique Paths II](https://www.lintcode.com/problem/unique-paths-ii/description)|[Java](Java/dp/UniquePathII.java), [Python3](Python/dp/UniquePathsII.py)|坐标型|
-|4|[Fibonacci](https://www.lintcode.com/problem/fibonacci/description)|[JavaScript](JavaScript/dp/fibonacci.js), [Python3](Python/dp/Fibonacci.py)|斐波那契|
-|5|[Climbing Stairs](https://www.lintcode.com/problem/climbing-stairs/description)|[Java](Java/dp/ClimbStairs.java), [Python3](Python/dp/ClimbStairs.py), [JavaScript](JavaScript/dp/climbStairs.js)|斐波那契变体|
+|4|[Fibonacci](https://www.lintcode.com/problem/fibonacci/description)|[Python3](Python/dp/Fibonacci.py)|斐波那契|
+|5|[Climbing Stairs](https://www.lintcode.com/problem/climbing-stairs/description)|[Java](Java/dp/ClimbStairs.java), [Python3](Python/dp/ClimbStairs.py)|斐波那契变体|
 |6|[Jump Game](https://www.lintcode.com/problem/jump-game/description)|[Python3](Python/dp/JumpGame.py)||
 |7|[Triangle](https://www.lintcode.com/problem/triangle/description)|[Python3](Python/dp/Triangle.py)||
 |8|[Longest Increasing Subsequence](https://www.lintcode.com/problem/longest-increasing-subsequence/description)|[Java](Java/dp/LongestIncreasingSubsequence.java), [Python3](Python/dp/LongestIncreasingSubsequence.py)|序列型|
@@ -193,3 +193,4 @@ LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 |2|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Python3](Python/binarytree/preorderTraversal.py)||
 |3|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Python3](Python/binarytree/inorderTraversal.py)||
 |4|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python3](Python/binarytree/postorderTraversal.py)||
+|5|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Python3](Python/binarytree/buildTree.py)||
