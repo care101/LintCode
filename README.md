@@ -194,3 +194,4 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 |3|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Python3](Python/binarytree/inorderTraversal.py)||
 |4|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python3](Python/binarytree/postorderTraversal.py)||
 |5|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Python3](Python/binarytree/buildTree.py)||
+|6|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [Python3](Python/binarytree/levelOrder.py)||
