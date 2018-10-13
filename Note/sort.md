@@ -92,8 +92,8 @@
 | 计数排序 | `O(n)` | `O(m)` | 稳定 |
 | 基数排序 | `O(n)` | `O(m)` | 稳定 |
 
-| Command | Description |
-| --- | --- |
+| 名称 | 时间复杂度 | 空间复杂度 | 稳定性 |
+| --- | --- | --- | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
 
