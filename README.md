@@ -197,3 +197,5 @@ LintCode/LeetCode algorithm written by Java or python or something else.
 |6|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [Python3](Python/binarytree/levelOrder.py)||
 |7|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)| [Python3](Python/binarytree/levelOrderBottom.py)||
 |8|[Binary Tree Zigzag Level order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python3](Python/binarytree/zigzagLevelOrder.py)||
+|9|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python3](Python/binarytree/maxDepth.py)||
+|10|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/)| [Python3](Python/binarytree/isBalanced.py)||
