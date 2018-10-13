@@ -92,6 +92,11 @@
 | 计数排序 | `O(n)` | `O(m)` | 稳定 |
 | 基数排序 | `O(n)` | `O(m)` | 稳定 |
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 **Notes：**
 
 - 计数排序与基数排序中的空间复杂度 `O (m)` 中的 m 指的是同桶的数量。
