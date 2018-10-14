@@ -1,0 +1,26 @@
+{
+  "name": "LintCode",
+  "version": "1.0.0",
+  "description": "LintCode/LeetCode algorithm written by Java or python or something else.",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kexin-Li/LintCode"
+  },
+  "keywords": [],
+  "author": "https://github.com/Kexin-Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kexin-Li/LintCode/issues"
+  },
+  "homepage": "https://github.com/Kexin-Li/LintCode#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.4"
+  }
+}

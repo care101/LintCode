@@ -3,7 +3,6 @@ out
 AlgsProject.iml
 src
 .vscode
-TODO.md
-test.js
 spaceReplacement.js
 spaceReplacement.py
+node_modules
