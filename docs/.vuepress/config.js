@@ -1,18 +1,16 @@
 module.exports = {
   title: 'Algorithm Book',
   description: 'My Algorithm Notes',
-  ga: '',
+  ga: 'UA-124632979-2',
   base: '/LintCode',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      // { text: '排序算法', link: '/sort/' },
       { text: 'Github', link: 'https://github.com/Kexin-Li/LintCode' },
     ],
     sidebar: [
       '/',
       '/sort/',
     ],
-    lastUpdated: 'Last Updated',
   }
 }
