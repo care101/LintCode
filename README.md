@@ -1,6 +1,6 @@
 # LintCode
 
-LintCode/LeetCode algorithm written by Java or python or something else.
+LintCode/LeetCode algorithm written by Java, Python and JavaScript.
 
 ## Catalog
 
